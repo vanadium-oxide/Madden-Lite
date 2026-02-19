@@ -1,0 +1,2251 @@
+﻿Player,#,Team,Pos,HT,WT,Age,Exp,College,Status
+Ray Davis,22,BUF,RB,5'8,220,26,2,Kentucky,ACT
+Cam Lewis,39,BUF,DB,5'9,183,28,6,Buffalo,ACT
+Brandin Cooks,18,BUF,WR,5'10,189,32,12,Oregon State,ACT
+Ty Johnson,26,BUF,RB,5'10,210,28,7,Maryland,ACT
+Matt Prater,15,BUF,K,5'10,175,41,19,UCF,ACT
+James Cook III,4,BUF,RB,5'11,190,26,4,Georgia,ACT
+Maxwell Hairston,31,BUF,CB,5'11,183,22,R,Kentucky,ACT
+Dane Jackson,23,BUF,CB,5'11,180,29,6,Pitt,ACT
+Taron Johnson,7,BUF,CB,5'11,192,29,8,Weber State,ACT
+Curtis Samuel,1,BUF,WR,5'11,195,29,9,Ohio State,ACT
+Darnell Savage,25,BUF,S,5'11,198,28,7,Maryland,ACT
+Tre'Davious White,27,BUF,CB,5'11,192,31,9,Louisiana State,ACT
+Shane Buechele,6,BUF,QB,6'1,210,28,4,SMU,ACT
+Reggie Gilliam,41,BUF,FB,6'1,244,28,6,Toledo,ACT
+Jordan Hancock,37,BUF,DB,6'1,195,22,R,Ohio State,ACT
+Matt Milano,58,BUF,LB,6'1,223,31,9,Boston College,ACT
+Jordan Poyer,21,BUF,S,6'1,191,34,13,Oregon State,ACT
+Khalil Shakir,10,BUF,WR,6'1,190,26,4,Boise State,ACT
+Baylon Spector,54,BUF,LB,6'1,233,27,4,Clemson,ACT
+Shaq Thompson,45,BUF,OLB,6'1,230,31,11,Washington,ACT
+Joe Andreessen,44,BUF,LB,6'1,232,26,2,Buffalo,ACT
+Christian Benford,47,BUF,CB,6'1,205,25,4,Villanova,ACT
+Terrel Bernard,8,BUF,LB,6'1,224,26,4,Baylor,ACT
+Ed Oliver,91,BUF,DT,6'1,287,28,7,Houston,ACT
+Javon Solomon,56,BUF,DE,6'1,247,25,2,Troy,ACT
+Jalen Virgil,13,BUF,WR,6'1,210,27,4,Appalachian State,ACT
+Cole Bishop,24,BUF,S,6'2,207,23,2,Utah,ACT
+Reid Ferguson,69,BUF,LS,6'2,235,31,9,Louisiana State,ACT
+Larry Ogunjobi,99,BUF,DT,6'2,305,31,9,Charlotte,ACT
+Dorian Williams,42,BUF,LB,6'2,230,24,3,Tulane,ACT
+Mitch Wishnowsky,19,BUF,P,6'2,220,33,7,Utah,ACT
+Sam Franklin Jr.,28,BUF,DB,6'3,210,30,6,Temple,ACT
+Mitchell Trubisky,11,BUF,QB,6'3,222,31,9,North Carolina,ACT
+Keon Coleman,0,BUF,WR,6'4,215,22,2,Florida State,ACT
+Jackson Hawes,85,BUF,TE,6'4,253,25,R,Georgia Tech,ACT
+DaQuan Jones,92,BUF,DT,6'4,320,34,12,Penn State,ACT
+Dalton Kincaid,86,BUF,TE,6'4,240,26,3,Utah,ACT
+Dawson Knox,88,BUF,TE,6'4,254,29,7,Mississippi,ACT
+Phidarian Mathis,72,BUF,DT,6'4,312,27,4,Alabama,ACT
+T.J. Sanders,98,BUF,DT,6'4,297,22,R,South Carolina,ACT
+Sedrick Van Pran-Granger,62,BUF,C/G,6'4,310,24,2,Georgia,ACT
+Josh Allen,17,BUF,QB,6'5,237,29,8,Wyoming,ACT
+Alec Anderson,70,BUF,T,6'5,305,26,3,UCLA,ACT
+Joey Bosa,97,BUF,DE,6'5,280,30,10,Ohio State,ACT
+Dion Dawkins,73,BUF,T,6'5,320,31,9,Temple,ACT
+Tylan Grable,68,BUF,T,6'5,309,26,2,UCF,ACT
+Connor McGovern,66,BUF,G,6'5,318,28,7,Penn State,ACT
+O'Cyrus Torrence,64,BUF,G,6'5,347,26,3,Florida,ACT
+David Edwards,76,BUF,G,6'6,308,28,7,Wisconsin,ACT
+A.J. Epenesa,57,BUF,DE,6'6,260,27,6,Iowa,ACT
+Greg Rousseau,50,BUF,DE,6'6,266,25,5,Miami,ACT
+Ryan Van Demark,74,BUF,T,6'6,307,27,3,Connecticut,ACT
+Keleki Latu,83,BUF,TE,6'7,244,23,R,Washington,ACT
+Deone Walker,96,BUF,DT,6'7,331,21,R,Kentucky,ACT
+Spencer Brown,79,BUF,T,6'8,311,27,5,Northern Iowa,ACT
+Tyler Bass,2,BUF,K,5'10,183,29,6,Georgia Southern,IR
+DeWayne Carter,90,BUF,DT,6'3,305,25,2,Duke,IR
+Gabe Davis,13,BUF,WR,6'2,225,26,6,UCF,IR
+Damar Hamlin,3,BUF,S,6'1,200,27,5,Pittsburgh,IR
+Michael Hoecht,55,BUF,DE,6'4,310,28,5,Brown,IR
+Landon Jackson,94,BUF,EDGE,6'6,264,23,R,Arkansas,IR
+Cameron Johnston,16,BUF,P,5'11,194,33,8,Ohio State,IR
+Chase Lundt,77,BUF,OT,6'7,304,25,R,Connecticut,IR
+Wande Owens,30,BUF,DB,5'11,210,24,R,New Hampshire,IR
+Joshua Palmer,5,BUF,WR,6'1,210,26,5,Tennessee,IR
+Jordan Phillips,52,BUF,DT,6'6,341,33,11,Oklahoma,IR
+Taylor Rapp,9,BUF,S,6'1,208,28,7,Washington,IR
+Tyrell Shavers,14,BUF,WR,6'4,211,26,1,San Diego State,IR
+Dorian Strong,43,BUF,CB,6'1,185,23,R,Virginia Tech,IR
+De'Von Achane,28,MIA,RB,5'9,191,24,3,Texas A&M,ACT
+Jake Bailey,16,MIA,P,6'2,212,28,7,Stanford,ACT
+Miles Battle,35,MIA,CB,6'3,196,26,1,Utah,ACT
+Quinton Bell,56,MIA,LB,6'4,258,29,4,Prairie View A&M,ACT
+Zeek Biggers,93,MIA,DT,6'6,319,22,R,Georgia Tech,ACT
+Ethan Bonner,27,MIA,CB,6'1,190,26,2,Stanford,ACT
+Larry Borom,79,MIA,OL,6'5,325,26,5,Missouri,ACT
+JuJu Brents,32,MIA,CB,6'3,198,26,3,Kansas State,ACT
+Aaron Brewer,55,MIA,OL,6'1,295,28,6,Texas State,ACT
+K.J. Britt,3,MIA,LB,6'1,240,26,5,Auburn,ACT
+Jordyn Brooks,20,MIA,LB,6'1,240,28,6,Texas Tech,ACT
+Omar Brown,N/A,MIA,DB,6'1,200,25,1,Nebraska,ACT
+Daniel Brunskill,64,MIA,OL,6'5,300,32,7,San Diego State,ACT
+Artie Burns,23,MIA,CB,6'1,187,30,10,Miami,ACT
+Matthew Butler,91,MIA,DT,6'3,305,26,3,Tennessee,ACT
+Yodny Cajuste,63,MIA,OL,6'5,310,29,5,West Virginia,ACT
+Elijah Campbell,22,MIA,DB,5'11,200,30,6,Northern Iowa,ACT
+Joe Cardona,49,MIA,LS,6'2,241,33,11,Navy,ACT
+Bradley Chubb,2,MIA,LB,6'4,268,29,8,N.C. State,ACT
+Jordan Colbert,43,MIA,S,6'2,218,25,1,Rhode Island,ACT
+Seth Coleman,N/A,MIA,LB,6'3,246,25,R,Illinois,ACT
+Jalin Conyers,47,MIA,TE,6'4,265,24,R,Texas Tech,ACT
+Keith Cooper Jr.,N/A,MIA,DE,6'5,280,22,R,Houston,ACT
+Braeden Daniels,N/A,MIA,G,6'4,297,25,2,Utah,ACT
+James Daniels,78,MIA,OL,6'4,320,28,8,Iowa,ACT
+Ashtyn Davis,21,MIA,S,6'1,205,29,6,California,ACT
+Tyrel Dodson,25,MIA,LB,6'1,237,27,6,Texas A&M,ACT
+Rasul Douglas,26,MIA,CB,6'2,209,31,9,West Virginia,ACT
+Storm Duck,36,MIA,CB,6'1,195,25,2,Louisville,ACT
+Greg Dulcich,85,MIA,TE,6'4,245,25,4,UCLA,ACT
+Donovan Edwards,48,MIA,RB,6'1,212,22,R,Michigan,ACT
+Liam Eichenberg,74,MIA,OL,6'6,300,28,5,Notre Dame,ACT
+Dee Eskridge,82,MIA,WR,5'9,190,28,5,Western Michigan,ACT
+Quinn Ewers,14,MIA,QB,6'2,209,22,R,Texas,ACT
+Obinna Eze,62,MIA,OL,6'8,325,27,1,TCU,ACT
+Minkah Fitzpatrick,29,MIA,S,6'1,207,29,8,Alabama,ACT
+Willie Gay Jr.,40,MIA,LB,6'1,246,28,6,Mississippi State,ACT
+Cameron Goode,53,MIA,LB,6'3,245,27,3,California,ACT
+Ollie Gordon II,31,MIA,RB,6'2,225,22,R,Oklahoma State,ACT
+Kenneth Grant,90,MIA,DT,6'3,335,22,R,Michigan,ACT
+A.J. Green III,24,MIA,CB,6'2,198,27,3,Oklahoma State,ACT
+AJ Henning,88,MIA,WR,5'10,192,24,R,Northwestern,ACT
+Julian Hill,89,MIA,TE,6'4,251,25,3,Campbell University,ACT
+Tyreek Hill,10,MIA,WR,5'10,191,31,10,West Alabama,ACT
+Alex Huntley,96,MIA,DT,6'4,298,24,R,South Carolina,ACT
+Germain Ifedi,62,MIA,OL,6'5,325,31,10,Texas A&M,ACT
+Alec Ingold,30,MIA,FB,6'1,232,29,7,Wisconsin,ACT
+Austin Jackson,73,MIA,OL,6'5,310,26,6,USC,ACT
+Caleb Johnson,51,MIA,LB,6'2,227,27,5,Houston Christian University,ACT
+Isaiah Johnson,46,MIA,CB,6'3,205,25,1,Syracuse,ACT
+Benito Jones,95,MIA,DT,6'1,335,28,5,Mississippi,ACT
+Jack Jones,23,MIA,CB,5'11,175,28,4,Arizona State,ACT
+Kader Kohou,4,MIA,CB,5'10,197,27,4,Texas A&M-Commerce,ACT
+Zack Kuntz,92,MIA,TE,6'8,251,26,2,Old Dominion,ACT
+Kendall Lamm,70,MIA,T,6'5,305,33,10,Appalachian State,ACT
+Jason Maitre,43,MIA,CB,5'10,188,26,1,Wisconsin,ACT
+Jason Marshall Jr.,33,MIA,CB,6'1,204,23,R,Florida,ACT
+Terrace Marshall Jr.,N/A,MIA,WR,6'2,200,25,5,LSU,ACT
+Alexander Mattison,8,MIA,RB,5'11,220,27,7,Boise State,ACT
+Derrick McLendon,59,MIA,LB,6'4,250,25,1,Colorado,ACT
+Ifeatu Melifonwu,9,MIA,S,6'3,210,26,5,Syracuse,ACT
+Andrew Meyer,60,MIA,OL,6'3,295,26,2,Texas-El Paso,ACT
+Cam Miller,15,MIA,QB,6'1,211,24,R,North Dakota State,ACT
+K.C. Ossai,57,MIA,LB,6'1,240,23,R,Louisiana,ACT
+Riley Patterson,47,MIA,K,6'1,190,26,5,Memphis,ACT
+Patrick Paul,52,MIA,T,6'7,326,24,2,Houston,ACT
+Jordan Phillips,94,MIA,DT,6'3,305,21,R,Maryland,ACT
+Josh Priebe,68,MIA,OL,6'5,306,24,R,Michigan,ACT
+Chop Robinson,44,MIA,LB,6'3,254,23,2,Penn State,ACT
+Ethan Robinson,38,MIA,CB,6'1,195,22,R,Minnesota,ACT
+Jason Sanders,7,MIA,K,5'11,195,30,8,New Mexico,ACT
+Jonah Savaiinaea,72,MIA,OL,6'5,326,22,R,Arizona,ACT
+Zach Sieler,92,MIA,DT,6'6,300,30,8,Ferris State,ACT
+Kion Smith,71,MIA,OL,6'5,300,27,3,Fayetteville State University,ACT
+Cole Strange,69,MIA,OL,6'5,310,27,4,Tennessee-Chattanooga,ACT
+Tua Tagovailoa,1,MIA,QB,6'1,225,27,6,Alabama,ACT
+Dante Trader Jr.,11,MIA,S,5'11,202,23,R,Maryland,ACT
+Cole Turner,N/A,MIA,TE,6'6,240,25,3,Nevada,ACT
+Jaylen Waddle,17,MIA,WR,5'10,185,27,5,Alabama,ACT
+Darren Waller,83,MIA,TE,6'6,238,33,8,Georgia Tech,ACT
+Carter Warren,N/A,MIA,OT,6'5,311,27,3,Pittsburgh,ACT
+Malik Washington,6,MIA,WR,5'8,195,25,2,Virginia,ACT
+Tahj Washington,84,MIA,WR,5'10,174,24,2,USC,ACT
+Theo Wease Jr.,81,MIA,WR,6'2,210,24,R,Missouri,ACT
+Nick Westbrook-Ikhine,18,MIA,WR,6'2,211,28,6,Indiana,ACT
+Cedrick Wilson Jr.,19,MIA,WR,6'2,197,30,8,Boise State,ACT
+Zach Wilson,0,MIA,QB,6'2,214,26,5,BYU,ACT
+Jackson Woodard,42,MIA,LB,6'2,230,23,R,UNLV,ACT
+Jaylen Wright,5,MIA,RB,5'10,208,22,2,Tennessee,ACT
+Terron Armstead,72,MIA,T,6'5,305,25,12,University of Arkansas at Pine Bluff,ACT
+Tony Adams,22,NYJ,S,5'11,203,27,4,Illinois,ACT
+Braelon Allen,0,NYJ,RB,6'1,235,22,2,Wisconsin,ACT
+Tyler Baron,94,NYJ,DL,6'4,258,24,R,Miami,ACT
+Andrew Beck,47,NYJ,FB,6'3,255,29,6,Texas,ACT
+Kris Boyd,17,NYJ,DB,5'11,201,29,7,Texas,ACT
+Jowon Briggs,91,NYJ,DL,6'1,313,24,2,Cincinnati,ACT
+Tre Brown,30,NYJ,CB,5'10,186,28,5,Oklahoma,ACT
+Jarvis Brownlee Jr.,29,NYJ,DB,5'10,194,24,2,Louisville,ACT
+Irvin Charles,19,NYJ,WR,6'4,219,28,3,Indiana (Pa.),ACT
+Andre Cisco,8,NYJ,S,6'1,210,25,5,Syracuse,ACT
+Dean Clark,35,NYJ,S,6'1,206,24,R,Fresno State,ACT
+Jordan Clark,33,NYJ,CB,5'9,184,24,R,Notre Dame,ACT
+Micheal Clemons,72,NYJ,DL,6'5,263,28,4,Texas A&M,ACT
+Brady Cook,4,NYJ,QB,6'2,215,24,R,Missouri,ACT
+Mac Dalena,N/A,NYJ,WR,5'10,176,24,R,Fresno State,PS
+Isaiah Davis,32,NYJ,RB,6'1,220,23,2,South Dakota State,ACT
+Paschal Ekeji,54,NYJ,DE,6'4,230,23,R,Grey College,ACT
+Olu Fashanu,74,NYJ,OL,6'6,312,23,2,Penn State,ACT
+Justin Fields,7,NYJ,QB,6'3,227,26,5,Ohio State,ACT
+Nick Folk,6,NYJ,K,6'1,222,41,18,Arizona,ACT
+Liam Fornadel,50,NYJ,G,6'4,312,26,1,James Madison,ACT
+Breece Hall,20,NYJ,RB,5'11,217,24,4,Iowa State,ACT
+Gus Hartwig,63,NYJ,C,6'5,312,24,R,Purdue,ACT
+Marquis Hayes,77,NYJ,G,6'5,318,27,2,Oklahoma,ACT
+Jack Heflin,N/A,NYJ,DT,6'3,304,27,2,Iowa,ACT
+Thomas Hennessy,42,NYJ,LS,6'2,246,31,9,Duke,ACT
+Khalil Herbert,31,NYJ,RB,5'9,212,27,5,Virginia Tech,ACT
+Hendon Hooker,1,NYJ,QB,6'3,221,28,3,Tennessee,ACT
+Jermaine Johnson,11,NYJ,LB,6'5,254,27,4,Florida State,ACT
+Tyler Johnson,16,NYJ,WR,6'1,208,27,5,Minnesota,ACT
+Kingsley Jonathan,57,NYJ,DL,6'4,260,27,3,Syracuse,ACT
+Cam Jones,43,NYJ,LB,6'2,227,26,3,Indiana,ACT
+Kobe King,45,NYJ,LB,6'1,250,23,R,Penn State,ACT
+Lenny Krieg,N/A,NYJ,K,6'2,214,23,R,,ACT
+Kohl Levao,60,NYJ,OL,6'6,350,27,1,Hawaii,ACT
+Ochaun Mathis,92,NYJ,LB,6'5,260,27,3,Nebraska,ACT
+Kiko Mauigoa,51,NYJ,LB,6'2,233,22,R,Miami,ACT
+Marcelino McCrary-Ball,41,NYJ,LB,6'1,214,26,2,Indiana,ACT
+Will McDonald IV,9,NYJ,EDGE,6'4,245,26,3,Iowa State,ACT
+Braiden McGregor,55,NYJ,EDGE,6'6,267,24,2,Michigan,ACT
+Austin McNamara,14,NYJ,P,6'4,204,24,1,Texas Tech,ACT
+Armand Membou,70,NYJ,OT,6'4,332,21,R,Missouri,ACT
+John Metchie III,3,NYJ,WR,5'11,187,25,3,Alabama,ACT
+Adonai Mitchell,15,NYJ,WR,6'2,205,23,2,Texas,ACT
+Max Mitchell,61,NYJ,OL,6'6,307,26,4,Louisiana,ACT
+Jarius Monroe,25,NYJ,S,6'2,205,25,1,Tulane,ACT
+Malachi Moore,27,NYJ,DB,5'11,196,24,R,Alabama,ACT
+Josh Myers,71,NYJ,C,6'5,310,27,5,Ohio State,ACT
+Xavier Newman,65,NYJ,OL,6'2,297,26,3,Baylor,ACT
+Kene Nwangwu,34,NYJ,RB,6'1,210,28,5,Iowa State,ACT
+Chukwuma Okorafor,79,NYJ,OL,6'6,320,28,7,Western Michigan,ACT
+Isaiah Oliver,26,NYJ,S,6'1,202,29,8,Colorado,ACT
+Payton Page,69,NYJ,DL,6'4,300,23,R,Clemson,ACT
+Harrison Phillips,97,NYJ,DL,6'3,307,30,8,Stanford,ACT
+Jamaal Pritchett,81,NYJ,WR,5'8,175,22,R,South Alabama,ACT
+Josh Reynolds,83,NYJ,WR,6'3,192,31,9,Texas A&M,ACT
+Jeremy Ruckert,89,NYJ,TE,6'5,250,25,4,Ohio State,ACT
+Khalen Saunders Jr.,99,NYJ,DL,6'1,324,29,7,Western Illinois,ACT
+Jamien Sherwood,44,NYJ,LB,6'2,216,26,5,Auburn,ACT
+John Simpson,76,NYJ,OL,6'4,330,28,6,Clemson,ACT
+Quentin Skinner,88,NYJ,WR,6'5,195,24,R,Kansas,ACT
+Stone Smartt,84,NYJ,TE,6'4,226,27,4,Old Dominion,ACT
+Arian Smith,82,NYJ,WR,6'1,179,24,R,Georgia,ACT
+Chris Smith II,17,NYJ,S,5'11,195,25,3,Georgia,ACT
+Keidron Smith,46,NYJ,DB,6'2,210,26,2,Kentucky,ACT
+Mazi Smith,58,NYJ,DL,6'3,337,24,3,Michigan,ACT
+Brandon Stephens,21,NYJ,CB,6'1,215,28,5,SMU,ACT
+Qwan'tez Stiggers,37,NYJ,CB,6'1,197,24,2,Toronto Argonauts,ACT
+Ja'Sir Taylor,36,NYJ,CB,5'10,185,27,4,Wake Forest,ACT
+Mason Taylor,85,NYJ,TE,6'5,251,21,R,LSU,ACT
+Tyrod Taylor,2,NYJ,QB,6'1,217,36,15,Virginia Tech,ACT
+Azareye'h Thomas,23,NYJ,CB,6'1,197,21,R,Florida State,ACT
+Joe Tippmann,66,NYJ,C,6'6,313,24,3,Wisconsin,ACT
+Jay Tufele,78,NYJ,DL,6'3,305,26,5,USC,ACT
+Alijah Vera-Tucker,75,NYJ,G,6'5,308,26,5,USC,ACT
+Mykal Walker,53,NYJ,LB,6'3,230,28,6,Fresno State,ACT
+Eric Watts,95,NYJ,DL,6'5,277,25,2,Connecticut,ACT
+Isaiah Williams,18,NYJ,WR,5'10,185,25,2,Illinois,ACT
+Quincy Williams,56,NYJ,LB,5'11,230,29,7,Murray State,ACT
+Garrett Wilson,5,NYJ,WR,6'1,183,25,4,Ohio State,ACT
+Samuel Womack III,39,NYJ,CB,5'10,189,26,4,Toledo,ACT
+Jelani Woods,86,NYJ,TE,6'7,253,27,4,Virginia,ACT
+Bailey Zappe,N/A,NYJ,QB,6'1,220,26,4,Western Kentucky,ACT
+Julian Ashby,47,NE,LS,6'1,231,23,R,Vanderbilt,ACT
+Alex Austin,28,NE,CB,6'1,191,24,3,Oregon State,ACT
+Bryce Baringer,17,NE,P,6'2,215,26,3,Michigan State,ACT
+Christian Barmore,90,NE,DT,6'5,315,26,5,Alabama,ACT
+Andy Borregales,36,NE,K,5'11,202,23,R,Miami,ACT
+Kayshon Boutte,9,NE,WR,5'11,197,23,3,LSU,ACT
+Garrett Bradbury,65,NE,C,6'3,300,30,7,N.C. State,ACT
+Ben Brown,77,NE,C,6'5,313,27,3,Mississippi,ACT
+Marcus Bryant,52,NE,OT,6'7,320,23,R,Missouri,ACT
+Will Campbell,66,NE,OT,6'6,319,22,R,LSU,ACT
+K'Lavon Chaisson,44,NE,LB,6'3,255,26,6,LSU,ACT
+Efton Chism III,86,NE,WR,5'10,198,24,R,Eastern Washington,ACT
+Carlton Davis III,7,NE,CB,6'1,206,29,7,Auburn,ACT
+Tommy DeVito,16,NE,QB,6'2,210,27,3,Illinois,ACT
+Stefon Diggs,8,NE,WR,6'1,191,32,11,Maryland,ACT
+CJ Dippre,82,NE,TE,6'5,256,23,R,Alabama,ACT
+Joshua Dobbs,11,NE,QB,6'3,220,31,9,Tennessee,ACT
+DeMario Douglas,3,NE,WR,5'8,192,25,3,Liberty,ACT
+Cory Durden,94,NE,DL,6'4,305,27,1,N.C. State,ACT
+Christian Elliss,53,NE,LB,6'2,231,27,4,Idaho,ACT
+Jack Gibbens,51,NE,LB,6'3,242,27,3,Minnesota,ACT
+Christian Gonzalez,0,NE,CB,6'1,205,23,3,Oregon,ACT
+Jaylinn Hawkins,21,NE,S,6'1,208,28,6,California,ACT
+TreVeyon Henderson,32,NE,RB,5'10,202,23,R,Ohio State,ACT
+Hunter Henry,85,NE,TE,6'5,249,31,10,Arkansas,ACT
+Mack Hollins,13,NE,WR,6'4,221,32,9,North Carolina,ACT
+Austin Hooper,81,NE,TE,6'4,254,31,10,Stanford,ACT
+Anfernee Jennings,33,NE,LB,6'2,255,28,6,Alabama,ACT
+Marcus Jones,25,NE,CB,5'8,188,27,4,Houston,ACT
+Harold Landry III,2,NE,LB,6'2,252,29,8,Boston College,ACT
+Vederian Lowe,59,NE,OT,6'5,315,26,4,Illinois,ACT
+Marte Mapu,15,NE,LB,6'3,230,26,3,Sacramento State,ACT
+Drake Maye,10,NE,QB,6'4,225,23,2,North Carolina,ACT
+Kobee Minor,19,NE,DB,5'11,188,23,R,Memphis,ACT
+Morgan Moses,76,NE,OT,6'6,320,34,12,Virginia,ACT
+Chad Muma,49,NE,LB,6'3,239,26,4,Wyoming,ACT
+Thayer Munford Jr.,74,NE,OT,6'6,331,26,4,Ohio State,ACT
+Mike Onwenu,71,NE,OL,6'3,350,28,6,Michigan,ACT
+Dell Pettus,24,NE,S,5'11,200,24,2,Troy,ACT
+Elijah Ponder,91,NE,LB,6'3,261,23,R,Cal Poly,ACT
+Brenden Schooler,41,NE,S,6'2,210,28,4,Texas,ACT
+Robert Spillane,14,NE,LB,6'1,229,30,7,Western Michigan,ACT
+Rhamondre Stevenson,38,NE,RB,6'1,227,27,5,Oklahoma,ACT
+Bradyn Swinson,43,NE,LB,6'4,255,23,R,LSU,ACT
+Jahlani Tavai,48,NE,LB,6'2,255,29,7,Hawaii,ACT
+Khyiris Tonga,95,NE,DL,6'2,335,29,5,BYU,ACT
+Caedan Wallace,70,NE,OT,6'5,314,25,2,Penn State,ACT
+Jack Westover,37,NE,FB,6'2,245,26,1,Washington,ACT
+Kyle Williams,18,NE,WR,5'11,190,23,R,Washington State,ACT
+Milton Williams,97,NE,DT,6'3,290,26,5,Louisiana Tech,ACT
+Jared Wilson,58,NE,OL,6'3,310,22,R,Georgia,ACT
+Charles Woods,22,NE,CB,5'11,185,25,2,SMU,ACT
+Craig Woodson,31,NE,S,6'1,200,24,R,California,ACT
+Marcellas Dial Jr.,27,NE,DB,6'1,190,25,2,South Carolina,IR
+Yasir Durant,72,NE,T,6'6,330,27,3,Missouri,IR
+Joshua Farmer,92,NE,DT,6'3,312,23,R,Florida State,IR
+Antonio Gibson,4,NE,RB,6'1,228,27,6,Memphis,IR
+Eric Gregory,55,NE,DT,6'3,319,25,R,Arkansas,IR
+Isaiah Iton,68,NE,DT,6'2,277,24,1,Rutgers,IR
+Terrell Jennings,26,NE,RB,6'1,217,25,1,Florida A&M,IR
+Brock Lampe,46,NE,FB,6'1,249,22,R,Northern Illinois,IR
+Lan Larison,34,NE,RB,5'11,209,24,R,UC Davis,IR
+Jaquelin Roy,94,NE,DT,6'3,305,25,3,LSU,IR
+Erick All Jr.,83,CIN,TE,6'5,255,25,2,Iowa,ACT
+Liam Anderson,45,CIN,LB,6'3,230,25,1,Holy Cross,ACT
+Tycen Anderson,26,CIN,S,6'2,205,26,4,Toledo,ACT
+Daijahn Anthony,33,CIN,S,6'1,200,25,2,Mississippi,ACT
+Brian Asamoah II,53,CIN,LB,6'1,230,25,4,Oklahoma,ACT
+Jordan Battle,27,CIN,S,6'1,215,25,3,Alabama,ACT
+Jacob Bayer,69,CIN,C,6'3,310,23,R,Arkansas State,ACT
+Gary Brightwell,32,CIN,HB,6'1,218,27,4,Arizona,ACT
+Tahj Brooks,25,CIN,HB,5'9,220,23,R,Texas Tech,ACT
+Chase Brown,30,CIN,HB,5'10,210,25,3,Illinois,ACT
+Orlando Brown Jr.,75,CIN,OT,6'8,350,29,8,Oklahoma,ACT
+Jake Browning,6,CIN,QB,6'2,209,29,3,Washington,ACT
+Oren Burks,42,CIN,LB,6'3,233,30,8,Vanderbilt,ACT
+Joe Burrow,9,CIN,QB,6'4,215,29,6,LSU,ACT
+Barrett Carter,49,CIN,LB,6'1,231,23,R,Clemson,ACT
+Ja'Marr Chase,1,CIN,WR,6'1,205,25,5,LSU,ACT
+Sean Clifford,4,CIN,QB,6'2,212,27,2,Penn State,ACT
+Andrew Coker,79,CIN,OT,6'7,315,24,1,TCU,ACT
+Howard Cross III,95,CIN,DT,6'1,285,24,R,Notre Dame,ACT
+Jalen Davis,35,CIN,CB,5'10,186,30,5,Utah State,ACT
+Dylan Fairchild,63,CIN,G,6'5,318,22,R,Georgia,ACT
+Noah Fant,86,CIN,TE,6'4,249,28,7,Iowa,ACT
+Joe Flacco,16,CIN,QB,6'6,245,41,18,Delaware,ACT
+Cody Ford,61,CIN,OT,6'3,345,29,7,Oklahoma,ACT
+Isaiah Foskey,51,CIN,DE,6'5,280,25,3,Notre Dame,ACT
+Javon Foster,73,CIN,OT,6'5,319,25,2,Missouri,ACT
+Mike Gesicki,88,CIN,TE,6'6,245,30,8,Penn State,ACT
+Joe Giles-Harris,43,CIN,LB,6'2,234,28,2,Duke,ACT
+Cam Grandy,85,CIN,TE,6'5,253,26,2,Illinois State,ACT
+Trey Hendrickson,91,CIN,DE,6'4,265,31,9,Florida Atlantic,ACT
+Shaka Heyward,50,CIN,LB,6'3,238,25,2,Duke,ACT
+Tee Higgins,5,CIN,WR,6'4,220,27,6,Clemson,ACT
+B.J. Hill,92,CIN,DT,6'3,311,30,8,NC State,ACT
+Dax Hill,23,CIN,CB,6'1,195,25,4,Michigan,ACT
+Tanner Hudson,87,CIN,TE,6'5,241,31,6,Southern Arkansas,ACT
+Andrei Iosivas,80,CIN,WR,6'3,210,26,3,Princeton,ACT
+DJ Ivey,38,CIN,CB,6'1,192,25,3,Miami,ACT
+McKinnley Jackson,93,CIN,DT,6'2,330,24,2,Texas A&M,ACT
+Jordan Jefferson,94,CIN,DT,6'4,317,24,2,LSU,ACT
+Kris Jenkins Jr.,90,CIN,DT,6'3,310,24,2,Michigan,ACT
+Cedric Johnson,52,CIN,DE,6'3,264,23,2,Mississippi,ACT
+Xavier Johnson,18,CIN,WR,6'1,210,26,1,Ohio State,ACT
+Charlie Jones,15,CIN,WR,6'1,190,27,3,Purdue,ACT
+PJ Jules,37,CIN,S,6'1,203,24,1,Southern Illinois,ACT
+Ted Karras,64,CIN,C,6'4,310,32,10,Illinois,ACT
+Jalen Kimber,40,CIN,CB,6'1,190,25,R,Penn State,ACT
+Demetrius Knight Jr.,44,CIN,LB,6'2,240,25,R,South Carolina,ACT
+Matt Lee,65,CIN,C,6'4,310,24,2,Miami,ACT
+Bralyn Lux,21,CIN,CB,5'10,180,25,R,Texas Tech,ACT
+Evan McPherson,2,CIN,K,5'11,185,26,5,Florida,ACT
+Dohnte Meyers,N/A,CIN,WR,5'11,186,25,R,Delta State University,ACT
+Amarius Mims,N/A,CIN,OT,6'8,350,23,2,Georgia,ACT
+Jordan Moore,N/A,CIN,WR,6'1,191,23,R,Duke,ACT
+Myles Murphy,N/A,CIN,DE,6'5,275,24,3,Clemson,ACT
+Josh Newton,N/A,CIN,CB,5'11,190,25,2,TCU,ACT
+Joseph Ossai,N/A,CIN,DE,6'4,263,25,5,Texas,ACT
+Lucas Patrick,N/A,CIN,G/C,6'3,313,32,9,Duke,ACT
+Samaje Perine,N/A,CIN,HB,5'11,240,30,9,Oklahoma,ACT
+Antwaun Powell-Ryland,N/A,CIN,LB,6'3,252,23,R,Virginia Tech,ACT
+Kendric Pryor,N/A,CIN,WR,5'11,189,28,2,Wisconsin,ACT
+Ryan Rehkow,N/A,CIN,P,6'4,235,27,2,BYU,ACT
+Dalton Risner,N/A,CIN,G,6'5,312,30,7,Kansas State,ACT
+Jalen Rivers,N/A,CIN,G,6'5,319,23,R,Miami,ACT
+Cam Sample,N/A,CIN,DE,6'3,272,26,5,Tulane,ACT
+Drew Sample,N/A,CIN,TE,6'5,260,29,7,Washington,ACT
+T.J. Slaton Jr.,N/A,CIN,DT,6'5,340,28,5,Florida,ACT
+Shemar Stewart,N/A,CIN,DE,6'5,267,22,R,Texas A&M,ACT
+Geno Stone,N/A,CIN,S,5'11,210,26,6,Iowa,ACT
+Cam Taylor-Britt,N/A,CIN,CB,5'11,200,26,4,Nebraska,ACT
+Mitch Tinsley,N/A,CIN,WR,6'1,205,26,2,Penn State,ACT
+DJ Turner II,N/A,CIN,CB,5'11,185,25,3,Michigan,ACT
+Cordell Volson,N/A,CIN,G,6'6,315,27,4,North Dakota State,ACT
+William Wagner,N/A,CIN,LS,6'2,240,25,R,Michigan,ACT
+Ke'Shawn Williams,N/A,CIN,WR,5'9,189,24,R,Indiana,ACT
+Marco Wilson,N/A,CIN,CB,5'11,191,26,5,Florida,ACT
+Russ Yeast,N/A,CIN,S,5'10,195,26,3,Kansas State,ACT
+Tre Avery,N/A,CLE,CB,5'11,185,28,3,Rutgers,ACT
+Jerome Baker,N/A,CLE,LB,6'2,232,29,8,Ohio State,ACT
+Brenden Bates,N/A,CLE,TE,6'5,255,26,2,Kentucky,ACT
+Joel Bitonio,N/A,CLE,G,6'4,320,34,12,Nevada,ACT
+Corey Bojorquez,N/A,CLE,P,6'1,217,29,8,New Mexico,ACT
+Isaiah Bond,N/A,CLE,WR,5'11,180,21,R,Texas,ACT
+Devin Bush,N/A,CLE,LB,5'11,235,27,7,Michigan,ACT
+Jeremiah Byers,N/A,CLE,OT,6'4,320,24,R,Florida State,ACT
+Tyson Campbell,N/A,CLE,CB,6'1,195,25,5,Georgia,ACT
+Malachi Corley,N/A,CLE,WR,5'11,215,23,2,Western Kentucky,ACT
+Grant Delpit,N/A,CLE,S,6'3,208,27,6,LSU,ACT
+Mohamoud Diabate,N/A,CLE,LB,6'4,225,24,3,Utah,ACT
+Christopher Edmonds,N/A,CLE,S,6'2,210,24,1,Arizona State,ACT
+Kingsley Eguakun,N/A,CLE,C,6'3,305,24,1,Florida,ACT
+Harold Fannin Jr.,N/A,CLE,TE,6'4,241,21,R,Bowling Green,ACT
+Dillon Gabriel,N/A,CLE,QB,5'11,205,25,R,Oregon,ACT
+Myles Garrett,N/A,CLE,DE,6'4,272,30,9,Texas A&M,ACT
+Mason Graham,N/A,CLE,DT,6'4,315,22,R,Michigan,ACT
+Kendrick Green,N/A,CLE,OL,6'4,315,27,5,Illinois,ACT
+Mike Hall Jr.,N/A,CLE,DT,6'3,300,22,2,Ohio State,ACT
+Myles Harden,N/A,CLE,CB,5'11,195,24,2,South Dakota,ACT
+Shelby Harris,N/A,CLE,DT,6'2,288,34,11,Illinois State,ACT
+Ronnie Hickman,N/A,CLE,S,6'1,209,24,3,Ohio State,ACT
+Adin Huntington,N/A,CLE,DT,6'1,281,23,R,Tulane,ACT
+Rayshawn Jenkins,N/A,CLE,S,6'1,220,32,9,Miami,ACT
+Teven Jenkins,N/A,CLE,G,6'6,321,27,5,Oklahoma State,ACT
+Jerry Jeudy,N/A,CLE,WR,6'1,195,26,6,Alabama,ACT
+Sam Kamara,N/A,CLE,DT,6'1,272,28,3,Stony Brook,ACT
+Gage Larvadain,N/A,CLE,WR,5'8,171,23,R,South Carolina,ACT
+KT Leveston,N/A,CLE,T,6'4,335,26,2,Kansas State,ACT
+Cornelius Lucas,N/A,CLE,T,6'8,327,34,11,Kansas State,ACT
+Easton Mascarenas-Arnold,N/A,CLE,LB,5'11,227,23,R,USC,ACT
+Isaiah McGuire,N/A,CLE,DE,6'4,268,24,3,Missouri,ACT
+Donovan McMillon,N/A,CLE,S,6'2,203,23,R,Pittsburgh,ACT
+David Njoku,N/A,CLE,TE,6'4,246,29,9,Miami (Fla.),ACT
+Cam Robinson,N/A,CLE,OT,6'6,335,30,9,Alabama,ACT
+D'Angelo Ross,N/A,CLE,CB,5'9,190,29,4,New Mexico,ACT
+Dylan Sampson,N/A,CLE,RB,5'8,200,21,R,Tennessee,ACT
+Raheim Sanders,N/A,CLE,RB,6'1,230,23,R,South Carolina,ACT
+Shedeur Sanders,N/A,CLE,QB,6'2,212,24,R,Colorado,ACT
+Rex Sunahara,N/A,CLE,LS,6'6,242,29,2,West Virginia,ACT
+Andre Szmyt,N/A,CLE,K,6'1,200,27,1,Syracuse,ACT
+Cameron Thomas,N/A,CLE,DE,6'4,265,25,4,San Diego State,ACT
+Jamari Thrash,N/A,CLE,WR,6'1,190,25,2,Louisville,ACT
+Cedric Tillman,N/A,CLE,WR,6'3,215,25,3,Tennessee,ACT
+Edefuan Ulofoshio,N/A,CLE,LB,6'1,240,26,2,Washington,ACT
+Denzel Ward,N/A,CLE,CB,5'11,190,28,8,Ohio State,ACT
+Sam Webb,N/A,CLE,CB,6'1,194,27,3,Missouri Western,ACT
+Blake Whiteheart,N/A,CLE,TE,6'4,250,25,3,Wake Forest,ACT
+Trayveon Williams,N/A,CLE,RB,5'8,206,28,7,Texas A&M,ACT
+Alex Wright,N/A,CLE,DE,6'5,267,25,4,UAB,ACT
+Luke Wypler,N/A,CLE,C,6'3,303,24,3,Ohio State,ACT
+Zak Zinter,N/A,CLE,G,6'6,310,24,2,Michigan,ACT
+DeAndre Carter,N/A,CLE,WR,5'8,190,32,8,Sacramento State,IR
+Maliek Collins,N/A,CLE,DT,6'2,310,30,10,Nebraska,IR
+Jack Conklin,N/A,CLE,T,6'6,308,31,10,Michigan State,IR
+Martin Emerson Jr.,N/A,CLE,CB,6'2,201,25,4,Mississippi State,IR
+Jerome Ford,N/A,CLE,RB,5'10,210,26,4,Cincinnati,IR
+Dawand Jones,N/A,CLE,T,6'8,374,24,3,Ohio State,IR
+Dom Jones,N/A,CLE,CB,6'2,192,25,R,Colorado State,IR
+Quinshon Judkins,N/A,CLE,RB,5'11,221,22,R,Ohio State,IR
+Ethan Pocic,N/A,CLE,C,6'6,320,30,9,LSU,IR
+Winston Reid,N/A,CLE,LB,6'1,225,26,2,Weber State,IR
+Carson Schwesinger,N/A,CLE,LB,6'3,242,22,R,UCLA,IR
+Wyatt Teller,N/A,CLE,G,6'4,315,31,8,Virginia Tech,IR
+Nathaniel Watson,N/A,CLE,LB,6'1,233,25,2,Mississippi State,IR
+Jeremiah Owusu-Koramoah,N/A,CLE,LB,6'2,221,26,5,Notre Dame,IR
+Deshaun Watson,N/A,CLE,QB,6'3,223,30,9,Clemson,IR
+David Bell,N/A,CLE,WR,6'1,212,25,4,Purdue,IR
+Jordan Hicks,N/A,CLE,LB,6'1,235,33,10,Texas,IR
+Elerson G. Smith,N/A,CLE,DE,6'7,245,27,4,Northern Iowa,IR
+Rasheen Ali,N/A,BAL,RB,5'11,210,25,2,Marshall,ACT
+Mark Andrews,N/A,BAL,TE,6'5,250,30,8,Oklahoma,ACT
+Chidobe Awuzie,N/A,BAL,CB,5'11,202,30,9,Colorado,ACT
+Rashod Bateman,N/A,BAL,WR,6'1,193,26,5,Minnesota,ACT
+Corey Bullock,N/A,BAL,C/G,6'3,320,24,1,Maryland,ACT
+Daniel Faalele,N/A,BAL,G,6'8,370,26,4,Minnesota,ACT
+Zay Flowers,N/A,BAL,WR,5'9,183,25,3,Boston College,ACT
+Alohi Gilman,N/A,BAL,S,5'10,201,28,6,Notre Dame,ACT
+Mike Green,N/A,BAL,OLB,6'3,250,22,R,Marshall,ACT
+Kyle Hamilton,N/A,BAL,S,6'4,218,24,4,Notre Dame,ACT
+Derrick Henry,N/A,BAL,RB,6'2,252,32,10,Alabama,ACT
+Jay Higgins IV,N/A,BAL,ILB,6'1,230,24,R,Iowa,ACT
+DeAndre Hopkins,N/A,BAL,WR,6'1,210,33,13,Clemson,ACT
+Jake Hummel,N/A,BAL,LB,6'1,235,27,4,Iowa State,ACT
+Marlon Humphrey,N/A,BAL,CB,6'1,210,29,9,Alabama,ACT
+Tyler Huntley,N/A,BAL,QB,6'1,204,28,6,Utah,ACT
+Keondre Jackson,N/A,BAL,S,6'2,215,23,R,Illinois State,ACT
+Lamar Jackson,N/A,BAL,QB,6'2,205,29,8,Louisville,ACT
+John Jenkins,N/A,BAL,DL,6'3,360,36,13,Georgia,ACT
+Carl Jones,N/A,BAL,LB,6'2,230,24,1,UCLA,ACT
+Dre'Mont Jones,N/A,BAL,DE,6'3,265,29,7,Ohio State,ACT
+Emery Jones Jr.,N/A,BAL,G/T,6'5,320,21,R,LSU,ACT
+Travis Jones,N/A,BAL,DL,6'4,341,26,4,Connecticut,ACT
+Charlie Kolar,N/A,BAL,TE,6'6,265,27,4,Iowa State,ACT
+Isaiah Likely,N/A,BAL,TE,6'4,245,25,4,Coastal Carolina,ACT
+Tyler Linderbaum,N/A,BAL,C,6'2,305,25,4,Iowa,ACT
+Tyler Loop,N/A,BAL,K,5'11,191,24,R,Arizona,ACT
+Keyon Martin,N/A,BAL,CB,5'9,170,24,R,Louisiana-Lafayette,ACT
+Keaton Mitchell,N/A,BAL,RB,5'8,190,24,3,East Carolina,ACT
+Nick Moore,N/A,BAL,LS,6'2,260,33,4,Georgia,ACT
+Joseph Noteboom,N/A,BAL,T,6'5,321,30,8,TCU,ACT
+David Ojabo,N/A,BAL,OLB,6'4,252,25,4,Michigan,ACT
+C.J. Okoye,N/A,BAL,DL,6'6,370,24,1,N/A,ACT
+Aeneas Peebles,N/A,BAL,DL,6'1,289,24,R,Virginia Tech,ACT
+Patrick Ricard,N/A,BAL,FB,6'3,300,31,9,Maine,ACT
+Tavius Robinson,N/A,BAL,OLB,6'6,262,27,3,Mississippi,ACT
+Roger Rosengarten,N/A,BAL,T,6'5,316,23,2,Washington,ACT
+Cooper Rush,N/A,BAL,QB,6'3,225,32,8,Central Michigan,ACT
+Trenton Simpson,N/A,BAL,ILB,6'2,235,24,3,Clemson,ACT
+Roquan Smith,N/A,BAL,ILB,6'1,235,28,8,Georgia,ACT
+Ronnie Stanley,N/A,BAL,T,6'6,310,31,10,Notre Dame,ACT
+Malaki Starks,N/A,BAL,S,6'1,203,22,R,Georgia,ACT
+Jordan Stout,N/A,BAL,P,6'3,209,27,4,Penn State,ACT
+T.J. Tampa,N/A,BAL,CB,6'1,199,23,2,Iowa State,ACT
+Brent Urban,N/A,BAL,DL,6'7,309,34,12,Virginia,ACT
+Kyle Van Noy,N/A,BAL,OLB,6'3,255,34,12,BYU,ACT
+Carson Vinson,N/A,BAL,T,6'7,320,24,R,Alabama A&M,ACT
+Andrew Vorhees,N/A,BAL,OL,6'6,320,27,2,USC,ACT
+Devontez Walker,N/A,BAL,WR,6'1,198,24,2,North Carolina,ACT
+Tylan Wallace,N/A,BAL,WR,5'11,200,26,5,Oklahoma State,ACT
+Ar'Darius Washington,N/A,BAL,S,5'8,180,26,4,TCU,ACT
+LaJohntay Wester,N/A,BAL,WR,5'9,170,23,R,Colorado,ACT
+Nate Wiggins,N/A,BAL,CB,6'1,182,22,2,Clemson,ACT
+Taven Bryan,N/A,BAL,DT,6'4,291,29,8,Florida,IR
+Teddye Buchanan,N/A,BAL,ILB,6'2,240,23,R,California,IR
+Justice Hill,N/A,BAL,RB,5'10,205,28,7,Oklahoma State,IR
+Adisa Isaac,N/A,BAL,OLB,6'4,253,24,2,Penn State,IR
+Bilhal Kone,N/A,BAL,CB,6'1,190,23,R,Western Michigan,IR
+Robert Longerbeam,N/A,BAL,CB,5'11,174,25,R,Rutgers,IR
+Nnamdi Madubuike,N/A,BAL,DL,6'3,305,28,6,Texas A&M,IR
+Dayton Wade,N/A,BAL,WR,5'9,184,25,1,Mississippi,IR
+Broderick Washington Jr.,N/A,BAL,DL,6'2,315,29,6,Texas Tech,IR
+Cal Adomitis,N/A,PIT,LS,6'2,238,27,4,Pittsburgh,ACT
+Calvin Anderson,N/A,PIT,OT,6'5,300,29,7,Texas,ACT
+Spencer Anderson,N/A,PIT,OL,6'5,305,25,3,Maryland,ACT
+Calvin Austin III,N/A,PIT,WR,5'9,162,26,4,Memphis,ACT
+Kyler Baugh,N/A,PIT,DT,6'2,305,24,1,Minnesota,ACT
+Keeanu Benton,N/A,PIT,DT,6'4,309,24,3,Wisconsin,ACT
+Yahya Black,N/A,PIT,DE,6'5,336,23,R,Iowa,ACT
+Chris Boswell,N/A,PIT,K,6'2,185,34,11,Rice,ACT
+Carson Bruener,N/A,PIT,LB,6'1,227,24,R,Washington,ACT
+Cole Burgess,N/A,PIT,WR,6'1,192,26,1,Cortland State Of New York,ACT
+Sebastian Castro,N/A,PIT,S,5'11,203,25,R,Iowa,ACT
+Chuck Clark,N/A,PIT,DB,6'1,210,30,9,Virginia Tech,ACT
+Dylan Cook,N/A,PIT,OT,6'6,305,28,3,Montana,ACT
+Jack Driscoll,N/A,PIT,OL,6'5,312,28,6,Auburn,ACT
+Kyle Dugger,N/A,PIT,S,6'1,220,29,6,Lenoir Rhyne,ACT
+Brandin Echols,N/A,PIT,CB,5'10,179,28,5,Kentucky,ACT
+Daniel Ekuale,N/A,PIT,DT,6'3,300,32,7,Washington State,ACT
+DeShon Elliott,N/A,PIT,S,6'1,210,28,8,Texas,ACT
+Troy Fautanu,N/A,PIT,OT,6'4,317,25,2,Washington,ACT
+Zach Frazier,N/A,PIT,C,6'3,310,24,2,West Virginia,ACT
+Pat Freiermuth,N/A,PIT,TE,6'5,258,27,5,Penn State,ACT
+Kenneth Gainwell,N/A,PIT,RB,5'9,200,26,5,Memphis,ACT
+JJ Galbreath,N/A,PIT,TE,6'4,240,24,R,South Dakota,ACT
+Anthony Goodlow,N/A,PIT,DE,6'5,283,25,1,Oklahoma State,ACT
+Daequan Hardy,N/A,PIT,DB,5'9,178,24,1,Penn State,ACT
+Derrick Harmon,N/A,PIT,DT,6'4,313,22,R,Oregon,ACT
+Malik Harrison,N/A,PIT,LB,6'3,247,27,6,Ohio State,ACT
+Jack Henderson,N/A,PIT,S,6'2,215,24,R,Minnesota,ACT
+KJ Henry,N/A,PIT,DE,6'4,255,27,3,Clemson,ACT
+Nick Herbig,N/A,PIT,LB,6'2,240,24,3,Wisconsin,ACT
+Cameron Heyward,N/A,PIT,DT,6'5,295,36,15,Ohio State,ACT
+Connor Heyward,N/A,PIT,TE/FB,6'1,230,27,4,Michigan State,ACT
+Alex Highsmith,N/A,PIT,LB,6'4,242,28,6,Charlotte,ACT
+Cole Holcomb,N/A,PIT,LB,6'1,240,29,7,North Carolina,ACT
+Will Howard,N/A,PIT,QB,6'4,236,24,R,Ohio State,ACT
+Max Hurleman,N/A,PIT,RB,5'11,200,24,R,Notre Dame,ACT
+D'Shawn Jamison,N/A,PIT,DB,5'9,186,26,2,Texas,ACT
+Kaleb Johnson,N/A,PIT,RB,6'1,224,22,R,Iowa,ACT
+Broderick Jones,N/A,PIT,OT,6'5,311,24,3,Georgia,ACT
+Steven Jones,N/A,PIT,G,6'5,340,25,1,Oregon,ACT
+Donte Kent,N/A,PIT,CB/PR,5'10,189,24,R,Central Michigan,ACT
+Miles Killebrew,N/A,PIT,S,6'2,222,32,10,Southern Utah State,ACT
+Christian Kuntz,N/A,PIT,LS,6'1,228,31,5,Duquesne,ACT
+Sataoa Laumea,N/A,PIT,G,6'4,319,25,2,Utah,ACT
+Logan Lee,N/A,PIT,DT,6'5,286,25,2,Iowa,ACT
+Isaiahh Loudermilk,N/A,PIT,DT,6'7,293,28,5,Wisconsin,ACT
+Dean Lowry,N/A,PIT,DT,6'6,296,31,10,Northwestern,ACT
+Ryan McCollum,N/A,PIT,C,6'5,300,27,3,Texas A&M,ACT
+Mason McCormick,N/A,PIT,G,6'5,315,25,2,South Dakota State,ACT
+DK Metcalf,N/A,PIT,WR,6'4,229,28,7,Mississippi,ACT
+Scotty Miller,N/A,PIT,WR,5'9,174,28,7,Bowling Green,ACT
+Jeremiah Moon,N/A,PIT,LB,6'5,247,27,3,Florida,ACT
+Doug Nester,N/A,PIT,OL,6'6,306,25,1,West Virginia,ACT
+Lew Nichols ,N/A,PIT,RB,5'10,220,24,1,Central Michigan,ACT
+Esezi Otomewo,N/A,PIT,DE,6'5,282,26,3,Minnesota,ACT
+Donald Parham Jr. ,N/A,PIT,TE,6'8,237,28,5,Stetson,ACT
+Andrus Peat,N/A,PIT,G,6'7,316,32,11,Stanford,ACT
+Jabrill Peppers,N/A,PIT,S,5'11,213,30,9,Michigan,ACT
+A.T. Perry,N/A,PIT,WR,6'5,205,26,2,Wake Forest,ACT
+James Pierre,N/A,PIT,CB,6'2,185,29,6,Florida Atlantic,ACT
+John Rhys Plumlee,N/A,PIT,WR,6'1,200,25,1,UCF,ACT
+Joey Porter Jr.,N/A,PIT,CB,6'2,193,25,3,Penn State,ACT
+Patrick Queen,N/A,PIT,LB,6'1,232,26,6,LSU,ACT
+Jalen Ramsey,N/A,PIT,CB,6'1,211,31,10,Florida State,ACT
+Jahvaree Ritzie,N/A,PIT,DE,6'4,294,23,R,North Carolina,ACT
+Aaron Rodgers,N/A,PIT,QB,6'2,223,42,21,California,ACT
+Mason Rudolph,N/A,PIT,QB,6'5,235,30,8,Oklahoma State,ACT
+Asante Samuel Jr.,N/A,PIT,CB,5'10,180,26,5,Florida State,ACT
+Jack Sawyer,N/A,PIT,LB,6'4,260,23,R,Ohio State,ACT
+Max Scharping,N/A,PIT,G,6'6,327,29,7,Northern Illinois,ACT
+Isaac Seumalo,N/A,PIT,G,6'4,303,32,10,Oregon State,ACT
+Ben Skowronek,N/A,PIT,WR,6'3,224,28,5,Notre Dame,ACT
+Doneiko Slaughter,N/A,PIT,DB,6'1,190,24,R,Arkansas,ACT
+Brandon Smith,N/A,PIT,WR,6'2,220,27,1,Iowa,ACT
+Jonnu Smith,N/A,PIT,TE,6'3,248,30,9,Florida International,ACT
+Adam Thielen,N/A,PIT,WR,6'2,195,35,12,Minnesota State,ACT
+Lorenzo Thompson,N/A,PIT,OL,6'6,305,25,1,Rhode Island,ACT
+Skylar Thompson,N/A,PIT,QB,6'2,219,28,4,Kansas State,ACT
+Cory Trice Jr.,N/A,PIT,DB,6'3,206,25,3,Purdue,ACT
+Marquez Valdes-Scantling,N/A,PIT,WR,6'4,206,31,8,University of South Florida,ACT
+Corliss Waitman,N/A,PIT,P,6'2,210,30,3,South Alabama,ACT
+Jaylen Warren,N/A,PIT,RB,5'8,215,27,4,Oklahoma State,ACT
+Darnell Washington,N/A,PIT,TE,6'7,264,24,3,Georgia,ACT
+T.J. Watt,N/A,PIT,LB,6'4,252,31,9,Wisconsin,ACT
+Julius Welschof,N/A,PIT,LB,6'6,265,28,1,Charlotte,ACT
+Aiden Williams,N/A,PIT,G,6'5,314,25,R,Duluth/University of Minnesota,ACT
+Payton Wilson,N/A,PIT,LB,6'4,242,25,2,N.C. State,ACT
+Roman Wilson,N/A,PIT,WR,5'10,186,24,2,Michigan,ACT
+Ameer Abdullah,N/A,IND,RB,5'9,203,32,11,Nebraska,ACT
+Adetomiwa Adebawore,N/A,IND,DT,6'2,282,24,3,Northwestern,ACT
+Austin Ajiake,N/A,IND,LB,6'1,223,25,1,UNLV,ACT
+Mo Alie-Cox,N/A,IND,TE,6'5,267,32,8,Virginia Commonwealth,ACT
+Mekhi Blackmon,N/A,IND,CB,5'11,178,26,3,USC,ACT
+Tanor Bortolini,N/A,IND,C,6'4,303,23,2,Wisconsin,ACT
+John Bullock,N/A,IND,LB,6'1,230,24,R,Nebraska,ACT
+Cam Bynum,N/A,IND,S,6'1,200,27,5,California,ACT
+Jaylon Carlies,N/A,IND,LB,6'3,227,24,2,Missouri,ACT
+Nick Cross,N/A,IND,S,6'1,212,24,4,Maryland,ACT
+Josh Downs,N/A,IND,WR,5'9,171,24,3,North Carolina,ACT
+Ashton Dulin,N/A,IND,WR,6'2,215,28,7,Malone University,ACT
+Samson Ebukam,N/A,IND,DE,6'3,245,30,9,Eastern Washington,ACT
+Johnathan Edwards,N/A,IND,CB,6'1,201,24,R,Tulane,ACT
+Zaire Franklin,N/A,IND,LB,6'1,235,29,8,Syracuse,ACT
+Neville Gallimore,N/A,IND,DT,6'2,307,29,6,Oklahoma,ACT
+Sauce Gardner,N/A,IND,CB,6'3,190,24,4,Cincinnati,ACT
+DJ Giddens,N/A,IND,RB,6'1,212,22,R,Kansas State,ACT
+Matt Goncalves,N/A,IND,G,6'6,317,25,2,Pittsburgh,ACT
+Tyler Goodson,N/A,IND,RB,5'9,197,25,3,Iowa,ACT
+Blake Grupe,N/A,IND,K,5'7,156,27,3,Notre Dame,ACT
+Buddy Johnson,N/A,IND,LB,6'2,240,26,4,Texas A&M,ACT
+Eric Johnson II,N/A,IND,DT,6'4,320,27,4,Missouri State,ACT
+Jaylon Jones,N/A,IND,CB,6'2,203,23,3,Texas A&M,ACT
+Laiatu Latu,N/A,IND,DE,6'5,265,25,2,UCLA,ACT
+Riley Leonard,N/A,IND,QB,6'4,213,23,R,Notre Dame,ACT
+Tyquan Lewis,N/A,IND,DE,6'3,267,31,8,Ohio State,ACT
+Reuben Lowery III,N/A,IND,S,5'9,204,23,R,Tennessee-Chattanooga,ACT
+Will Mallory,N/A,IND,TE,6'4,239,26,3,Miami,ACT
+Cameron Mitchell,N/A,IND,CB,5'11,191,24,3,Northwestern,ACT
+Kenny Moore II,N/A,IND,CB,5'9,190,30,9,Valdosta State,ACT
+Quenton Nelson,N/A,IND,G,6'5,330,29,8,Notre Dame,ACT
+George Odum,N/A,IND,S,6'1,202,32,8,Central Arkansas,ACT
+Segun Olubi,N/A,IND,LB,6'1,233,26,3,San Diego State,ACT
+Kwity Paye,N/A,IND,DE,6'3,265,27,5,Michigan,ACT
+Alec Pierce,N/A,IND,WR,6'3,211,25,4,Cincinnati,ACT
+Danny Pinter,N/A,IND,C,6'4,301,29,6,Ball State,ACT
+Michael Pittman Jr.,N/A,IND,WR,6'4,223,28,6,USC,ACT
+Germaine Pratt,N/A,IND,LB,6'3,250,29,7,N.C. State,ACT
+Bernhard Raimann,N/A,IND,T,6'6,303,28,4,Central Michigan,ACT
+Luke Rhodes,N/A,IND,LS,6'2,238,33,9,William & Mary,ACT
+Philip Rivers,N/A,IND,QB,6'5,228,44,18,North Carolina State,ACT
+Rigoberto Sanchez,N/A,IND,P,6'1,195,31,9,Hawaii,ACT
+Grover Stewart,N/A,IND,DT,6'4,314,32,9,Albany State (Ga.),ACT
+Jonathan Taylor,N/A,IND,RB,5'10,226,27,6,Wisconsin,ACT
+Luke Tenuta,N/A,IND,T,6'8,314,26,3,Virginia Tech,ACT
+Rodney Thomas II,N/A,IND,S,6'1,196,27,4,Yale,ACT
+Jalen Travis,N/A,IND,T,6'8,339,23,R,Iowa State,ACT
+Laquon Treadwell,N/A,IND,WR,6'2,215,30,9,Mississippi,ACT
+Dalton Tucker,N/A,IND,G,6'6,307,25,2,Marshall,ACT
+JT Tuimoloau,N/A,IND,DE,6'4,264,22,R,Ohio State,ACT
+Tyler Warren,N/A,IND,TE,6'6,256,23,R,Penn State,ACT
+Chris Wormley,N/A,IND,DT,6'5,300,32,8,Michigan,ACT
+Salvon Ahmed,N/A,IND,RB,5'11,197,27,5,Washington,IR
+DeForest Buckner,N/A,IND,DT,6'7,295,31,10,Oregon,IR
+Blake Freeland,N/A,IND,T,6'7,302,24,3,BYU,IR
+Anthony Gould,N/A,IND,WR,5'8,174,24,2,Oregon State,IR
+Daniel Jones,N/A,IND,QB,6'5,230,28,7,Duke,IR
+Chris Lammons,N/A,IND,CB,5'10,190,30,5,South Carolina,IR
+D.J. Montgomery,N/A,IND,WR,6'1,201,29,4,Austin Peay,IR
+Drew Ogletree,N/A,IND,TE,6'5,260,27,4,Youngstown State,IR
+Jacob Phillips,N/A,IND,LB,6'3,228,26,5,LSU,IR
+Anthony Richardson Sr.,N/A,IND,QB,6'4,244,23,3,Florida,IR
+Daniel Scott,N/A,IND,S,6'1,208,27,3,California,IR
+Spencer Shrader,N/A,IND,K,6'2,201,26,2,Notre Dame,IR
+Braden Smith,N/A,IND,T,6'6,312,29,8,Auburn,IR
+Justin Walley,N/A,IND,CB,5'10,190,23,R,Minnesota,IR
+Charvarius Ward,N/A,IND,CB,6'1,196,29,8,Middle Tennessee State,IR
+Jack Wilson,N/A,IND,T,6'11,310,26,1,Washington State,IR
+Hunter Wohler,N/A,IND,S,6'2,213,23,R,Wisconsin,IR
+Yasir Abdullah,N/A,JAX,LB,6'1,240,25,3,Louisville,ACT
+LeQuint Allen Jr.,N/A,JAX,RB,6'1,201,21,R,Syracuse,ACT
+Arik Armstead,N/A,JAX,DT,6'7,290,32,11,Oregon,ACT
+Christian Braswell,N/A,JAX,CB,5'11,185,26,2,Rutgers,ACT
+Dyami Brown,N/A,JAX,WR,6'1,195,26,5,North Carolina,ACT
+Montaric Brown,N/A,JAX,CB,6'1,190,26,4,Arkansas,ACT
+Ezra Cleveland,N/A,JAX,OL,6'6,312,27,6,Boise State,ACT
+Branson Combs,N/A,JAX,LB,6'3,228,25,R,Wake Forest,ACT
+Logan Cooke,N/A,JAX,P,6'5,230,30,8,Mississippi State,ACT
+DeeJay Dallas,N/A,JAX,RB,5'10,217,27,6,Miami,ACT
+Matt Dickerson,N/A,JAX,DL,6'5,292,30,5,UCLA,ACT
+Chuma Edoga,N/A,JAX,OL,6'4,315,28,7,USC,ACT
+Travis Etienne Jr.,N/A,JAX,RB,5'10,215,27,5,Clemson,ACT
+Dennis Gardeck,N/A,JAX,LB,6'1,232,31,8,Sioux Falls,ACT
+B.J. Green II,N/A,JAX,DL,6'1,270,22,R,Colorado,ACT
+Robert Hainsey,N/A,JAX,OL,6'4,306,27,5,Notre Dame,ACT
+DaVon Hamilton,N/A,JAX,DT,6'4,335,29,6,Ohio State,ACT
+Anton Harrison,N/A,JAX,OL,6'4,315,24,3,Oklahoma,ACT
+Josh Hines-Allen,N/A,JAX,DE,6'5,255,28,7,Kentucky,ACT
+Antonio Johnson,N/A,JAX,S,6'2,198,24,3,Texas A&M,ACT
+Austin Johnson,N/A,JAX,DL,6'4,314,31,9,Penn State,ACT
+Jarrian Jones,N/A,JAX,CB,5'11,190,24,2,Florida State,ACT
+Rayuan Lane III,N/A,JAX,S,5'11,197,22,R,Navy,ACT
+Trevor Lawrence,N/A,JAX,QB,6'6,220,26,5,Clemson,ACT
+Cam Little,N/A,JAX,K,6'1,172,22,2,Arkansas,ACT
+Walker Little,N/A,JAX,OL,6'7,325,26,5,Stanford,ACT
+Devin Lloyd,N/A,JAX,LB,6'3,235,27,4,Utah,ACT
+Hunter Long,N/A,JAX,TE,6'5,243,27,5,Boston College,ACT
+Ross Matiscik,N/A,JAX,LS,6'1,240,29,6,Baylor,ACT
+Patrick Mekari,N/A,JAX,OL,6'4,305,28,7,California,ACT
+Jakobi Meyers,N/A,JAX,WR,6'2,200,29,7,N.C. State,ACT
+Ventrell Miller,N/A,JAX,LB,6'1,232,27,3,Florida,ACT
+Wyatt Milum,N/A,JAX,OL,6'6,317,23,R,West Virginia,ACT
+Jonah Monheim,N/A,JAX,OL,6'5,310,23,R,USC,ACT
+Quintin Morris,N/A,JAX,TE,6'2,243,27,4,Bowling Green,ACT
+Nick Mullens,N/A,JAX,QB,6'1,210,30,7,Southern Mississippi,ACT
+Johnny Mundt,N/A,JAX,TE,6'4,243,31,8,Oregon,ACT
+Eric Murray,N/A,JAX,S,5'11,199,32,10,Minnesota,ACT
+Greg Newsome II,N/A,JAX,CB,6'1,192,25,5,Northwestern,ACT
+Emmanuel Ogbah,N/A,JAX,DL,6'4,275,32,10,Oklahoma State,ACT
+Foyesade Oluokun,N/A,JAX,LB,6'2,230,30,8,Yale,ACT
+Tim Patrick,N/A,JAX,WR,6'5,210,32,8,Utah,ACT
+Maason Smith,N/A,JAX,DT,6'5,306,23,2,LSU,ACT
+Dawuane Smoot,N/A,JAX,DE,6'3,275,30,9,Illinois,ACT
+Brenton Strange,N/A,JAX,TE,6'4,253,25,3,Penn State,ACT
+Danny Striggow,N/A,JAX,DL,6'5,255,23,R,Minnesota,ACT
+Keith Taylor,N/A,JAX,CB,6'3,195,26,4,Washington,ACT
+Brian Thomas Jr.,N/A,JAX,WR,6'2,209,23,2,LSU,ACT
+Bhayshul Tuten,N/A,JAX,RB,5'9,209,24,R,Virginia Tech,ACT
+Cole Van Lanen,N/A,JAX,OL,6'5,312,27,5,Wisconsin,ACT
+Travon Walker,N/A,JAX,DE,6'5,272,25,4,Georgia,ACT
+Parker Washington,N/A,JAX,WR,5'10,204,23,3,Penn State,ACT
+Andrew Wingard,N/A,JAX,S,6'1,200,29,7,Wyoming,ACT
+Joshua Cephus,N/A,JAX,WR,6'2,193,24,1,Texas-San Antonio,IR
+Travis Hunter,N/A,JAX,WR/DB,6'1,185,22,R,Colorado,IR
+Jack Kiser,N/A,JAX,LB,6'2,231,25,R,Notre Dame,IR
+Jourdan Lewis,N/A,JAX,CB,5'10,190,30,9,Michigan,IR
+Jalen McLeod,N/A,JAX,LB,6'1,236,23,R,Auburn,IR
+Caleb Ransaw,N/A,JAX,DB,6'1,196,23,R,Tulane,IR
+Cooper Hodges,N/A,JAX,OL,6'4,305,25,3,Appalachian State,IR
+Azeez Al-Shaair,N/A,HOU,LB,6'2,228,28,7,Florida Atlantic,ACT
+Will Anderson Jr.,N/A,HOU,DE,6'4,243,24,3,Alabama,ACT
+Jake Andrews,N/A,HOU,C,6'3,308,26,3,Troy,ACT
+Denico Autry,N/A,HOU,DE,6'5,285,35,12,Mississippi State,ACT
+Derek Barnett,N/A,HOU,DE,6'3,259,29,9,Tennessee,ACT
+Braxton Berrios,N/A,HOU,WR,5'9,185,30,8,Miami,ACT
+Austin Brinkman,N/A,HOU,LS,6'4,241,23,R,West Virginia,ACT
+British Brooks,N/A,HOU,RB,5'11,225,26,2,North Carolina,ACT
+Trent Brown,N/A,HOU,T,6'8,380,32,11,Florida,ACT
+Harrison Bryant,N/A,HOU,TE,6'5,243,27,6,Florida Atlantic,ACT
+Myles Bryant,N/A,HOU,CB,5'9,192,28,6,Washington,ACT
+Calen Bullock,N/A,HOU,S,6'3,190,22,2,USC,ACT
+Solomon Byrd,N/A,HOU,DE,6'3,250,26,1,USC,ACT
+Ajani Carter,N/A,HOU,CB,6'2,200,25,R,Houston,ACT
+Nick Chubb,N/A,HOU,RB,5'11,227,30,8,Georgia,ACT
+Damone Clark,N/A,HOU,LB,6'2,245,25,4,LSU,ACT
+Brandon Codrington,N/A,HOU,CB,5'9,185,25,2,North Carolina Central,ACT
+Nico Collins,N/A,HOU,WR,6'4,222,26,5,Michigan,ACT
+Eli Cox,N/A,HOU,C,6'4,309,25,R,Kentucky,ACT
+Tank Dell,N/A,HOU,WR,5'10,165,26,3,Houston,ACT
+Mario Edwards Jr. ,N/A,HOU,DT,6'3,280,32,10,Florida State,ACT
+Aireontae Ersery,N/A,HOU,T,6'6,330,23,R,Minnesota,ACT
+Ka'imi Fairbairn,N/A,HOU,K,6'1,183,32,10,UCLA,ACT
+Folorunso Fatukasi,N/A,HOU,DT,6'4,318,30,7,Connecticut,ACT
+Blake Fisher,N/A,HOU,T,6'6,312,22,2,Notre Dame,ACT
+Kyonte Hamilton,N/A,HOU,DT,6'4,304,23,R,Rutgers,ACT
+Jake Hansen,N/A,HOU,LB,6'1,230,27,4,Illinois,ACT
+Christian Harris,N/A,HOU,LB,6'2,232,25,4,Alabama,ACT
+Jayden Higgins,N/A,HOU,WR,6'4,215,23,R,Iowa State,ACT
+Jamal Hill,N/A,HOU,LB,6'1,227,24,2,Oregon,ACT
+Kurt Hinish,N/A,HOU,DT,6'1,296,26,4,Notre Dame,ACT
+Dylan Horton,N/A,HOU,DE,6'4,275,25,3,TCU,ACT
+Tytus Howard,N/A,HOU,T/G,6'5,322,29,7,Alabama State,ACT
+Danielle Hunter,N/A,HOU,DE,6'5,263,31,11,LSU,ACT
+Xavier Hutchinson,N/A,HOU,WR,6'3,210,25,3,Iowa State,ACT
+Alijah Huzzie,N/A,HOU,CB,5'10,195,25,R,North Carolina,ACT
+Ed Ingram,N/A,HOU,G,6'3,307,27,4,LSU,ACT
+Ja'Marcus Ingram,N/A,HOU,CB,6'2,190,28,2,Buffalo,ACT
+Naquan Jones,N/A,HOU,DT,6'3,313,28,5,Michigan State,ACT
+Brevin Jordan,N/A,HOU,TE,6'3,245,25,5,Miami (Fla.),ACT
+Jawhar Jordan,N/A,HOU,RB,5'10,185,26,1,Louisville,ACT
+Josh Kelly,N/A,HOU,WR,6'1,192,24,R,Texas Tech,ACT
+Jarrett Kingston,N/A,HOU,T,6'4,308,26,2,USC,ACT
+Christian Kirk,N/A,HOU,WR,5'11,200,29,8,Texas A&M,ACT
+Luke Lachey,N/A,HOU,TE,6'6,247,24,R,Iowa,ACT
+Kamari Lassiter,N/A,HOU,CB,6'1,180,23,2,Georgia,ACT
+Woody Marks,N/A,HOU,RB,5'10,208,25,R,USC,ACT
+Kaevon Merriweather,N/A,HOU,S,6'1,212,26,3,Iowa,ACT
+Graham Mertz,N/A,HOU,QB,6'2,216,25,R,Florida,ACT
+Davis Mills,N/A,HOU,QB,6'4,225,27,5,Stanford,ACT
+Joe Mixon,N/A,HOU,RB,6'1,220,29,9,Oklahoma,ACT
+Jaylin Noel,N/A,HOU,WR,5'11,201,23,R,Iowa State,ACT
+Dare Ogunbowale,N/A,HOU,RB,5'10,205,31,7,Wisconsin,ACT
+Jarrett Patterson,N/A,HOU,C/G,6'4,310,26,3,Notre Dame,ACT
+Jalen Pitre,N/A,HOU,S,6'1,200,26,4,Baylor,ACT
+Layne Pryor,N/A,HOU,TE,6'2,250,23,R,Northern Iowa,ACT
+Sheldon Rankins,N/A,HOU,DT,6'2,305,31,10,Louisville,ACT
+Jaylen Reed,N/A,HOU,S,6'1,212,23,R,Penn State,ACT
+Dalton Schultz,N/A,HOU,TE,6'5,242,29,8,Stanford,ACT
+Juice Scruggs,N/A,HOU,C/G,6'3,310,26,3,Penn State,ACT
+Tim Settle Jr. ,N/A,HOU,DT,6'3,313,28,8,Virginia Tech,ACT
+Jaylin Smith,N/A,HOU,CB,5'11,190,22,R,USC,ACT
+Tremon Smith,N/A,HOU,CB,5'11,190,29,8,Central Arkansas,ACT
+Sidy Sow,N/A,HOU,G,6'5,318,27,3,Eastern Michigan,ACT
+E.J. Speed,N/A,HOU,LB,6'4,227,30,7,Tarleton State,ACT
+M.J. Stewart,N/A,HOU,S,5'11,205,30,8,North Carolina,ACT
+Derek Stingley Jr.,N/A,HOU,CB,6'1,195,24,4,LSU,ACT
+Cade Stover,N/A,HOU,TE,6'4,251,25,2,Ohio State,ACT
+C.J. Stroud,N/A,HOU,QB,6'3,218,24,3,Ohio State,ACT
+Junior Tafuna,N/A,HOU,DT,6'3,305,24,R,Utah,ACT
+Xavier Thomas,N/A,HOU,LB,6'2,250,26,2,Clemson,ACT
+Tommy Togiai,N/A,HOU,DT,6'2,296,26,4,Ohio State,ACT
+Henry To'oTo'o,N/A,HOU,LB,6'2,228,25,3,Alabama,ACT
+Tommy Townsend,N/A,HOU,P,6'1,191,29,6,Florida,ACT
+Jimmie Ward,N/A,HOU,S,5'11,193,34,12,Northern Illinois,ACT
+Justin Watson,N/A,HOU,WR,6'2,215,29,8,Penn,ACT
+Jared Wayne,N/A,HOU,WR,6'3,210,25,1,Pittsburgh,ACT
+Kevin Zeitler,N/A,TEN,G,6'4,332,35,14,Wisconsin,ACT
+James Williams Sr.,N/A,TEN,LB,6'4,232,23,2,Miami,ACT
+Jihad Ward,N/A,TEN,OLB,6'5,285,31,10,Illinois,ACT
+Cam Ward,N/A,TEN,QB,6'2,219,23,R,Miami,ACT
+Olisaemeka Udoh,N/A,TEN,OL,6'6,320,29,7,Elon,ACT
+T'Vondre Sweat,N/A,TEN,NT,6'4,366,24,2,Texas,ACT
+Tyjae Spears,N/A,TEN,RB,5'11,195,24,3,Tulane,ACT
+Joey Slye,N/A,TEN,K,5'11,213,29,7,Virginia Tech,ACT
+Jackson Slater,N/A,TEN,G,6'3,311,22,R,Sacramento State,ACT
+Peter Skoronski,N/A,TEN,OL,6'4,313,24,3,Northwestern,ACT
+Jeffery Simmons,N/A,TEN,DT,6'4,305,28,7,Mississippi State,ACT
+Micah Robinson,N/A,TEN,CB,5'11,183,24,R,Tulane,ACT
+Jerrick Reed II,N/A,TEN,S,5'9,197,25,3,New Mexico,ACT
+C.J. Ravenell,N/A,TEN,DL,6'5,300,25,1,Missouri Western,ACT
+James Proche II,N/A,TEN,WR,5'11,193,29,7,SMU,ACT
+Tony Pollard,N/A,TEN,RB,6'1,209,28,7,Memphis,ACT
+Bryce Oliver,N/A,TEN,WR,6'1,214,25,2,Youngstown State,ACT
+Chig Okonkwo,N/A,TEN,TE,6'3,238,26,4,Maryland,ACT
+Kalel Mullings,N/A,TEN,RB,6'2,226,23,R,Michigan,ACT
+Drew Moss,N/A,TEN,G,6'3,303,22,R,Colorado State,ACT
+Dan Moore Jr.,N/A,TEN,T,6'5,315,27,5,Texas A&M,ACT
+Dorian Mausi,N/A,TEN,LB,6'1,234,23,R,Auburn,ACT
+David Martin-Robinson,N/A,TEN,TE,6'3,247,26,2,Temple,ACT
+James Lynch,N/A,TEN,DL,6'4,295,27,6,Baylor,ACT
+Corey Levin,N/A,TEN,C/G,6'4,307,31,7,Tennessee-Chattanooga,ACT
+JC Latham,N/A,TEN,T,6'6,342,23,2,Alabama,ACT
+Mason Kinsey,N/A,TEN,WR,5'11,200,27,3,Berry College,ACT
+Arden Key,N/A,TEN,OLB,6'5,240,29,8,LSU,ACT
+Sanoussi Kane,N/A,TEN,S,5'11,210,24,2,Purdue,ACT
+Sebastian Joseph-Day,N/A,TEN,DE,6'4,310,30,7,Rutgers,ACT
+Truman Jones,N/A,TEN,OLB,6'3,255,25,1,Harvard,ACT
+Cam Horsley,N/A,TEN,DT,6'3,312,24,R,Boston College,ACT
+Amani Hooker,N/A,TEN,S,5'11,210,27,7,Iowa,ACT
+Gunnar Helm,N/A,TEN,TE,6'5,241,23,R,Texas,ACT
+Johnny Hekker,N/A,TEN,P,6'5,225,36,14,Oregon State,ACT
+Jaylen Harrell,N/A,TEN,OLB,6'4,247,23,2,Michigan,ACT
+Erick Hallett,N/A,TEN,S,5'11,200,25,1,Pittsburgh,ACT
+Kemon Hall,N/A,TEN,CB,5'11,190,28,4,North Texas,ACT
+Cedric Gray,N/A,TEN,LB,6'2,234,23,2,North Carolina,ACT
+Ali Gaye,N/A,TEN,OLB,6'6,265,28,2,LSU,ACT
+Kaiir Elam,N/A,TEN,CB,6'1,202,24,4,Florida,ACT
+Chimere Dike,N/A,TEN,WR,6'1,196,24,R,Florida,ACT
+Garrett Dellinger,N/A,TEN,G,6'5,215,24,R,LSU,ACT
+Lloyd Cushenberry III,N/A,TEN,C,6'4,315,28,6,LSU,ACT
+Brandon Crenshaw-Dickson,N/A,TEN,T,6'7,316,24,R,Florida,ACT
+Morgan Cox,N/A,TEN,LS,6'4,233,39,16,Tennessee,ACT
+Julius Chestnut,N/A,TEN,RB,5'11,228,25,4,Sacred Heart University,ACT
+Kendell Brooks,N/A,TEN,DB,6'1,206,25,1,Michigan State,ACT
+Cody Barton,N/A,TEN,LB,6'2,237,29,7,Utah,ACT
+Darrell Baker Jr.,N/A,TEN,CB,6'1,190,27,3,Georgia Southern,ACT
+Joe Bachie,N/A,TEN,LB,6'2,235,27,6,Michigan State,ACT
+Elic Ayomanor,N/A,TEN,WR,6'2,206,22,R,Stanford,ACT
+Brandon Allen,N/A,TEN,QB,6'2,209,33,9,Arkansas,ACT
+Jalyn Armour-Davis,N/A,TEN,CB,6'1,200,26,4,Alabama,IR
+Mike Brown,N/A,TEN,S,6'1,218,26,3,Miami (Ohio),IR
+Blake Hance,N/A,TEN,OL,6'5,310,30,5,Northwestern,IR
+Marcus Harris,N/A,TEN,CB,5'11,188,24,R,California,IR
+Van Jefferson,N/A,TEN,WR,6'1,200,29,6,Florida,IR
+Will Levis,N/A,TEN,QB,6'4,229,26,3,Kentucky,IR
+Oluwafemi Oladejo,N/A,TEN,OLB,6'3,259,22,R,UCLA,IR
+Anfernee Orji,N/A,TEN,LB,6'2,230,25,2,Vanderbilt,IR
+Calvin Ridley,N/A,TEN,WR,6'1,190,31,7,Alabama,IR
+L'Jarius Sneed,N/A,TEN,CB,6'1,192,29,6,Louisiana Tech,IR
+Kevin Winston Jr.,N/A,TEN,S,6'2,213,22,R,Penn State,IR
+Xavier Woods,N/A,TEN,S,5'11,200,30,9,Louisiana Tech,IR
+Kris Abrams-Draine,N/A,DEN,CB,5'11,178,24,2,Missouri,ACT
+Nate Adkins,N/A,DEN,TE,6'3,252,26,3,South Carolina,ACT
+Zach Allen,N/A,DEN,DL,6'5,285,28,7,Boston College,ACT
+Tyler Badie,N/A,DEN,RB,5'8,197,27,2,Missouri,ACT
+Levelle Bailey,N/A,DEN,ILB,6'2,225,25,2,Fresno State,ACT
+Jahdae Barron,N/A,DEN,CB,5'11,200,24,R,Texas,ACT
+Garett Bolles,N/A,DEN,T,6'5,300,33,9,Utah,ACT
+Nik Bonitto,N/A,DEN,OLB,6'3,240,26,4,Oklahoma,ACT
+Pat Bryant,N/A,DEN,WR,6'2,204,23,R,Illinois,ACT
+Michael Burton,N/A,DEN,FB,6'1,247,34,11,Rutgers,ACT
+Jonathon Cooper,N/A,DEN,OLB,6'4,257,28,5,Ohio State,ACT
+Marques Cox,N/A,DEN,T,6'5,312,26,R,Kentucky,ACT
+Jeremy Crawshaw,N/A,DEN,P,6'3,205,24,R,Florida,ACT
+Frank Crum,N/A,DEN,T,6'7,315,25,2,Wyoming,ACT
+Michael Deiter,N/A,DEN,C,6'6,310,29,7,Wisconsin,ACT
+J.K. Dobbins,N/A,DEN,RB,5'10,212,27,6,Ohio State,ACT
+Sam Ehlinger,N/A,DEN,QB,6'1,222,27,5,Texas,ACT
+Jonah Elliss,N/A,DEN,OLB,6'2,246,22,2,Utah,ACT
+Evan Engram,N/A,DEN,TE,6'3,240,31,9,Mississippi,ACT
+Alex Forsyth,N/A,DEN,C,6'4,312,27,3,Oregon,ACT
+Mitchell Fraboni,N/A,DEN,LS,6'2,223,29,4,Arizona State,ACT
+Troy Franklin,N/A,DEN,WR,6'3,180,23,2,Oregon,ACT
+John Franklin-Myers,N/A,DEN,DL,6'4,288,29,8,Stephen F. Austin State,ACT
+Nick Gargiulo,N/A,DEN,G,6'5,310,25,1,South Carolina,ACT
+Dre Greenlaw,N/A,DEN,LB,6'1,230,28,7,Arkansas,ACT
+RJ Harvey,N/A,DEN,RB,5'8,205,25,R,UCF,ACT
+Matt Henningsen,N/A,DEN,DE,6'3,291,26,3,Wisconsin,ACT
+Talanoa Hufanga,N/A,DEN,S,6'1,200,26,5,USC,ACT
+Lil'Jordan Humphrey,N/A,DEN,WR,6'4,225,27,6,Texas,ACT
+Jordan Jackson,N/A,DEN,DL,6'4,294,28,2,Air Force,ACT
+Brandon Jones,N/A,DEN,S,6'1,191,27,6,Texas,ACT
+D.J. Jones,N/A,DEN,DT,6'1,305,31,9,Mississippi,ACT
+Nash Jones,N/A,DEN,G,6'4,314,23,R,Texas State-San Marcos,ACT
+Sai'vion Jones,N/A,DEN,DE,6'5,289,22,R,LSU,ACT
+Devon Key,N/A,DEN,DB,6'1,208,28,2,Western Kentucky,ACT
+Lucas Krull,N/A,DEN,TE,6'6,260,27,3,Pittsburgh,ACT
+P.J. Locke,N/A,DEN,S,5'10,202,29,6,Texas,ACT
+Caleb Lohner,N/A,DEN,TE,6'7,250,24,R,Utah,ACT
+Wil Lutz,N/A,DEN,K,5'11,184,31,10,Georgia State,ACT
+Mike McGlinchey,N/A,DEN,T,6'8,315,31,8,Notre Dame,ACT
+Jaleel McLaughlin,N/A,DEN,RB,5'7,187,25,3,Youngstown State,ACT
+Ja'Quan McMillian,N/A,DEN,CB,5'10,183,25,3,East Carolina,ACT
+Quinn Meinerz,N/A,DEN,G/C,6'3,320,27,5,Wisconsin-Whitewater,ACT
+Jordan Miller,N/A,DEN,NT,6'3,307,26,1,SMU,ACT
+Marvin Mims Jr.,N/A,DEN,WR,5'11,182,23,3,Oklahoma,ACT
+Riley Moss,N/A,DEN,CB,6'1,193,25,3,Iowa,ACT
+Sam Mustipher,N/A,DEN,C,6'3,306,29,6,Notre Dame,ACT
+Garrett Nelson,N/A,DEN,DE,6'4,245,25,1,Nebraska,ACT
+Bo Nix,N/A,DEN,QB,6'2,217,25,2,Oregon,ACT
+Alex Palczewski,N/A,DEN,T,6'6,314,26,3,Illinois,ACT
+Matt Peart,N/A,DEN,T,6'7,318,28,6,Connecticut,ACT
+Ben Powers,N/A,DEN,G,6'4,310,29,7,Oklahoma,ACT
+Adam Prentice,N/A,DEN,FB,6'1,245,29,5,South Carolina,ACT
+Karene Reid,N/A,DEN,ILB,6'1,226,25,R,Utah,ACT
+Malcolm Roach,N/A,DEN,DT,6'3,290,27,6,Texas,ACT
+Jaden Robinson,N/A,DEN,CB,6'1,193,25,R,Oregon State,ACT
+Que Robinson,N/A,DEN,OLB,6'4,243,24,R,Alabama,ACT
+Drew Sanders,N/A,DEN,LB,6'5,233,25,3,Arkansas,ACT
+Cody Schrader,N/A,DEN,RB,5'9,214,26,2,Missouri,ACT
+Alex Singleton,N/A,DEN,ILB,6'2,240,32,7,Montana State,ACT
+JL Skinner,N/A,DEN,S,6'4,220,24,3,Boise State,ACT
+Jarrett Stidham,N/A,DEN,QB,6'3,215,29,6,Auburn,ACT
+Justin Strnad,N/A,DEN,ILB,6'3,235,29,6,Wake Forest,ACT
+Pat Surtain II,N/A,DEN,CB,6'2,202,25,5,Alabama,ACT
+Courtland Sutton,N/A,DEN,WR,6'4,216,30,8,Southern Methodist,ACT
+Reese Taylor,N/A,DEN,CB,5'9,188,26,1,Purdue,ACT
+Calvin Throckmorton,N/A,DEN,G,6'5,311,29,5,Oregon,ACT
+Dondrea Tillman,N/A,DEN,OLB,6'4,247,27,2,Indiana University of Pennsylvania,ACT
+Adam Trautman,N/A,DEN,TE,6'5,253,29,6,Dayton,ACT
+Jordan Turner,N/A,DEN,ILB,6'1,231,24,R,Michigan State,ACT
+Eyioma Uwazurike,N/A,DEN,DL,6'6,320,27,3,Iowa State,ACT
+Deuce Vaughn,N/A,DEN,RB,5'6,176,24,3,Kansas State,ACT
+Johnny Walker,N/A,DEN,OLB,6'3,250,24,R,Missouri,ACT
+Luke Wattenberg,N/A,DEN,C,6'5,300,28,4,Washington,ACT
+Kristian Williams,N/A,DEN,DT,6'2,295,25,R,Missouri,ACT
+Keenan Allen,N/A,LAC,WR,6'2,211,33,13,California,ACT
+Mekhi Becton,N/A,LAC,G,6'7,363,26,6,Louisville,ACT
+Bradley Bozeman,N/A,LAC,C,6'5,325,31,8,Alabama,ACT
+Jamaree Caldwell,N/A,LAC,DT,6'1,340,25,R,Oregon,ACT
+Tyler Conklin,N/A,LAC,TE,6'3,248,30,8,Central Michigan,ACT
+Derius Davis,N/A,LAC,WR,5'8,165,25,3,TCU,ACT
+Austin Deculus,N/A,LAC,OT,6'5,321,26,3,LSU,ACT
+Cameron Dicker,N/A,LAC,K,6'1,216,25,4,Texas,ACT
+Will Dissly,N/A,LAC,TE,6'4,265,29,8,Washington,ACT
+Bud Dupree,N/A,LAC,OLB,6'4,269,33,11,Kentucky,ACT
+Troy Dye,N/A,LAC,LB,6'3,225,29,6,Oregon,ACT
+Justin Eboigbe,N/A,LAC,DL,6'5,292,24,2,Alabama,ACT
+Oronde Gadsden,N/A,LAC,TE,6'5,236,22,R,Syracuse,ACT
+Omarion Hampton,N/A,LAC,RB,6'1,220,22,R,North Carolina,ACT
+Da'Shawn Hand,N/A,LAC,DL,6'3,302,30,8,Alabama,ACT
+Tre' Harris,N/A,LAC,WR,6'3,210,23,R,Mississippi,ACT
+Josh Harris,N/A,LAC,LS,6'1,224,36,14,Auburn,ACT
+Cam Hart,N/A,LAC,CB,6'2,207,25,2,Notre Dame,ACT
+Bobby Hart,N/A,LAC,OT,6'4,334,31,9,Florida State,ACT
+Hassan Haskins,N/A,LAC,RB,6'2,228,26,4,Michigan,ACT
+Daiyan Henley,N/A,LAC,LB,6'1,225,26,3,Washington State,ACT
+Justin Herbert,N/A,LAC,QB,6'6,236,27,6,Oregon,ACT
+Donte Jackson,N/A,LAC,CB,5'10,180,30,7,Louisiana State,ACT
+Andre James,N/A,LAC,C,6'4,300,28,7,UCLA,ACT
+Derwin James Jr.,N/A,LAC,S,6'2,215,29,8,Florida State,ACT
+Tony Jefferson,N/A,LAC,S,5'11,212,34,11,Oklahoma,ACT
+Zion Johnson,N/A,LAC,G,6'3,316,26,4,Boston College,ACT
+Quentin Johnston,N/A,LAC,WR,6'2,208,24,3,TCU,ACT
+Kyle Kennard,N/A,LAC,OLB,6'5,254,24,R,South Carolina,ACT
+KeAndre Lambert-Smith,N/A,LAC,WR,6'1,182,24,R,Auburn,ACT
+Trey Lance,N/A,LAC,QB,6'4,226,25,5,North Dakota State,ACT
+Deane Leonard,N/A,LAC,DB,6'1,195,26,4,Mississippi,ACT
+Khalil Mack,N/A,LAC,OLB,6'3,269,34,12,Buffalo,ACT
+Scott Matlock,N/A,LAC,FB/DL,6'4,296,25,3,Boise State,ACT
+Ladd McConkey,N/A,LAC,WR,6'1,185,24,2,Georgia,ACT
+RJ Mickens,N/A,LAC,S,6'1,210,24,R,Clemson,ACT
+Elijah Molden,N/A,LAC,DB,5'10,192,27,5,Washington,ACT
+Otito Ogbonnia,N/A,LAC,DL,6'4,320,25,4,UCLA,ACT
+Odafe Oweh,N/A,LAC,OLB,6'5,251,27,5,Penn State,ACT
+Jaret Patterson,N/A,LAC,RB,5'8,195,26,2,Buffalo,ACT
+Trevor Penning,N/A,LAC,OT,6'7,325,26,4,Northern Iowa,ACT
+Denzel Perryman,N/A,LAC,LB,5'11,240,33,11,Miami,ACT
+Del'Shawn Phillips,N/A,LAC,LB,6'2,230,29,6,Illinois,ACT
+Trey Pipkins III,N/A,LAC,G/T,6'6,307,29,7,Sioux Falls,ACT
+Jamaree Salyer,N/A,LAC,OL,6'4,325,25,4,Georgia,ACT
+JK Scott,N/A,LAC,P,6'5,208,30,7,Alabama,ACT
+Benjamin St-Juste,N/A,LAC,CB,6'3,200,28,5,Minnesota,ACT
+Tarheeb Still,N/A,LAC,CB,6'1,196,23,2,Maryland,ACT
+Teair Tart,N/A,LAC,DL,6'2,315,28,6,Florida International,ACT
+Tuli Tuipulotu,N/A,LAC,OLB,6'3,266,23,3,Southern California,ACT
+Kimani Vidal,N/A,LAC,RB,5'8,215,24,2,Troy,ACT
+Marlowe Wax,N/A,LAC,LB,6'1,236,23,R,Syracuse,ACT
+Kendall Williamson,N/A,LAC,S,6'1,203,25,1,Stanford,ACT
+Joe Alt,N/A,LAC,T,6'8,322,22,2,Notre Dame,IR
+Junior Colson,N/A,LAC,LB,6'3,247,23,2,Michigan,IR
+Tucker Fisk,N/A,LAC,TE,6'4,285,27,2,Stanford,IR
+Josh Fuga,N/A,LAC,DL,6'2,313,25,R,Virginia Tech,IR
+Najee Harris,N/A,LAC,RB,6'1,242,27,5,Alabama,IR
+Jordan Oladokun,N/A,LAC,CB,6'1,190,23,R,Bowling Green State,IR
+Nikko Reed,N/A,LAC,CB,5'10,180,22,R,Oregon,IR
+Eric Rogers,N/A,LAC,CB,6'2,189,23,R,Rutgers,IR
+Rashawn Slater,N/A,LAC,T,6'4,315,26,5,Northwestern,IR
+Savion Washington,N/A,LAC,T,6'9,340,23,R,Syracuse,IR
+Matt Araiza,N/A,KC,P,6'1,200,25,2,San Diego State,ACT
+Jeffrey Bassa,N/A,KC,LB,6'2,235,23,R,Oregon,ACT
+Nick Bolton,N/A,KC,LB,5'11,237,25,5,Missouri,ACT
+Hollywood Brown,N/A,KC,WR,5'9,180,28,7,Oklahoma,ACT
+Harrison Butker,N/A,KC,K,6'4,205,30,9,Georgia Tech,ACT
+Mike Caliendo,N/A,KC,OL,6'4,301,28,3,Western Michigan,ACT
+Cole Christiansen,N/A,KC,LB,6'1,230,28,2,Army,ACT
+Jack Cochrane,N/A,KC,LB,6'3,236,27,4,South Dakota,ACT
+Chamarri Conner,N/A,KC,DB,6'1,202,25,3,Virginia Tech,ACT
+Bryan Cook,N/A,KC,S,6'1,206,26,4,Cincinnati,ACT
+Mike Danna,N/A,KC,DE,6'2,257,28,6,Michigan,ACT
+Ethan Downs,N/A,KC,OLB,6'4,263,23,R,Oklahoma,ACT
+Mike Edwards,N/A,KC,S,5'10,205,29,7,Kentucky,ACT
+Kristian Fulton,N/A,KC,CB,5'11,197,27,5,LSU,ACT
+Ashton Gillotte,N/A,KC,DE,6'3,270,23,R,Louisville,ACT
+Chukwuebuka Godrick,N/A,KC,OT,6'5,293,25,1,International,ACT
+Noah Gray,N/A,KC,TE,6'3,240,26,5,Duke,ACT
+C.J. Hanson,N/A,KC,OL,6'5,300,24,2,Holy Cross,ACT
+Jaden Hicks,N/A,KC,DB,6'1,215,23,2,Washington State,ACT
+Creed Humphrey,N/A,KC,C,6'4,302,26,5,Oklahoma,ACT
+Kareem Hunt,N/A,KC,RB,5'11,216,30,9,Toledo,ACT
+Nazeeh Johnson,N/A,KC,S,5'10,199,27,4,Marshall,ACT
+Chris Jones,N/A,KC,DT,6'6,310,31,10,Mississippi State,ACT
+George Karlaftis,N/A,KC,DE,6'4,263,24,4,Purdue,ACT
+Travis Kelce,N/A,KC,TE,6'5,250,36,13,Cincinnati,ACT
+Kevin Knowles,N/A,KC,DB,5'11,190,22,R,Florida State,ACT
+Cooper McDonald,N/A,KC,LB,6'3,240,24,R,TCU,ACT
+Jaylon Moore,N/A,KC,OL,6'4,311,28,5,Western Michigan,ACT
+Derrick Nnadi,N/A,KC,DT,6'1,317,29,8,Florida State,ACT
+Hunter Nourzad,N/A,KC,OL,6'3,317,25,2,Penn State,ACT
+Chris Oladokun,N/A,KC,QB,6'1,213,28,1,South Dakota State,ACT
+Charles Omenihu,N/A,KC,DE,6'5,280,28,7,Texas,ACT
+Isiah Pacheco,N/A,KC,RB,5'10,216,26,4,Rutgers,ACT
+Mike Pennel,N/A,KC,NT,6'4,330,34,11,Colorado State (Pueblo),ACT
+Zacch Pickens,N/A,KC,DT,6'4,303,25,3,South Carolina,ACT
+Dameon Pierce,N/A,KC,RB,5'10,215,25,4,Florida,ACT
+Esa Pole,N/A,KC,OL,6'7,319,24,R,Washington State,ACT
+Jalen Royals,N/A,KC,WR,6'1,195,23,R,Utah State,ACT
+Brashard Smith,N/A,KC,RB,5'10,196,22,R,SMU,ACT
+Trey Smith,N/A,KC,G,6'6,321,26,5,Tennessee,ACT
+Melvin Smith Jr.,N/A,KC,CB,6'1,185,23,R,Southern Arkansas,ACT
+Tyreke Smith,N/A,KC,DE,6'3,255,26,3,Ohio State,ACT
+JuJu Smith-Schuster,N/A,KC,WR,6'1,215,29,9,USC,ACT
+Kingsley Suamataia,N/A,KC,T,6'4,326,23,2,BYU,ACT
+Jerry Tillery,N/A,KC,DL,6'6,295,29,7,Notre Dame,ACT
+Robert Tonyan,N/A,KC,TE,6'5,240,31,7,Indiana State,ACT
+Drue Tranquill,N/A,KC,LB,6'2,234,30,7,Notre Dame,ACT
+Jared Wiley,N/A,KC,TE,6'6,249,25,2,TCU,ACT
+Joshua Williams,N/A,KC,CB,6'3,193,26,4,Fayetteville State University,ACT
+Nohl Williams,N/A,KC,DB,6'1,200,23,R,California,ACT
+James Winchester,N/A,KC,LS,6'3,240,36,11,Oklahoma,ACT
+Xavier Worthy,N/A,KC,WR,5'11,165,22,2,Texas,ACT
+Felix Anudike-Uzomah,N/A,KC,DE,6'4,255,24,3,Kansas State,IR
+Jake Briningstool,N/A,KC,TE,6'6,240,23,R,Clemson,IR
+Deon Bush,N/A,KC,S,6'1,200,32,9,Miami,IR
+Leo Chenal,N/A,KC,LB,6'3,250,25,4,Wisconsin,IR
+Brandon George,N/A,KC,LB,6'3,240,25,R,Pittsburgh,IR
+Keaontay Ingram,N/A,KC,RB,6'1,220,26,3,USC,IR
+Patrick Mahomes ,N/A,KC,QB,6'2,225,30,9,Texas Tech,IR
+Trent McDuffie,N/A,KC,CB,5'11,193,25,4,Washington,IR
+Gardner Minshew,N/A,KC,QB,6'1,225,29,7,Washington State,IR
+Wanya Morris,N/A,KC,OL,6'6,307,25,3,Oklahoma,IR
+Omarr Norman-Lott,N/A,KC,DT,6'3,315,23,R,Tennessee,IR
+Nikko Remigio,N/A,KC,WR,5'9,187,26,1,Fresno State,IR
+Rashee Rice,N/A,KC,WR,6'1,204,25,3,SMU,IR
+Janarius Robinson,N/A,KC,DE,6'5,263,27,5,Florida State,IR
+Chris Roland-Wallace,N/A,KC,CB,5'11,202,24,2,USC,IR
+Eric Scott,N/A,KC,CB,6'2,202,26,2,Southern Mississippi,IR
+Josh Simmons,N/A,KC,OT,6'5,310,23,R,Ohio State,IR
+Jawaan Taylor,N/A,KC,T,6'5,330,28,7,Florida,IR
+Tyquan Thornton,N/A,KC,WR,6'2,185,25,4,Baylor,IR
+Jaylen Watson,N/A,KC,CB,6'2,197,27,4,Washington State,IR
+Ethan Driskell,N/A,KC,OT,6'8,313,25,2,Marshall,IR
+Jamal Adams,N/A,LV,LB,6'1,213,30,9,LSU,ACT
+Chigozie Anusiem,N/A,LV,CB,6'1,200,25,2,Colorado State,ACT
+Alex Bachman,N/A,LV,WR,6'1,190,29,2,Wake Forest,ACT
+Jack Bech,N/A,LV,WR,6'1,214,23,R,TCU,ACT
+Jacob Bobenmoyer,N/A,LV,LS,6'1,235,28,6,Northern Colorado,ACT
+Thomas Booker IV,N/A,LV,DT,6'3,301,26,3,Stanford,ACT
+Adam Butler,N/A,LV,DT,6'4,301,31,8,Vanderbilt,ACT
+Alex Cappa,N/A,LV,G,6'6,312,31,8,Humboldt State,ACT
+Daniel Carlson,N/A,LV,K,6'5,215,31,8,Auburn,ACT
+AJ Cole,N/A,LV,P,6'4,220,30,7,NC State,ACT
+Terrell Edmunds,N/A,LV,S,6'1,217,29,8,Virginia Tech,ACT
+Tommy Eichenberg,N/A,LV,LB,6'2,234,25,2,Ohio State,ACT
+Stone Forsythe,N/A,LV,OL,6'8,307,28,5,Florida,ACT
+DJ Glaze,N/A,LV,T,6'4,331,23,2,Maryland,ACT
+Charles Grant,N/A,LV,T,6'4,304,23,R,William & Mary,ACT
+Jahfari Harvey,N/A,LV,DE,6'2,255,24,R,SMU,ACT
+Tonka Hemingway,N/A,LV,DT,6'2,284,24,R,South Carolina,ACT
+Darnay Holmes,N/A,LV,CB,5'10,198,27,6,UCLA,ACT
+Shedrick Jackson,N/A,LV,WR,6'1,198,26,1,Auburn,ACT
+Ashton Jeanty,N/A,LV,RB,5'8,208,22,R,Boise State,ACT
+Lonnie Johnson Jr.,N/A,LV,S,6'2,221,30,7,Kentucky,ACT
+Malcolm Koonce,N/A,LV,DE,6'3,243,27,5,Buffalo,ACT
+Dylan Laube,N/A,LV,RB,5'9,204,26,2,New Hampshire,ACT
+Jonah Laulu,N/A,LV,DT,6'5,289,25,2,Oklahoma,ACT
+Cody Lindenberg,N/A,LV,LB,6'2,236,24,R,Minnesota,ACT
+Tyler Lockett,N/A,LV,WR,5'10,182,33,11,Kansas State,ACT
+Atonio Mafi,N/A,LV,G,6'3,330,25,2,UCLA,ACT
+Brodric Martin,N/A,LV,DT,6'5,330,26,3,Western Kentucky,ACT
+Michael Mayer,N/A,LV,TE,6'4,256,24,3,Notre Dame,ACT
+Tristin McCollum,N/A,LV,S,6'3,195,26,2,Sam Houston State,ACT
+Raheem Mostert,N/A,LV,RB,5'10,212,33,11,Purdue,ACT
+Aidan O'Connell,N/A,LV,QB,6'3,206,27,3,Purdue,ACT
+Dylan Parham,N/A,LV,G,6'2,332,26,4,Memphis,ACT
+JJ Pegues,N/A,LV,DT,6'2,325,24,R,Mississippi,ACT
+Kenny Pickett,N/A,LV,QB,6'3,220,27,4,Pittsburgh,ACT
+Isaiah Pola-Mao,N/A,LV,S,6'3,204,26,4,USC,ACT
+Darien Porter,N/A,LV,CB,6'2,195,25,R,Iowa State,ACT
+Will Putnam,N/A,LV,C,6'4,301,25,1,Clemson,ACT
+Jon Rhattigan,N/A,LV,LB,6'1,236,27,5,Army,ACT
+Decamerion Richardson,N/A,LV,CB,6'2,192,24,2,Mississippi State,ACT
+Elandon Roberts,N/A,LV,LB,5'11,235,31,10,Houston,ACT
+Caleb Rogers,N/A,LV,G,6'4,312,24,R,Texas Tech,ACT
+Carter Runyon,N/A,LV,TE,6'4,243,24,R,Towson,ACT
+Geno Smith,N/A,LV,QB,6'3,221,35,13,West Virginia,ACT
+Charles Snowden,N/A,LV,DE,6'6,250,27,2,Virginia,ACT
+Eric Stokes,N/A,LV,CB,6'1,193,26,5,Georgia,ACT
+Ian Thomas,N/A,LV,TE,6'3,253,29,8,Indiana,ACT
+Dont'e Thornton Jr.,N/A,LV,WR,6'5,205,23,R,Tennessee,ACT
+Tre Tucker,N/A,LV,WR,5'8,182,24,3,Cincinnati,ACT
+Greedy Vance,N/A,LV,CB,5'9,177,24,R,USC,ACT
+Devin White,N/A,LV,LB,6'1,252,28,7,LSU,ACT
+Zamir White,N/A,LV,RB,5'11,227,26,4,Georgia,ACT
+Tyree Wilson,N/A,LV,DE,6'5,263,25,3,Texas Tech,ACT
+Brock Bowers,N/A,LV,TE,6'4,235,23,2,Georgia,IR
+Jeremy Chinn,N/A,LV,S,6'3,220,27,6,Southern Illinois,IR
+Maxx Crosby,N/A,LV,DE,6'5,255,28,7,Eastern Michigan,IR
+Brennan Jackson,N/A,LV,LB,6'4,263,25,2,Washington State,IR
+Kyu Blu Kelly,N/A,LV,CB,6'1,188,24,2,Stanford,IR
+Jordan Meredith,N/A,LV,C/G,6'2,301,28,3,Western Kentucky,IR
+Kolton Miller,N/A,LV,T,6'8,326,30,8,UCLA,IR
+Jackson Powers-Johnson,N/A,LV,G/C,6'3,325,23,2,Oregon,IR
+Saquon Barkley,N/A,PHI,RB,6'1,233,29,8,Penn State,ACT
+Zack Baun,N/A,PHI,LB,6'3,225,29,6,Wisconsin,ACT
+Jaheim Bell,N/A,PHI,TE,6'2,241,24,2,Florida State,ACT
+Jakorian Bennett,N/A,PHI,CB,5'10,200,25,3,Maryland,ACT
+Tank Bigsby,N/A,PHI,RB,5'11,215,23,3,Auburn,ACT
+Reed Blankenship,N/A,PHI,S,6'1,203,26,4,Middle Tennessee State,ACT
+A.J. Brown,N/A,PHI,WR,6'1,226,28,7,Mississippi,ACT
+Sydney Brown,N/A,PHI,S,5'10,211,25,3,Illinois,ACT
+Grant Calcaterra,N/A,PHI,TE,6'4,240,27,4,SMU,ACT
+Chance Campbell,N/A,PHI,LB,6'2,232,26,4,Mississippi,ACT
+Jihaad Campbell,N/A,PHI,LB,6'3,235,21,R,Alabama,ACT
+Jalen Carter,N/A,PHI,DT,6'3,314,24,3,Georgia,ACT
+Michael Carter II,N/A,PHI,CB,5'10,184,26,5,Duke,ACT
+Tariq Castro-Fields,N/A,PHI,DB,6'1,197,27,3,Penn State,ACT
+Darius Cooper,N/A,PHI,WR,5'11,210,24,R,Tarleton State,ACT
+Britain Covey,N/A,PHI,WR,5'8,173,28,4,Utah,ACT
+Jordan Davis,N/A,PHI,DT,6'6,336,26,4,Georgia,ACT
+Nakobe Dean,N/A,PHI,LB,5'11,231,25,4,Georgia,ACT
+Cooper DeJean,N/A,PHI,DB,6'1,198,23,2,Iowa,ACT
+Landon Dickerson,N/A,PHI,G,6'6,332,27,5,Alabama,ACT
+A.J. Dillon,N/A,PHI,RB,6'1,247,27,6,Boston College,ACT
+Jahan Dotson,N/A,PHI,WR,5'11,184,25,4,Penn State,ACT
+Jake Elliott,N/A,PHI,K,5'9,167,31,9,Memphis,ACT
+Marcus Epps,N/A,PHI,S,6'1,198,30,7,Wyoming,ACT
+Dallas Goedert,N/A,PHI,TE,6'5,256,31,8,South Dakota State,ACT
+Brandon Graham,N/A,PHI,DE,6'2,265,37,16,Michigan,ACT
+Kylen Granson,N/A,PHI,TE,6'3,242,27,5,SMU,ACT
+Danny Gray,N/A,PHI,WR,6'1,200,26,3,SMU,ACT
+Gabe Hall,N/A,PHI,DT,6'6,295,25,1,Baylor,ACT
+Sam Howell,N/A,PHI,QB,6'1,220,25,4,North Carolina,ACT
+Jalyx Hunt,N/A,PHI,OLB,6'3,252,24,2,Houston Christian,ACT
+Jalen Hurts,N/A,PHI,QB,6'1,223,27,6,Oklahoma,ACT
+Adoree' Jackson,N/A,PHI,CB,5'11,185,30,9,USC,ACT
+E.J. Jenkins,N/A,PHI,TE,6'6,245,27,2,Georgia Tech,ACT
+Brandon Johnson,N/A,PHI,DB,5'10,185,22,R,Oregon,ACT
+Lane Johnson,N/A,PHI,T,6'6,325,35,13,Oklahoma,ACT
+Fred Johnson,N/A,PHI,T,6'7,326,28,7,Florida,ACT
+Cam Jurgens,N/A,PHI,C/G,6'3,303,26,4,Nebraska,ACT
+Drew Kendall,N/A,PHI,C/G,6'4,308,24,R,Boston College,ACT
+Cameron Latu,N/A,PHI,TE,6'5,244,25,2,Alabama,ACT
+Jordan Mailata,N/A,PHI,T,6'8,365,28,8,,ACT
+Jake Majors,N/A,PHI,C/G,6'3,306,24,R,Texas,ACT
+Braden Mann,N/A,PHI,P,5'11,198,28,6,Texas A&M,ACT
+Tanner McKee,N/A,PHI,QB,6'6,231,25,3,Stanford,ACT
+Mac McWilliams,N/A,PHI,CB,5'10,191,24,R,Central Florida,ACT
+Quinyon Mitchell,N/A,PHI,CB,6'1,193,24,2,Toledo,ACT
+Smael Mondon Jr.,N/A,PHI,LB,6'2,224,23,R,Georgia,ACT
+Moro Ojomo,N/A,PHI,DT,6'3,292,24,3,Texas,ACT
+John Ojukwu,N/A,PHI,OT,6'5,309,27,2,Boise State,ACT
+Jaelan Phillips,N/A,PHI,OLB,6'5,266,26,5,Miami,ACT
+Hollin Pierce,N/A,PHI,OL,6'8,341,24,R,Rutgers,ACT
+Matt Pryor,N/A,PHI,OL,6'7,332,31,8,TCU,ACT
+Jose Ramirez,N/A,PHI,OLB,6'2,252,26,2,Eastern Michigan,ACT
+Kelee Ringo,N/A,PHI,CB,6'2,207,23,3,Georgia,ACT
+Ty Robinson,N/A,PHI,DT,6'5,288,24,R,Nebraska,ACT
+Andre' Sam,N/A,PHI,S,5'10,194,27,1,LSU,ACT
+Will Shipley,N/A,PHI,RB,5'11,209,23,2,Clemson,ACT
+DeVonta Smith,N/A,PHI,WR,6'1,170,27,5,Alabama,ACT
+Nolan Smith Jr.,N/A,PHI,OLB,6'2,238,25,3,Georgia,ACT
+Carson Steele,N/A,PHI,RB,6'1,228,23,2,UCLA,ACT
+Tyler Steen,N/A,PHI,OL,6'6,321,25,3,Alabama,ACT
+Ambry Thomas,N/A,PHI,CB,6'1,190,26,5,Michigan,ACT
+Brett Toth,N/A,PHI,T/G,6'6,304,29,6,Army,ACT
+Jeremiah Trotter Jr.,N/A,PHI,LB,6'1,225,23,2,Clemson,ACT
+Joshua Uche,N/A,PHI,OLB,6'3,226,27,6,Michigan,ACT
+Quez Watkins,N/A,PHI,WR,6'1,193,27,5,Southern Mississippi,ACT
+Cameron Williams,N/A,PHI,T,6'5,317,22,R,Texas,ACT
+Byron Young,N/A,PHI,DT,6'3,292,25,3,Alabama,ACT
+Myles Hinton,N/A,PHI,T,6'6,323,24,R,Michigan,ACT
+Willie Lampkin,N/A,PHI,G/C,5'11,290,24,R,North Carolina,ACT
+Andrew Mukuba,N/A,PHI,S,5'11,186,23,R,Texas,ACT
+Azeez Ojulari,N/A,PHI,OLB,6'3,240,25,5,Georgia,ACT
+Ogbo Okoronkwo,N/A,PHI,OLB,6'2,253,30,8,Oklahoma,ACT
+Ben VanSumeren,N/A,PHI,FB,6'2,231,25,3,Michigan State,ACT
+Johnny Wilson,N/A,PHI,WR,6'6,228,24,2,Florida State,ACT
+Paulson Adebo,N/A,NYG,CB,6'1,192,26,5,Stanford,ACT
+Darius Alexander,N/A,NYG,DL,6'4,310,25,R,Toledo,ACT
+Deonte Banks,N/A,NYG,CB,6'2,200,24,3,Maryland,ACT
+Zaire Barnes,N/A,NYG,LB,6'1,232,26,3,Western Michigan,ACT
+Daniel Bellinger,N/A,NYG,TE,6'6,255,25,4,San Diego State,ACT
+Dane Belton,N/A,NYG,S,6'1,190,25,4,Iowa,ACT
+Jarrick Bernard-Converse,N/A,NYG,CB,6'1,205,25,3,LSU,ACT
+Korie Black,N/A,NYG,CB,6'1,190,23,R,Oklahoma State,ACT
+Beau Brade,N/A,NYG,S,6'1,209,24,2,Maryland,ACT
+Brian Burns,N/A,NYG,OLB,6'5,250,27,7,Florida State,ACT
+Dalen Cambre,N/A,NYG,WR,6'1,192,24,R,Louisiana,ACT
+Abdul Carter,N/A,NYG,OLB,6'3,252,22,R,Penn State,ACT
+Elijah Chatman,N/A,NYG,DL,6'1,278,25,2,SMU,ACT
+Jaxson Dart,N/A,NYG,QB,6'2,223,22,R,Mississippi,ACT
+Jermaine Eluemunor,N/A,NYG,OL,6'4,338,31,9,Texas A&M,ACT
+Demetrius Flannigan-Fowles,N/A,NYG,LB,6'2,223,29,6,Arizona,ACT
+Tomon Fox,N/A,NYG,OLB,6'2,245,27,3,North Carolina,ACT
+Jamie Gillan,N/A,NYG,P,6'1,207,28,7,University of Arkansas at Pine Bluff,ACT
+Xavier Gipson,N/A,NYG,WR,5'9,189,24,3,Stephen F. Austin State,ACT
+Chauncey Golston,N/A,NYG,DL,6'5,277,28,5,Iowa,ACT
+Eric Gray,N/A,NYG,RB,5'10,211,26,3,Oklahoma,ACT
+Art Green,N/A,NYG,CB,6'2,200,25,2,Houston,ACT
+Neville Hewitt,N/A,NYG,LB,6'2,235,32,11,Marshall,ACT
+Isaiah Hodgins,N/A,NYG,WR,6'3,200,27,4,Oregon State,ACT
+Jevón Holland,N/A,NYG,S,6'1,207,25,5,Oregon,ACT
+Bryan Hudson,N/A,NYG,C,6'5,305,25,1,Louisville,ACT
+James Hudson III,N/A,NYG,OL,6'5,313,26,5,Cincinnati,ACT
+Jalin Hyatt,N/A,NYG,WR,6'1,185,24,3,Tennessee,ACT
+Courtney Jackson,N/A,NYG,WR,5'11,189,24,R,Arkansas State,ACT
+Theo Johnson,N/A,NYG,TE,6'6,264,24,2,Penn State,ACT
+Casey Kreiter,N/A,NYG,LS,6'1,250,35,10,Iowa,ACT
+Dexter Lawrence II,N/A,NYG,DL,6'4,340,28,7,Clemson,ACT
+Raheem Layne,N/A,NYG,S,5'11,192,26,3,Indiana,ACT
+Chris Manhertz,N/A,NYG,TE,6'6,235,33,10,Canisius College,ACT
+Marcus Mbow,N/A,NYG,OL,6'5,300,22,R,Purdue,ACT
+Dante Miller,N/A,NYG,RB,5'9,200,26,1,South Carolina,ACT
+Ryan Miller,N/A,NYG,WR,6'2,221,25,2,Furman,ACT
+Darius Muasau,N/A,NYG,LB,6'1,234,25,2,UCLA,ACT
+Caleb Murphy,N/A,NYG,OLB,6'3,254,26,3,Ferris State,ACT
+Bobby Okereke,N/A,NYG,ILB,6'2,235,29,7,Stanford,ACT
+Gunner Olszewski,N/A,NYG,WR,6'1,190,29,7,Bemidji State University,ACT
+Rico Payton,N/A,NYG,CB,6'1,182,26,2,Pittsburg State (KS),ACT
+Dru Phillips,N/A,NYG,CB,5'11,180,24,2,Kentucky,ACT
+Roy Robertson-Harris,N/A,NYG,DT,6'7,300,32,9,Texas-El Paso,ACT
+Jon Runyan,N/A,NYG,G,6'4,307,28,6,Michigan,ACT
+Ben Sauls,N/A,NYG,K,5'10,185,24,R,Pittsburgh,ACT
+Austin Schlottmann,N/A,NYG,OL,6'6,300,30,7,TCU,ACT
+Devin Singletary,N/A,NYG,RB,5'7,203,28,7,Florida Atlantic,ACT
+Darius Slayton,N/A,NYG,WR,6'1,198,29,7,Auburn,ACT
+Aaron Stinnie,N/A,NYG,OL,6'3,312,32,8,James Madison,ACT
+Tyrone Tracy Jr.,N/A,NYG,RB,5'11,210,26,2,Purdue,ACT
+Greg Van Roten,N/A,NYG,G,6'4,295,35,11,Penn,ACT
+Russell Wilson,N/A,NYG,QB,5'11,206,37,14,Wisconsin,ACT
+Jameis Winston,N/A,NYG,QB,6'4,231,32,11,Florida State,ACT
+Evan Neal,N/A,NYG,OL,6'7,340,25,4,Alabama,ACT
+Chris Board,N/A,NYG,LB,6'2,229,30,8,North Dakota State,IR
+Beaux Collins,N/A,NYG,WR,6'3,206,23,R,Notre Dame,IR
+D.J. Davidson,N/A,NYG,DL,6'5,320,26,4,Arizona State,IR
+Victor Dimukeje,N/A,NYG,OLB,6'2,262,26,5,Duke,IR
+Joshua Ezeudu,N/A,NYG,OL,6'4,310,26,4,North Carolina,IR
+Da'Quan Felton,N/A,NYG,WR,6'5,216,25,R,Virginia Tech,IR
+Thomas Fidone II,N/A,NYG,TE,6'6,255,23,R,Nebraska,IR
+Cor'Dale Flott,N/A,NYG,CB,6'2,175,24,4,LSU,IR
+Bryce Ford-Wheaton,N/A,NYG,WR,6'3,220,25,3,West Virginia,IR
+Graham Gano,N/A,NYG,K,6'2,202,38,16,Florida State,IR
+Anthony Johnson Jr.,N/A,NYG,S,6'1,205,26,3,Iowa State,IR
+Nic Jones,N/A,NYG,CB,6'1,189,24,2,Ball State,IR
+Micah McFadden,N/A,NYG,ILB,6'2,232,26,4,Indiana,IR
+TJ Moore,N/A,NYG,CB,6'1,185,24,R,Mercer,IR
+Malik Nabers,N/A,NYG,WR,6'1,200,22,2,LSU,IR
+Tyler Nubin,N/A,NYG,S,6'2,210,24,2,Minnesota,IR
+Rakeem Nuñez-Roches Sr.,N/A,NYG,DL,6'2,305,32,11,Southern Mississippi,IR
+Wan'Dale Robinson,N/A,NYG,WR,5'8,185,25,4,Kentucky,IR
+John Michael Schmitz Jr.,N/A,NYG,C,6'4,320,26,3,Minnesota,IR
+Cam Skattebo,N/A,NYG,RB,5'11,215,24,R,Arizona State,IR
+Kayvon Thibodeaux,N/A,NYG,OLB,6'5,258,25,4,Oregon,IR
+Andrew Thomas,N/A,NYG,T,6'5,315,27,6,Georgia,IR
+Nick Allegretti,N/A,WAS,G,6'4,310,29,7,Illinois,ACT
+John Bates,N/A,WAS,TE,6'6,256,28,5,Boise State,ACT
+Nick Bellore,N/A,WAS,LB,6'1,250,36,15,Central Michigan,ACT
+Treylon Burks,N/A,WAS,WR,6'2,225,25,4,Arkansas,ACT
+Percy Butler,N/A,WAS,S,6'1,190,25,4,Louisiana,ACT
+Brandon Coleman,N/A,WAS,T,6'6,320,25,2,TCU,ACT
+Josh Conerly Jr.,N/A,WAS,T,6'4,315,22,R,Oregon,ACT
+Jacory Croskey-Merritt,N/A,WAS,RB,5'11,208,24,R,Arizona,ACT
+Jayden Daniels,N/A,WAS,QB,6'4,210,25,2,LSU,ACT
+Sheldon Day,N/A,WAS,DT,6'1,294,31,9,Notre Dame,ACT
+Jeff Driskel,N/A,WAS,QB,6'4,231,32,9,Louisiana Tech,ACT
+Chase Edmonds,N/A,WAS,RB,5'9,205,29,8,Fordham,ACT
+George Fant,N/A,WAS,T,6'5,296,33,10,Western Kentucky,ACT
+Julian Good-Jones,N/A,WAS,C/G,6'5,313,28,2,Iowa State,ACT
+Antonio Hamilton Sr.,N/A,WAS,CB,6'1,188,33,10,South Carolina State,ACT
+Will Harris,N/A,WAS,S,6'1,206,30,7,Boston College,ACT
+Sam Hartman,N/A,WAS,QB,6'1,209,26,1,Notre Dame,ACT
+Jalyn Holmes,N/A,WAS,DE,6'5,283,30,6,Ohio State,ACT
+Noah Igbinoghene,N/A,WAS,CB,5'11,197,26,6,Auburn,ACT
+Drake Jackson,N/A,WAS,DE,6'4,273,24,3,USC,ACT
+Josh Johnson,N/A,WAS,QB,6'3,214,39,11,San Diego,ACT
+Jonathan Jones,N/A,WAS,CB,5'9,185,32,10,Auburn,ACT
+Ale Kaho,N/A,WAS,LB,6'2,230,25,R,UCLA,ACT
+Javon Kinlaw,N/A,WAS,DT,6'5,319,28,6,South Carolina,ACT
+Frankie Luvu,N/A,WAS,LB,6'3,235,29,8,Washington State,ACT
+Jordan Magee,N/A,WAS,LB,6'3,225,24,2,Temple,ACT
+Marcus Mariota,N/A,WAS,QB,6'4,222,32,11,Oregon,ACT
+Jacob Martin,N/A,WAS,DE,6'2,242,30,8,Temple,ACT
+Quan Martin,N/A,WAS,S,6'1,195,25,3,Illinois,ACT
+Terry McLaurin,N/A,WAS,WR,6'1,210,30,7,Ohio State,ACT
+Jeremy McNichols,N/A,WAS,RB,5'9,205,30,5,Boise State,ACT
+Kain Medrano,N/A,WAS,LB,6'3,230,25,R,UCLA,ACT
+Von Miller,N/A,WAS,LB,6'3,250,36,15,Texas A&M,ACT
+Jake Moody,N/A,WAS,K,6'1,210,26,3,Michigan,ACT
+Chris Moore,N/A,WAS,WR,6'1,200,32,9,Cincinnati,ACT
+Jer'Zhan Newton,N/A,WAS,DT,6'2,295,23,2,Illinois,ACT
+Tyler Ott,N/A,WAS,LS,6'3,252,33,11,Harvard,ACT
+Tyler Owens,N/A,WAS,S,6'2,213,24,2,Texas Tech,ACT
+Chris Paul,N/A,WAS,G,6'4,324,27,4,Tulsa,ACT
+Daron Payne,N/A,WAS,DT,6'3,320,28,8,Alabama,ACT
+Jeremy Reaves,N/A,WAS,S,5'11,200,29,6,South Alabama,ACT
+Chris Rodriguez Jr.,N/A,WAS,RB,5'11,224,26,3,Kentucky,ACT
+Mike Sainristil,N/A,WAS,CB,5'10,182,25,2,Michigan,ACT
+Deebo Samuel,N/A,WAS,WR,6'1,215,30,7,South Carolina,ACT
+Trent Scott,N/A,WAS,T,6'5,320,32,8,Grambling State,ACT
+Ben Sinnott,N/A,WAS,TE,6'4,245,23,2,Kansas State,ACT
+Preston Smith,N/A,WAS,DE,6'5,265,33,11,Mississippi State,ACT
+Laremy Tunsil,N/A,WAS,T,6'5,313,31,10,Mississippi,ACT
+Shy Tuttle,N/A,WAS,DT,6'3,300,30,7,Tennessee,ACT
+Bobby Wagner,N/A,WAS,LB,6'1,242,35,14,Utah State,ACT
+Tress Way,N/A,WAS,P,6'1,220,35,12,Oklahoma,ACT
+Andrew Wylie,N/A,WAS,G/T,6'5,304,31,8,Eastern Michigan,ACT
+Colson Yankoff,N/A,WAS,TE,6'4,225,25,2,UCLA,ACT
+Trey Amos,N/A,WAS,CB,6'1,190,23,R,Mississippi,IR
+Dorance Armstrong,N/A,WAS,DE,6'4,255,28,8,Kansas,IR
+Tyler Biadasz,N/A,WAS,C,6'4,316,28,6,Wisconsin,IR
+Noah Brown,N/A,WAS,WR,6'2,225,30,9,Ohio State,IR
+Sam Cosmi,N/A,WAS,T/G,6'7,309,27,5,Texas,IR
+Austin Ekeler,N/A,WAS,RB,5'10,200,30,9,Western State,IR
+Zach Ertz,N/A,WAS,TE,6'5,250,35,13,Stanford,IR
+Eddie Goldman,N/A,WAS,DT,6'3,320,32,8,Florida State,IR
+Tyree Jackson,N/A,WAS,TE,6'7,249,28,3,Buffalo,IR
+Javontae Jean-Baptiste,N/A,WAS,DE,6'4,260,25,2,Notre Dame,IR
+Jaylin Lane,N/A,WAS,WR,5'10,196,23,R,Virginia Tech,IR
+Marshon Lattimore,N/A,WAS,CB,6'1,192,29,9,Ohio State,IR
+Luke McCaffrey,N/A,WAS,WR,6'2,195,24,2,Rice,IR
+Lucas Niang,N/A,WAS,T,6'6,315,27,4,TCU,IR
+Deatrich Wise Jr.,N/A,WAS,DE,6'5,280,31,9,Arkansas,IR
+Bryan Anger,N/A,DAL,P,6'3,202,37,14,California,ACT
+Justin Barron,N/A,DAL,LB,6'4,235,24,R,Syracuse,ACT
+Cooper Beebe,N/A,DAL,C,6'4,335,24,2,Kansas State,ACT
+Markquese Bell,N/A,DAL,S,6'3,205,27,4,Florida A&M,ACT
+DaRon Bland,N/A,DAL,CB,6'1,197,26,4,Fresno State,ACT
+Jaydon Blue,N/A,DAL,RB,5'9,196,22,R,Texas,ACT
+Tyler Booker,N/A,DAL,G,6'4,321,21,R,Alabama,ACT
+Trikweze Bridges,N/A,DAL,CB,6'2,200,25,R,Florida,ACT
+Caelen Carson,N/A,DAL,CB,6'1,195,23,2,Wake Forest,ACT
+Alijah Clark,N/A,DAL,DB,6'1,187,22,R,Syracuse,ACT
+Kenny Clark,N/A,DAL,DT,6'3,314,30,10,UCLA,ACT
+Ajani Cornelius,N/A,DAL,OT,6'4,310,23,R,Oregon,ACT
+Malik Davis,N/A,DAL,RB,5'11,202,27,2,Florida,ACT
+Donovan Ezeiruaku,N/A,DAL,DE,6'2,248,22,R,Boston College,ACT
+Jake Ferguson,N/A,DAL,TE,6'5,244,27,4,Wisconsin,ACT
+Ryan Flournoy,N/A,DAL,WR,6'1,200,26,2,Southeast Missouri State,ACT
+Tyler Guyton,N/A,DAL,T,6'7,322,23,2,Oklahoma,ACT
+Malik Hooker,N/A,DAL,S,6'2,212,29,9,Ohio State,ACT
+James Houston,N/A,DAL,DE,6'1,241,27,4,Jackson State University,ACT
+Shemar James,N/A,DAL,LB,6'1,222,21,R,Florida,ACT
+Trevor Keegan,N/A,DAL,G,6'5,306,25,2,Michigan,ACT
+CeeDee Lamb,N/A,DAL,WR,6'2,200,26,6,Oklahoma,ACT
+Marist Liufau,N/A,DAL,LB,6'2,239,25,2,Notre Dame,ACT
+Hunter Luepke,N/A,DAL,RB,6'1,238,25,3,North Dakota State,ACT
+Phil Mafah,N/A,DAL,RB,6'1,234,23,R,Clemson,ACT
+Joe Milton III,N/A,DAL,QB,6'5,246,25,2,Tennessee,ACT
+Jonathan Mingo,N/A,DAL,WR,6'2,220,24,3,Mississippi,ACT
+Osa Odighizuwa,N/A,DAL,DT,6'2,280,27,5,UCLA,ACT
+DeMarvion Overshown,N/A,DAL,LB,6'2,220,25,3,Texas,ACT
+Dak Prescott,N/A,DAL,QB,6'2,238,32,10,Mississippi State,ACT
+Shavon Revel Jr.,N/A,DAL,CB,6'1,194,23,R,East Carolina,ACT
+Luke Schoonmaker,N/A,DAL,TE,6'5,250,27,3,Michigan,ACT
+Trent Sieg,N/A,DAL,LS,6'3,240,30,8,Colorado State,ACT
+Tyler Smith,N/A,DAL,OL,6'6,332,24,4,Tulsa,ACT
+Brevyn Spann-Ford,N/A,DAL,TE,6'7,270,26,2,Minnesota,ACT
+Terence Steele,N/A,DAL,T,6'6,310,28,6,Texas Tech,ACT
+Nate Thomas,N/A,DAL,T,6'4,331,24,2,Louisiana-Lafayette,ACT
+Solomon Thomas,N/A,DAL,DT,6'2,285,30,9,Stanford,ACT
+Jay Toia,N/A,DAL,DT,6'2,342,22,R,UCLA,ACT
+KaVontae Turpin,N/A,DAL,WR,5'9,153,29,4,TCU,ACT
+Quinnen Williams,N/A,DAL,DT,6'3,303,28,7,Alabama,ACT
+Logan Wilson,N/A,DAL,LB,6'2,245,29,6,Wyoming,ACT
+Perrion Winfrey,N/A,DAL,DT,6'4,290,25,2,Oklahoma,ACT
+Josh Butler,N/A,DAL,CB,6'1,182,29,2,Michigan State,ACT
+Reddy Steward,N/A,DAL,DB,5'11,178,24,1,Troy,ACT
+Brandon Aubrey,N/A,DAL,K,6'3,218,30,3,Notre Dame,ACT
+T.J. Bass,N/A,DAL,G,6'4,325,26,3,Oregon,ACT
+Brock Hoffman,N/A,DAL,C,6'4,302,26,3,Virginia Tech,ACT
+Juanyeh Thomas,N/A,DAL,S,6'3,217,25,3,Georgia Tech,ACT
+Hakeem Adeniji,N/A,DAL,OT,6'4,302,28,6,Kansas,ACT
+Corey Ballentine,N/A,DAL,CB,6'1,191,29,7,Washburn,ACT
+Jadeveon Clowney,N/A,DAL,DE,6'5,266,33,12,South Carolina,ACT
+Dante Fowler Jr.,N/A,DAL,DE,6'3,261,31,11,Florida,ACT
+C.J. Goodwin,N/A,DAL,CB,6'3,190,36,10,California (PA),ACT
+Rob Jones,N/A,DAL,G,6'4,322,27,5,Middle Tennessee State,PS
+"Kenneth Murray, Jr.",N/A,DAL,LB,6'2,241,27,6,Oklahoma,PS
+George Pickens,N/A,DAL,WR,6'3,200,24,4,Georgia,PS
+Jack Sanborn,N/A,DAL,MLB,6'2,234,25,4,Wisconsin,PS
+Miles Sanders,N/A,DAL,RB,5'11,211,28,7,Penn State,PS
+Jalen Tolbert,N/A,DAL,WR,6'1,195,26,4,South Alabama,PS
+Payton Turner,N/A,DAL,DE,6'6,270,27,5,Houston,PS
+Javonte Williams,N/A,DAL,RB,5'10,220,25,5,North Carolina,PS
+Sam Williams,N/A,DAL,DE,6'4,261,26,4,Mississippi,PS
+Donovan Wilson,N/A,DAL,S,6'1,204,30,7,Texas A&M,PS
+Tyson Bagent,N/A,CHI,QB,6'3,212,25,3,Shepherd,ACT
+Ryan Bates,N/A,CHI,OL,6'4,306,29,7,Penn State,ACT
+Theo Benedet,N/A,CHI,OL,6'7,304,24,1,University of British Columbia,ACT
+Andrew Billings,N/A,CHI,DL,6'1,340,30,9,Baylor,ACT
+Josh Blackwell,N/A,CHI,DB,5'11,179,26,4,Duke,ACT
+Austin Booker,N/A,CHI,DL,6'6,245,23,2,Kansas,ACT
+Jaquan Brisker,N/A,CHI,DB,6'1,204,26,4,Penn State,ACT
+Luther Burden III,N/A,CHI,WR,6'1,210,22,R,Missouri,ACT
+Kevin Byard III,N/A,CHI,DB,5'11,218,32,10,Middle Tennessee State,ACT
+Drew Dalman,N/A,CHI,OL,6'3,301,27,5,Stanford,ACT
+Scott Daly,N/A,CHI,LS,6'2,245,32,5,Notre Dame,ACT
+Gervon Dexter Sr.,N/A,CHI,DL,6'6,326,25,3,Florida,ACT
+Devin Duvernay,N/A,CHI,WR,5'11,202,28,6,Texas,ACT
+Tremaine Edmunds,N/A,CHI,LB,6'4,251,27,8,Virginia Tech,ACT
+C.J. Gardner-Johnson,N/A,CHI,DB,5'11,210,28,7,Florida,ACT
+Kyler Gordon,N/A,CHI,DB,5'11,200,26,4,Washington,ACT
+Daniel Hardy,N/A,CHI,DL,6'2,255,27,3,Montana State,ACT
+Elijah Hicks,N/A,CHI,DB,5'11,204,26,4,California,ACT
+Travis Homer,N/A,CHI,RB,5'10,211,27,7,Miami,ACT
+Ruben Hyppolite II,N/A,CHI,LB,6'1,236,24,R,Maryland,ACT
+D'Marco Jackson,N/A,CHI,LB,6'1,233,27,4,Appalachian State,ACT
+Jonah Jackson,N/A,CHI,OL,6'3,319,29,6,Ohio State,ACT
+Grady Jarrett,N/A,CHI,DL,6'1,294,32,11,Clemson,ACT
+Jaylon Johnson,N/A,CHI,DB,6'1,195,26,6,Utah,ACT
+Braxton Jones,N/A,CHI,OL,6'5,303,26,4,Southern Utah,ACT
+Jaylon Jones,N/A,CHI,DB,5'11,190,28,4,Mississippi,ACT
+Case Keenum,N/A,CHI,QB,6'1,220,38,13,Houston,ACT
+Cole Kmet,N/A,CHI,TE,6'6,257,26,6,Notre Dame,ACT
+Colston Loveland,N/A,CHI,TE,6'6,241,21,R,Michigan,ACT
+Nick McCloud,N/A,CHI,DB,6'1,191,27,5,Notre Dame,ACT
+Jordan McFadden,N/A,CHI,OL,6'2,306,26,3,Clemson,ACT
+Kyle Monangai,N/A,CHI,RB,5'8,207,23,R,Rutgers,ACT
+DJ Moore,N/A,CHI,WR,6'1,213,28,8,Maryland,ACT
+Luke Newman,N/A,CHI,OL,6'3,308,23,R,Michigan State,ACT
+Rome Odunze,N/A,CHI,WR,6'3,214,23,2,Washington,ACT
+Amen Ogbongbemiga,N/A,CHI,LB,6'1,226,27,5,Oklahoma State,ACT
+Jonathan Owens,N/A,CHI,DB,5'11,204,30,7,Missouri Western,ACT
+Jalen Reeves-Maybin,N/A,CHI,LB,6'1,230,31,9,Tennessee,ACT
+Dominique Robinson,N/A,CHI,DL,6'5,275,27,4,Miami (Ohio),ACT
+Cairo Santos,N/A,CHI,K,5'8,173,34,12,Tulane,ACT
+Durham Smythe,N/A,CHI,TE,6'5,248,30,8,Notre Dame,ACT
+Tyrique Stevenson,N/A,CHI,DB,6'1,212,25,3,Miami,ACT
+Montez Sweat,N/A,CHI,DL,6'6,270,29,7,Mississippi State,ACT
+D'Andre Swift,N/A,CHI,RB,5'8,204,27,6,Georgia,ACT
+Tory Taylor,N/A,CHI,P,6'4,225,28,2,Iowa,ACT
+Joe Thuney,N/A,CHI,OL,6'4,301,33,10,N.C. State,ACT
+Joe Tryon-Shoyinka,N/A,CHI,DL,6'5,259,26,5,Washington,ACT
+Jahdae Walker,N/A,CHI,WR,6'3,206,23,R,Texas A&M,ACT
+Caleb Williams,N/A,CHI,QB,6'1,226,24,2,USC,ACT
+Chris Williams,N/A,CHI,DL,6'2,298,27,4,Wagner,ACT
+Darnell Wright,N/A,CHI,OL,6'5,325,24,3,Tennessee,ACT
+Nahshon Wright,N/A,CHI,DB,6'4,199,27,5,Oregon State,ACT
+Olamide Zaccheaus,N/A,CHI,WR,5'8,199,28,7,Virginia,ACT
+Kiran Amegadjie,N/A,CHI,OL,6'5,326,24,2,Yale,IR
+T.J. Edwards,N/A,CHI,LB,6'1,228,29,7,Wisconsin,IR
+Deion Hankins,N/A,CHI,RB,5'11,226,25,R,Texas State-San Marcos,IR
+Roschon Johnson,N/A,CHI,RB,6'1,227,25,3,Texas,IR
+Dayo Odeyingbo,N/A,CHI,DL,6'5,282,26,5,Vanderbilt,IR
+Noah Sewell,N/A,CHI,LB,6'1,246,23,3,Oregon,IR
+Terell Smith,N/A,CHI,DB,6'1,204,26,3,Minnesota,IR
+Ozzy Trapilo,N/A,CHI,OL,6'8,312,24,R,Boston College,IR
+Shemar Turner,N/A,CHI,DL,6'3,293,23,R,Texas A&M,IR
+Zah Frazier,N/A,CHI,DB,6'3,186,25,R,Texas-San Antonio,IR
+Kyle Allen,N/A,DET,QB,6'3,210,29,7,Houston,ACT
+Alex Anzalone,N/A,DET,LB,6'3,234,31,9,Florida,ACT
+Kayode Awosika,N/A,DET,G,6'3,322,27,4,Buffalo,ACT
+Derrick Barnes,N/A,DET,LB,6'1,240,26,5,Purdue,ACT
+Jake Bates,N/A,DET,K,5'10,202,26,2,Arkansas,ACT
+Jack Campbell,N/A,DET,LB,6'5,246,25,3,Iowa,ACT
+Marcus Davenport,N/A,DET,EDGE,6'6,285,29,8,Texas-San Antonio,ACT
+Taylor Decker,N/A,DET,T,6'7,324,32,10,Ohio State,ACT
+Khalil Dorsey,N/A,DET,CB,5'8,188,27,5,Northern Arizona,ACT
+Anthony Firkser,N/A,DET,TE,6'2,245,30,7,Harvard,ACT
+Jack Fox,N/A,DET,P,6'2,218,29,6,Rice,ACT
+Miles Frazier,N/A,DET,OL,6'6,325,24,R,LSU,ACT
+Jahmyr Gibbs,N/A,DET,RB,5'9,202,23,3,Alabama,ACT
+Graham Glasgow,N/A,DET,OL,6'6,315,33,10,Michigan,ACT
+Jared Goff,N/A,DET,QB,6'4,217,31,10,California,ACT
+Thomas Harper,N/A,DET,S,5'10,195,25,2,Notre Dame,ACT
+Hogan Hatten,N/A,DET,LS,6'2,239,25,2,Idaho,ACT
+Aidan Hutchinson,N/A,DET,EDGE,6'7,268,25,4,Michigan,ACT
+Tom Kennedy ,N/A,DET,WR,5'10,195,29,3,Bryant,ACT
+Tyler Lacy,N/A,DET,DL,6'4,285,26,3,Oklahoma State,ACT
+Roy Lopez,N/A,DET,DL,6'2,312,28,5,Arizona,ACT
+Dominic Lovett,N/A,DET,WR,5'10,185,23,R,Georgia,ACT
+Avonte Maddox,N/A,DET,DB,5'9,191,29,8,Pittsburgh,ACT
+Christian Mahogany,N/A,DET,OL,6'3,327,25,2,Boston College,ACT
+Arthur Maulet,N/A,DET,CB,5'9,190,32,9,Memphis,ACT
+Alim McNeill,N/A,DET,DL,6'2,310,25,5,N.C. State,ACT
+Jalen Mills,N/A,DET,S,6'1,191,31,10,LSU,ACT
+David Montgomery,N/A,DET,RB,5'11,230,28,7,Iowa State,ACT
+Al-Quadin Muhammad,N/A,DET,EDGE,6'3,250,30,8,Miami,ACT
+Michael Niese,N/A,DET,OL,6'5,300,28,2,Temple,ACT
+Trevor Nowaske,N/A,DET,LB,6'3,237,27,3,Saginaw Valley State,ACT
+Tate Ratledge,N/A,DET,OL,6'6,315,24,R,Georgia,ACT
+Kalif Raymond,N/A,DET,WR,5'8,180,31,9,Holy Cross,ACT
+DJ Reader,N/A,DET,DL,6'3,330,31,10,Clemson,ACT
+D.J. Reed,N/A,DET,CB,5'9,190,29,8,Kansas State,ACT
+Amik Robertson,N/A,DET,CB,5'9,183,27,6,Louisiana Tech,ACT
+Malcolm Rodriguez,N/A,DET,LB,5'11,230,26,4,Oklahoma State,ACT
+Jacob Saylors,N/A,DET,RB,5'11,195,25,1,East Tennessee State,ACT
+Penei Sewell,N/A,DET,T,6'5,335,25,5,Oregon,ACT
+Dan Skipper,N/A,DET,T,6'9,334,31,6,Arkansas,ACT
+Amon-Ra St. Brown,N/A,DET,WR,6'1,202,26,5,USC,ACT
+Grant Stuard,N/A,DET,LB,5'11,225,27,5,Houston,ACT
+Isaac TeSlaa,N/A,DET,WR,6'4,214,23,R,Arkansas,ACT
+Daniel Thomas,N/A,DET,S,5'10,215,27,6,Auburn,ACT
+Sione Vaki,N/A,DET,RB,5'11,216,24,2,Utah,ACT
+Tyrus Wheat,N/A,DET,EDGE,6'2,263,26,3,Mississippi State,ACT
+Nick Whiteside,N/A,DET,CB,6'1,200,25,1,Saginaw Valley State,ACT
+Jameson Williams,N/A,DET,WR,6'1,182,24,4,Alabama,ACT
+Tyleik Williams,N/A,DET,DL,6'3,328,22,R,Ohio State,ACT
+Mekhi Wingo,N/A,DET,DL,6'1,288,22,2,LSU,ACT
+Rock Ya-Sin,N/A,DET,CB,5'11,195,29,7,Temple,ACT
+Shane Zylstra ,N/A,DET,TE,6'4,244,29,4,Minnesota State,ACT
+Terrion Arnold,N/A,DET,CB,6'1,195,22,2,Alabama,IR
+Brian Branch,N/A,DET,DB,6'1,203,24,3,Alabama,IR
+Trystan Colon,N/A,DET,OL,6'3,317,27,6,Missouri,IR
+Zach Cunningham,N/A,DET,LB,6'3,230,31,9,Vanderbilt,IR
+Dan Jackson,N/A,DET,S,6'1,195,25,R,Georgia,IR
+Jamarco Jones ,N/A,DET,T,6'4,315,29,6,Ohio State,IR
+Kerby Joseph,N/A,DET,S,6'1,210,25,4,Illinois,IR
+Sam LaPorta,N/A,DET,TE,6'3,245,25,3,Iowa,IR
+Giovanni Manu,N/A,DET,OL,6'7,350,25,2,University of British Columbia,IR
+Ennis Rakestraw Jr.,N/A,DET,CB,5'11,188,23,2,Missouri,IR
+Colby Sorsdal,N/A,DET,OL,6'6,315,25,3,William & Mary,IR
+Ezekiel Turner,N/A,DET,LB,6'2,225,29,8,Washington,IR
+Brock Wright,N/A,DET,TE,6'5,254,27,5,Notre Dame,IR
+Josh Paschal,N/A,DET,EDGE,6'3,275,26,4,Kentucky,IR
+Levi Onwuzurike,N/A,DET,DL,6'3,304,27,5,Washington,IR
+Johnathan Baldwin,N/A,GB,S,6'1,190,23,R,UNLV,ACT
+Aaron Banks,N/A,GB,G,6'5,325,28,5,Notre Dame,ACT
+Shemar Bartholomew,N/A,GB,CB,6'1,200,25,2,Georgia Southern,ACT
+Anthony Belton,N/A,GB,T,6'6,336,24,R,North Carolina State,ACT
+Warren Brinson,N/A,GB,DL,6'5,315,24,R,Georgia,ACT
+Chris Brooks,N/A,GB,RB,6'1,219,26,3,BYU,ACT
+Karl Brooks,N/A,GB,DL,6'3,296,25,3,Bowling Green,ACT
+Javon Bullard,N/A,GB,S,5'10,198,23,2,Georgia,ACT
+Edgerrin Cooper,N/A,GB,LB,6'2,229,24,2,Texas A&M,ACT
+Brenton Cox Jr.,N/A,GB,DL,6'4,250,26,3,Florida,ACT
+Romeo Doubs,N/A,GB,WR,6'2,204,25,4,Nevada,ACT
+Kingsley Enagbare,N/A,GB,DL,6'4,258,26,4,South Carolina,ACT
+Jonathan Ford,N/A,GB,DL,6'5,338,27,3,Miami,ACT
+Rashan Gary,N/A,GB,DL,6'5,277,28,7,Michigan,ACT
+Matthew Golden,N/A,GB,WR,5'11,191,22,R,Texas,ACT
+Ty'Ron Hopper,N/A,GB,LB,6'2,228,24,2,Missouri,ACT
+Josh Jacobs,N/A,GB,RB,5'10,223,28,7,Alabama,ACT
+Jakobie Keeney-James,N/A,GB,WR,6'1,190,25,R,UMass,ACT
+Darian Kinnard,N/A,GB,T/G,6'5,322,26,3,Kentucky,ACT
+Jordan Love,N/A,GB,QB,6'4,219,27,6,Utah State,ACT
+Isaiah McDuffie,N/A,GB,LB,6'1,227,26,5,Boston College,ACT
+Xavier McKinney,N/A,GB,S,6'1,201,26,6,Alabama,ACT
+Brandon McManus,N/A,GB,K,6'3,201,34,12,Temple,ACT
+Jacob Monk,N/A,GB,C/G,6'3,308,24,2,Duke,ACT
+Jordan Morgan,N/A,GB,T/G,6'5,311,24,2,Arizona,ACT
+Arron Mosby,N/A,GB,DL,6'3,250,26,3,Fresno State,ACT
+Luke Musgrave,N/A,GB,TE,6'6,253,25,3,Oregon State,ACT
+Nick Niemann,N/A,GB,LB,6'3,234,28,5,Iowa,ACT
+Keisean Nixon,N/A,GB,CB,5'10,200,28,7,South Carolina,ACT
+Kitan Oladapo,N/A,GB,S,6'2,216,25,2,Oregon State,ACT
+Collin Oliver,N/A,GB,DL,6'2,240,23,R,Oklahoma State,ACT
+Matt Orzech,N/A,GB,LS,6'3,245,30,6,Azusa Pacific,ACT
+Jayden Reed,N/A,GB,WR,5'11,187,25,3,Michigan State,ACT
+Sean Rhyan,N/A,GB,G,6'5,321,25,4,UCLA,ACT
+Desmond Ridder,N/A,GB,QB,6'3,211,26,4,Cincinnati,ACT
+Jaylin Simpson,N/A,GB,DB,6'1,180,25,1,Auburn,ACT
+Lecitus Smith,N/A,GB,G/C,6'3,314,27,3,Virginia Tech,ACT
+Barryn Sorrell,N/A,GB,DL,6'3,256,23,R,Texas,ACT
+Nazir Stackhouse,N/A,GB,DL,6'4,327,23,R,Georgia,ACT
+Zach Tom,N/A,GB,OL,6'4,304,26,4,Wake Forest,ACT
+Carrington Valentine,N/A,GB,CB,6'1,189,24,3,Kentucky,ACT
+Lukas Van Ness,N/A,GB,DL,6'5,272,24,3,Iowa,ACT
+Quay Walker,N/A,GB,LB,6'4,241,25,4,Georgia,ACT
+Rasheed Walker,N/A,GB,T,6'6,324,26,4,Penn State,ACT
+Christian Watson,N/A,GB,WR,6'4,208,26,4,North Dakota State,ACT
+Daniel Whelan,N/A,GB,P,6'5,216,27,3,UC Davis,ACT
+Josh Whyle,N/A,GB,TE,6'7,248,26,3,Cincinnati,ACT
+Dontayvion Wicks,N/A,GB,WR,6'1,206,24,3,Virginia,ACT
+Evan Williams,N/A,GB,S,5'11,200,24,2,Oregon,ACT
+Malik Willis,N/A,GB,QB,6'1,225,26,4,Liberty,ACT
+Emanuel Wilson,N/A,GB,RB,5'10,226,26,3,Fort Valley State University,ACT
+Colby Wooden,N/A,GB,DL,6'4,273,25,3,Auburn,ACT
+Zayne Anderson,N/A,GB,S,6'2,206,29,3,BYU,IR
+John FitzPatrick,N/A,GB,TE,6'7,262,25,4,Georgia,IR
+Travis Glover,N/A,GB,T,6'6,317,25,2,Georgia State,IR
+Kamal Hadden,N/A,GB,CB,6'1,192,25,1,Tennessee,IR
+Nate Hobbs,N/A,GB,CB,6'1,195,26,5,Illinois,IR
+Elgton Jenkins,N/A,GB,C/G,6'5,311,30,7,Mississippi State,IR
+Donovan Jennings,N/A,GB,G/T,6'4,323,26,1,South Florida,IR
+Tucker Kraft,N/A,GB,TE,6'5,259,25,3,South Dakota State,IR
+MarShawn Lloyd,N/A,GB,RB,5'9,220,25,2,USC,IR
+Bo Melton,N/A,GB,CB,5'11,189,26,2,Rutgers,IR
+Micah Parsons,N/A,GB,DL,6'3,250,26,5,Penn State,IR
+Jordon Riley,N/A,GB,DL,6'5,338,27,3,Oregon,IR
+Kristian Welch,N/A,GB,LB,6'3,240,27,6,Iowa,IR
+Savion Williams,N/A,GB,WR,6'4,222,24,R,TCU,IR
+Devonte Wyatt,N/A,GB,DL,6'3,304,27,4,Georgia,IR
+John Williams,N/A,GB,G,6'4,322,24,R,Cincinnati,IR
+Jordan Addison,N/A,MIN,WR,5'11,179,24,3,USC,ACT
+Jonathan Allen,N/A,MIN,DL,6'3,300,31,9,Alabama,ACT
+Tyler Batty,N/A,MIN,OLB,6'6,271,26,R,BYU,ACT
+Blake Brandel,N/A,MIN,G,6'6,315,29,5,Oregon State,ACT
+Max Brosmer,N/A,MIN,QB,6'2,218,24,R,Minnesota,ACT
+Henry Byrd,N/A,MIN,G,6'5,314,26,1,Princeton,ACT
+Blake Cashman,N/A,MIN,LB,6'1,235,29,7,Minnesota,ACT
+Chaz Chambliss,N/A,MIN,OLB,6'1,244,23,R,Georgia,ACT
+Ty Chandler,N/A,MIN,RB,5'11,205,27,4,North Carolina,ACT
+Andrew DePaola,N/A,MIN,LS,6'1,227,38,11,Rutgers,ACT
+Tai Felton,N/A,MIN,WR,6'1,186,22,R,Maryland,ACT
+Will Fries,N/A,MIN,G,6'6,321,27,5,Penn State,ACT
+C.J. Ham,N/A,MIN,FB,5'11,250,32,9,Augustana (S.D.),ACT
+Javon Hargrave,N/A,MIN,DL,6'2,307,33,10,South Carolina State,ACT
+T.J. Hockenson,N/A,MIN,TE,6'5,248,28,7,Iowa,ACT
+Joe Huber,N/A,MIN,G,6'5,310,23,R,Wisconsin,ACT
+Tyrion Ingram-Dawkins,N/A,MIN,DL,6'5,290,22,R,Georgia,ACT
+Donovan Jackson,N/A,MIN,OL,6'4,324,23,R,Ohio State,ACT
+Theo Jackson,N/A,MIN,S,6'1,205,27,4,Tennessee,ACT
+Justin Jefferson,N/A,MIN,WR,6'1,195,26,6,LSU,ACT
+Aaron Jones Sr.,N/A,MIN,RB,5'10,208,31,9,Texas-El Paso,ACT
+Michael Jurgens,N/A,MIN,G,6'5,311,26,2,Wake Forest,ACT
+Jordan Mason,N/A,MIN,RB,5'11,230,26,4,Georgia Tech,ACT
+J.J. McCarthy,N/A,MIN,QB,6'3,219,23,2,Michigan,ACT
+Dwight McGlothern,N/A,MIN,CB,6'2,185,24,2,Arkansas,ACT
+Fabian Moreau,N/A,MIN,CB,6'1,204,31,9,UCLA,ACT
+Byron Murphy Jr.,N/A,MIN,CB,5'11,190,28,7,Washington,ACT
+Jalen Nailor,N/A,MIN,WR,5'11,199,26,4,Michigan State,ACT
+Josh Oliver,N/A,MIN,TE,6'5,264,28,7,San Jose State,ACT
+Brian O'Neill,N/A,MIN,T,6'7,310,30,8,Pittsburgh,ACT
+Ivan Pace Jr.,N/A,MIN,LB,5'10,236,25,3,Cincinnati,ACT
+Myles Price,N/A,MIN,WR,5'9,183,24,R,Indiana,ACT
+Jalen Redmond,N/A,MIN,DL,6'3,305,26,2,Oklahoma,ACT
+Will Reichard,N/A,MIN,K,6'1,190,25,2,Alabama,ACT
+Bo Richter,N/A,MIN,OLB,6'1,248,25,2,Air Force,ACT
+Isaiah Rodgers,N/A,MIN,CB,5'10,180,28,5,UMass Amherst,ACT
+Levi Drake Rodriguez,N/A,MIN,DL,6'2,307,25,2,Texas A&M-Commerce,ACT
+Walter Rouse,N/A,MIN,T,6'6,330,24,2,Oklahoma,ACT
+Brett Rypien,N/A,MIN,QB,6'2,210,29,7,Boise State,ACT
+Zavier Scott,N/A,MIN,RB,6'1,221,26,1,Maine,ACT
+Ben Sims,N/A,MIN,TE,6'5,250,25,3,Baylor,ACT
+Justin Skule,N/A,MIN,T,6'6,315,29,6,Vanderbilt,ACT
+Harrison Smith,N/A,MIN,S,6'2,211,37,14,Notre Dame,ACT
+Taki Taimani,N/A,MIN,DL,6'1,324,26,2,Oregon,ACT
+Tavierre Thomas,N/A,MIN,S,5'10,212,29,8,Ferris State,ACT
+Dallas Turner,N/A,MIN,OLB,6'3,247,23,2,Alabama,ACT
+Andrew Van Ginkel,N/A,MIN,OLB,6'4,242,30,7,Wisconsin,ACT
+Zemaiah Vaughn,N/A,MIN,CB,6'3,180,23,R,Utah,ACT
+Jay Ward,N/A,MIN,S,6'1,190,25,3,LSU,ACT
+Eric Wilson,N/A,MIN,LB,6'1,231,31,9,Cincinnati,ACT
+John Wolford,N/A,MIN,QB,6'1,218,30,5,Wake Forest,ACT
+Ryan Wright,N/A,MIN,P,6'3,245,25,4,Tulane,ACT
+Ben Yurosek,N/A,MIN,TE,6'4,251,23,R,Georgia,ACT
+Zeke Correll,N/A,MIN,C,6'3,307,25,R,N.C. State,IR
+Christian Darrisaw,N/A,MIN,T,6'5,315,26,5,Virginia Tech,IR
+Jonathan Greenard,N/A,MIN,OLB,6'3,259,28,6,Florida,IR
+Ryan Kelly,N/A,MIN,C,6'4,307,32,10,Alabama,IR
+Joshua Metellus,N/A,MIN,S,5'11,208,28,6,Michigan,IR
+Rondale Moore,N/A,MIN,WR,5'7,181,25,5,Purdue,IR
+Matt Nelson,N/A,MIN,OL,6'7,315,30,5,Iowa,IR
+Jeff Okudah,N/A,MIN,CB,6'1,205,27,6,Ohio State,IR
+Carson Wentz,N/A,MIN,QB,6'5,237,33,10,North Dakota State,IR
+Elijah Williams,N/A,MIN,DL,6'3,298,23,R,Morgan State,IR
+Gavin Bartholomew,N/A,MIN,TE,6'5,249,22,R,Pittsburgh,IR
+Marcus Banks,N/A,TB,S,6'1,190,25,1,Mississippi State,ACT
+Graham Barton,N/A,TB,C,6'5,314,23,2,Duke,ACT
+Connor Bazelak,N/A,TB,QB,6'3,225,25,R,Bowling Green,ACT
+Chris Braswell,N/A,TB,OLB,6'3,255,24,2,Alabama,ACT
+Ben Bredeson,N/A,TB,G,6'5,315,27,6,Michigan,ACT
+Teddy Bridgewater,N/A,TB,QB,6'2,210,33,11,Louisville,ACT
+Benjamin Chukwuma,N/A,TB,T,6'6,310,24,R,Georgia State,ACT
+Devin Culp,N/A,TB,TE,6'4,237,26,2,Washington,ACT
+Lavonte David,N/A,TB,LB,6'1,233,36,14,Nebraska,ACT
+Jamel Dean,N/A,TB,CB,6'1,206,29,7,Auburn,ACT
+Evan Deckers,N/A,TB,LS,6'3,252,26,2,Duke,ACT
+SirVocea Dennis,N/A,TB,LB,6'1,230,25,3,Pittsburgh,ACT
+Yaya Diaby,N/A,TB,OLB,6'4,270,26,3,Louisville,ACT
+Riley Dixon,N/A,TB,P,6'4,221,32,10,Syracuse,ACT
+Payne Durham,N/A,TB,TE,6'5,255,25,3,Purdue,ACT
+Emeka Egbuka,N/A,TB,WR,6'1,205,23,R,Ohio State,ACT
+Mike Evans,N/A,TB,WR,6'5,231,32,12,Texas A&M,ACT
+Dan Feeney,N/A,TB,G,6'4,310,31,9,Indiana,ACT
+Marshall Foerner,N/A,TB,T,6'6,303,25,R,Minnesota State-Mankata,ACT
+Greg Gaines,N/A,TB,DL,6'1,312,29,7,Washington,ACT
+Chris Godwin Jr.,N/A,TB,WR,6'1,209,29,9,Penn State,ACT
+Luke Goedeke,N/A,TB,T,6'5,312,27,4,Central Michigan,ACT
+J.T. Gray,N/A,TB,S,6'1,202,30,8,Mississippi State,ACT
+Garrett Greene,N/A,TB,WR,5'11,201,24,R,West Virginia,ACT
+Luke Haggard,N/A,TB,T,6'7,305,26,1,Indiana,ACT
+Logan Hall,N/A,TB,DL,6'6,283,25,4,Houston,ACT
+Josh Hayes,N/A,TB,CB,6'1,190,26,3,Kansas State,ACT
+Charlie Heck,N/A,TB,T,6'8,311,29,6,North Carolina,ACT
+Dennis Houston,N/A,TB,WR,6'1,190,26,1,Western Illinois,ACT
+Nash Hutmacher,N/A,TB,DL,6'4,310,24,R,Nebraska,ACT
+Bucky Irving,N/A,TB,RB,5'10,195,23,2,Oregon,ACT
+Christian Izien,N/A,TB,S,5'10,200,25,3,Rutgers,ACT
+Nick Jackson,N/A,TB,LB,6'1,235,25,R,Iowa,ACT
+Kameron Johnson,N/A,TB,WR,5'10,170,23,2,Barton College,ACT
+Tez Johnson,N/A,TB,WR,5'10,165,23,R,Oregon,ACT
+Deion Jones,N/A,TB,LB,6'1,222,31,9,LSU,ACT
+Jayson Jones,N/A,TB,DL,6'6,335,24,R,Auburn,ACT
+Mike Jordan,N/A,TB,G,6'6,312,28,6,Ohio State,ACT
+Mohamed Kamara,N/A,TB,OLB,6'1,253,25,2,Colorado State,ACT
+Calijah Kancey,N/A,TB,DL,6'1,280,24,3,Pittsburgh,ACT
+Ko Kieft,N/A,TB,TE,6'5,265,28,4,Minnesota,ACT
+Elijah Klein,N/A,TB,G,6'4,319,25,2,UTEP,ACT
+Cody Mauch,N/A,TB,G,6'6,303,27,3,North Dakota State,ACT
+Baker Mayfield,N/A,TB,QB,6'1,215,30,8,Oklahoma,ACT
+Zyon McCollum,N/A,TB,CB,6'2,199,26,4,Sam Houston State,ACT
+Chase McLaughlin,N/A,TB,K,6'1,190,29,7,Illinois,ACT
+Jalen McMillan,N/A,TB,WR,6'1,192,24,2,Washington,ACT
+Benjamin Morrison,N/A,TB,CB,6'1,190,21,R,Notre Dame,ACT
+Anthony Nelson,N/A,TB,OLB,6'7,271,28,7,Iowa,ACT
+Cade Otton,N/A,TB,TE,6'5,247,26,4,Washington,ACT
+Jacob Parrish,N/A,TB,CB,5'10,198,21,R,Kansas State,ACT
+Jason Pierre-Paul,N/A,TB,OLB,6'5,270,37,14,University of South Florida,ACT
+Haason Reddick,N/A,TB,OLB,6'1,240,31,9,Temple,ACT
+Elijah Roberts,N/A,TB,DL,6'4,295,24,R,SMU,ACT
+JJ Roberts,N/A,TB,S,6'1,195,24,R,Marshall,ACT
+Ben Scott,N/A,TB,G,6'5,310,25,R,Nebraska,ACT
+Sterling Shepard,N/A,TB,WR,5'10,194,33,10,Oklahoma,ACT
+Elijah Simmons,N/A,TB,DL,6'1,334,24,R,Tennessee,ACT
+Tykee Smith,N/A,TB,S,5'10,202,25,2,Georgia,ACT
+Sean Tucker,N/A,TB,RB,5'10,205,24,3,Syracuse,ACT
+Vita Vea,N/A,TB,NT,6'4,347,31,8,Washington,ACT
+Kindle Vildor,N/A,TB,CB,5'11,189,28,6,Georgia Southern,ACT
+Anthony Walker Jr.,N/A,TB,LB,6'1,235,30,9,Northwestern,ACT
+David Walker,N/A,TB,OLB,6'2,260,25,R,Central Arkansas,ACT
+Markees Watts,N/A,TB,OLB,6'1,240,26,3,Charlotte,ACT
+Rachaad White,N/A,TB,RB,6'1,214,27,4,Arizona State,ACT
+Benton Whitley,N/A,TB,OLB,6'4,255,27,4,Holy Cross,ACT
+Michael Wiley,N/A,TB,RB,6'1,209,24,1,Arizona,ACT
+Damarion Williams,N/A,TB,CB,5'10,180,27,3,Houston,ACT
+Josh Williams,N/A,TB,RB,5'9,210,25,R,LSU,ACT
+Antoine Winfield Jr.,N/A,TB,S,5'9,203,27,6,Minnesota,ACT
+Tristan Wirfs,N/A,TB,T,6'5,320,27,6,Iowa,ACT
+Rashad Wisdom,N/A,TB,S,5'9,210,24,1,Texas-San Antonio,ACT
+Owen Wright,N/A,TB,RB,5'9,217,26,2,Monmouth,ACT
+Dee Alford,N/A,ATL,CB,5'11,180,28,4,Tusculum College,ACT
+Tyler Allgeier,N/A,ATL,RB,5'10,225,25,4,BYU,ACT
+Jessie Bates III,N/A,ATL,S,6'1,210,28,8,Wake Forest,ACT
+Matthew Bergeron,N/A,ATL,OL,6'5,315,25,3,Syracuse,ACT
+JD Bertrand,N/A,ATL,ILB,6'1,230,25,2,Notre Dame,ACT
+Natrone Brooks,N/A,ATL,CB,5'11,175,26,2,Southern Mississippi,ACT
+Cobee Bryant,N/A,ATL,CB,6'1,180,24,R,Kansas,ACT
+Nathan Carter,N/A,ATL,RB,5'10,202,23,R,Michigan State,ACT
+Kirk Cousins,N/A,ATL,QB,6'3,205,37,14,Michigan State,ACT
+Divine Deablo,N/A,ATL,ILB,6'3,223,27,5,Virginia Tech,ACT
+Brandon Dorlus,N/A,ATL,DL,6'3,295,24,2,Oregon,ACT
+Dylan Drummond,N/A,ATL,WR,6'1,190,26,1,Eastern Michigan,ACT
+Arnold Ebiketie,N/A,ATL,ED,6'2,250,27,4,Penn State,ACT
+Kaden Elliss,N/A,ATL,ILB,6'2,240,30,7,Idaho,ACT
+Leonard Floyd,N/A,ATL,ED,6'3,240,33,10,Georgia,ACT
+Mike Ford Jr,N/A,ATL,CB,6'1,199,30,8,Southeast Missouri State,ACT
+Feleipe Franks,N/A,ATL,TE,6'6,241,28,3,Arkansas,ACT
+Elijah Garcia,N/A,ATL,DL,6'5,302,27,2,Rice,ACT
+Zane Gonzalez,N/A,ATL,K,6'1,202,30,8,Arizona State,ACT
+Jovaughn Gwyn,N/A,ATL,OL,6'2,310,26,3,South Carolina,ACT
+Ronnie Harrison,N/A,ATL,ILB,6'3,214,28,8,Alabama,ACT
+Malik Heath,N/A,ATL,WR,6'2,213,25,3,Mississippi,ACT
+C.J. Henderson,N/A,ATL,CB,6'1,205,27,6,Florida,ACT
+Kyle Hinton,N/A,ATL,OL,6'2,315,27,3,Washburn,ACT
+Michael Jerrell,N/A,ATL,OT,6'5,309,26,2,Findlay,ACT
+Khalid Kareem,N/A,ATL,ED,6'4,255,27,4,Notre Dame,ACT
+Chris Lindstrom,N/A,ATL,G,6'4,310,28,7,Boston College,ACT
+Drake London,N/A,ATL,WR,6'4,215,24,4,USC,ACT
+LaCale London,N/A,ATL,DL,6'3,297,28,2,Western Illinois,ACT
+Jake Matthews,N/A,ATL,T,6'5,310,34,12,Texas A&M,ACT
+Liam McCullough,N/A,ATL,LS,6'2,245,28,4,Ohio State,ACT
+Darnell Mooney,N/A,ATL,WR,5'11,180,28,6,Tulane,ACT
+Jack Nelson,N/A,ATL,OL,6'7,314,24,R,Wisconsin,ACT
+Ryan Neuzil,N/A,ATL,OL,6'3,305,28,4,Appalachian State,ACT
+David Onyemata,N/A,ATL,DL,6'4,310,33,10,Manitoba (Canada),ACT
+Ruke Orhorhoro,N/A,ATL,DL,6'4,295,24,2,Clemson,ACT
+James Pearce Jr.,N/A,ATL,ED,6'5,243,22,R,University of Tennessee,ACT
+Bradley Pinion,N/A,ATL,P,6'5,265,31,11,Clemson,ACT
+Kyle Pitts Sr.,N/A,ATL,TE,6'6,250,25,5,Florida,ACT
+Teagan Quitoriano,N/A,ATL,TE,6'6,259,25,4,Oregon State,ACT
+Bijan Robinson,N/A,ATL,RB,5'11,215,24,3,Texas,ACT
+Jammie Robinson,N/A,ATL,SAF,5'11,195,25,3,Florida State,ACT
+David Sills V,N/A,ATL,WR,6'3,211,30,3,West Virginia,ACT
+Easton Stick,N/A,ATL,QB,6'1,224,30,6,North Dakota State,ACT
+Kentavius Street,N/A,ATL,DL,6'2,315,29,7,N.C. State,ACT
+A.J. Terrell Jr. ,N/A,ATL,CB,6'1,200,27,6,Clemson,ACT
+Deven Thompkins,N/A,ATL,WR,5'8,155,26,4,Utah State,ACT
+Jalon Walker,N/A,ATL,ED,6'2,245,21,R,Georgia,ACT
+Casey Washington,N/A,ATL,WR,6'1,205,24,2,Illinois,ACT
+Xavier Watts,N/A,ATL,S,6'1,203,24,R,Notre Dame,ACT
+Elijah Wilkinson,N/A,ATL,OL,6'6,310,31,9,UMass Amherst,ACT
+Charlie Woerner,N/A,ATL,TE,6'5,250,28,6,Georgia,ACT
+Josh Woods,N/A,ATL,ILB,6'1,235,29,6,Maryland,ACT
+Billy Bowman Jr.,N/A,ATL,DB,5'10,194,23,R,Oklahoma,IR
+Zach Harrison,N/A,ATL,DL,6'5,270,24,3,Ohio State,IR
+DeMarcco Hellams,N/A,ATL,S,6'1,203,25,3,Alabama,IR
+KhaDarel Hodge,N/A,ATL,WR,6'2,210,32,8,Prairie View A&M,IR
+Mike Hughes,N/A,ATL,CB,5'10,190,29,8,UCF,IR
+Emory Jones,N/A,ATL,QB,6'2,211,25,1,Cincinnati,IR
+DeAngelo Malone,N/A,ATL,ED,6'3,235,26,4,Western Kentucky,IR
+Kaleb McGary,N/A,ATL,T,6'6,330,30,7,Washington,IR
+Michael Penix Jr.,N/A,ATL,QB,6'3,220,25,2,Washington,IR
+Clark Phillips III,N/A,ATL,CB,5'9,185,24,3,Utah,IR
+Bralen Trice,N/A,ATL,ED,6'4,274,24,2,Washington,IR
+Tyrone Wheatley Jr.,N/A,ATL,OL,6'6,320,29,2,Stony Brook,IR
+Storm Norton,N/A,ATL,OL,6'7,310,31,6,Toledo,IR
+Sam Roberts,N/A,ATL,DL,6'5,300,27,3,NW Missouri State University,IR
+Malik Verdon,N/A,ATL,ILB,6'4,218,23,R,Iowa State,IR
+Troy Andersen,N/A,ATL,ILB,6'4,245,26,4,Montana State,IR
+Popo Aumavae,N/A,CAR,DT,6'3,315,27,2,Oregon,ACT
+Krys Barnes,N/A,CAR,ILB,6'2,229,27,6,UCLA,ACT
+Jared Bartlett,N/A,CAR,LB,6'2,237,24,R,Cincinnati,ACT
+Jonathon Brooks,N/A,CAR,RB,6'1,207,22,2,Texas,ACT
+Bobby Brown III,N/A,CAR,DT,6'4,332,25,5,Texas A&M,ACT
+Derrick Brown,N/A,CAR,DT,6'5,320,27,6,Auburn,ACT
+Ja'Tyre Carter,N/A,CAR,G,6'3,311,27,3,Southern,ACT
+Saahdiq Charles,N/A,CAR,G,6'4,321,26,5,LSU,ACT
+Claudin Cherelus,N/A,CAR,LB,6'2,230,27,3,Alcorn State,ACT
+Dan Chisena,N/A,CAR,WR,6'3,202,28,5,Penn State,ACT
+Brady Christensen,N/A,CAR,OL,6'6,300,29,5,BYU,ACT
+Jalen Coker,N/A,CAR,WR,6'3,213,24,2,Holy Cross,ACT
+Austin Corbett,N/A,CAR,G,6'4,305,30,8,Nevada,ACT
+Jake Curhan,N/A,CAR,T,6'6,316,28,5,California,ACT
+Andy Dalton,N/A,CAR,QB,6'2,220,38,15,TCU,ACT
+Rico Dowdle,N/A,CAR,RB,5'11,215,27,6,South Carolina,ACT
+Ikem Ekwonu,N/A,CAR,T,6'4,320,25,4,NC State,ACT
+Trevor Etienne,N/A,CAR,RS,5'8,198,21,R,Georgia,ACT
+Akayleb Evans,N/A,CAR,CB,6'2,198,26,4,Missouri,ACT
+Mitchell Evans,N/A,CAR,TE,6'5,258,22,R,Notre Dame,ACT
+Ryan Fitzgerald,N/A,CAR,K,5'11,193,25,R,Florida State,ACT
+Tyrek Funderburk,N/A,CAR,CB,6'1,185,25,2,Appalachian State,ACT
+Trevis Gipson,N/A,CAR,OLB,6'4,255,28,6,Tulsa,ACT
+Joshua Gray,N/A,CAR,G,6'5,299,25,R,Oregon State,ACT
+Jared Harrison-Hunte,75,CAR,DE,6'4,294,25,R,SMU,ACT
+Jaycee Horn,8,CAR,CB,6'1,200,26,5,South Carolina,ACT
+Jimmy Horn Jr.,15,CAR,WR,5'8,174,23,R,Colorado,ACT
+Chuba Hubbard,30,CAR,RB,6'1,210,26,5,Oklahoma State,ACT
+Robert Hunt,50,CAR,G,6'6,323,29,6,Louisiana-Lafayette,ACT
+Thomas Incoom,48,CAR,ST,6'2,265,27,3,Central Michigan,ACT
+Cam Jackson,92,CAR,DT,6'6,328,23,R,Florida,ACT
+Mike Jackson,2,CAR,CB,6'1,210,29,5,Miami,ACT
+JJ Jansen,44,CAR,LS,6'2,235,40,18,Notre Dame,ACT
+Montrell Johnson Jr.,37,CAR,RB,5'11,217,23,R,Florida,ACT
+Patrick Jones II,91,CAR,OLB,6'4,264,27,5,Pittsburgh,ACT
+Xavier Legette,17,CAR,WR,6'3,227,25,2,South Carolina,ACT
+Damien Lewis,68,CAR,G,6'2,327,28,6,LSU,ACT
+Sam Martin,6,CAR,P,6'1,205,35,13,Appalachian State,ACT
+Bam Martin-Scott,57,CAR,LB,6'2,231,25,R,South Carolina,ACT
+Damarri Mathis,28,CAR,CB,5'11,195,26,4,Pittsburgh,ACT
+Cade Mays,64,CAR,C,6'6,325,26,4,Tennessee,ACT
+Tetairoa McMillan,4,CAR,WR,6'5,212,22,R,Arizona,ACT
+James Mitchell,85,CAR,TE,6'4,249,26,3,Virginia Tech,ACT
+Tre'von Moehrig,7,CAR,S,6'2,202,26,5,TCU,ACT
+David Moore,83,CAR,WR,6'1,220,31,7,East Central,ACT
+Taylor Moton,72,CAR,T,6'5,325,31,9,Western Michigan,ACT
+Jamil Muhammad,49,CAR,LB,6'1,260,25,R,USC,ACT
+Mapalo Mwansa,58,CAR,LB,6'2,230,21,R,,ACT
+Yosh Nijman,77,CAR,T,6'7,314,30,6,Virginia Tech,ACT
+Maema Njongmeta,55,CAR,LB,6'1,230,24,2,Wisconsin,ACT
+Bryce Pierre,45,CAR,TE,6'5,255,25,R,UCLA,ACT
+Lathan Ransom,22,CAR,S,6'1,206,23,R,Ohio State,ACT
+LaBryan Ray,93,CAR,DE,6'4,290,28,3,Alabama,ACT
+Ja'seem Reed,86,CAR,WR,6'2,195,22,R,San Diego,ACT
+Michael Reid,25,CAR,CB,6'2,200,23,R,South Dakota,ACT
+Demani Richardson,36,CAR,S,6'1,215,25,2,Texas A&M,ACT
+A'Shawn Robinson,94,CAR,DT,6'3,320,30,10,Alabama,ACT
+Robert Rochell,33,CAR,CB,6'2,195,27,5,Central Arkansas,ACT
+Christian Rozeboom,56,CAR,ILB,6'2,230,29,5,South Dakota State,ACT
+Nick Samac,60,CAR,C,6'4,314,24,2,Michigan State,ACT
+Ja'Tavion Sanders,0,CAR,TE,6'4,252,22,2,Texas,ACT
+Nick Scott,21,CAR,FS,5'11,200,30,7,Penn State,ACT
+Nic Scourton,11,CAR,OLB,6'2,257,21,R,Texas A&M,ACT
+Isaiah Simmons,27,CAR,S,6'4,238,27,6,Clemson,ACT
+Ainias Smith,80,CAR,WR,5'9,176,24,2,Texas A&M,ACT
+Chau Smith-Wade,26,CAR,CB,5'11,176,23,2,Washington State,ACT
+Corey Thornton,31,CAR,CB,6'1,195,25,R,Louisville,ACT
+Brycen Tremayne,87,CAR,WR,6'4,212,26,1,Stanford,ACT
+Tommy Tremble,82,CAR,TE,6'4,250,25,5,Notre Dame,ACT
+Anthony Tyus III,34,CAR,RB,6'1,226,22,R,Ohio,ACT
+Princely Umanmielen,3,CAR,OLB,6'4,244,23,R,Mississippi,ACT
+Trevin Wallace,32,CAR,ILB,6'1,244,22,2,Kentucky,ACT
+Tershawn Wharton,99,CAR,DT,6'1,280,27,6,Missouri-Rolla,ACT
+Jacoby Windmon,41,CAR,LB,6'2,250,24,2,Michigan State,ACT
+D.J. Wonnum,98,CAR,OLB,6'5,258,28,6,South Carolina,ACT
+Bryce Young,9,CAR,QB,5'10,204,24,3,Alabama,ACT
+Chandler Zavala,62,CAR,G,6'3,322,26,3,NC State,ACT
+Ugo Amadi,0,NO,DB,5'9,201,28,7,Oregon,ACT
+Kevin Austin Jr.,81,NO,WR,6'2,200,25,2,Notre Dame,ACT
+Kelvin Banks Jr.,71,NO,T,6'5,315,21,R,Texas,ACT
+Ronnie Bell,85,NO,WR,6'1,192,26,3,Michigan,ACT
+Khristian Boyd,97,NO,DT,6'2,320,25,2,Northern Iowa,ACT
+Bryan Bresee,90,NO,DT,6'5,305,24,3,Clemson,ACT
+Jonathan Bullard,98,NO,DE,6'3,290,32,10,Florida,ACT
+Terrell Burgess,26,NO,S,5'11,202,28,5,Utah,ACT
+Demario Davis,56,NO,LB,6'2,248,37,14,Arkansas State,ACT
+Fadil Diggs,40,NO,DE,6'4,257,24,R,Syracuse,ACT
+Audric Estimé,30,NO,RB,5'11,227,22,2,Notre Dame,ACT
+Jaylan Ford,53,NO,LB,6'2,240,24,2,Texas,ACT
+Luke Fortner,79,NO,OL,6'4,307,27,4,Kentucky,ACT
+Taliese Fuaga,75,NO,T,6'6,324,23,2,Oregon State,ACT
+Davon Godchaux,92,NO,DT,6'3,330,31,9,LSU,ACT
+Carl Granderson,96,NO,DE,6'5,261,29,7,Wyoming,ACT
+Taysom Hill,7,NO,QB,6'2,221,35,9,BYU,ACT
+Jordan Howden,31,NO,DB,6'1,209,25,3,Minnesota,ACT
+Evan Hull,34,NO,RB,5'10,209,25,2,Northwestern,ACT
+Juwan Johnson,83,NO,TE,6'4,231,29,6,Oregon,ACT
+Cameron Jordan,94,NO,DE,6'4,287,36,15,California,ACT
+Alvin Kamara,41,NO,RB,5'10,215,30,9,Tennessee,ACT
+Kai Kroeger,32,NO,P,6'3,213,23,R,South Carolina,ACT
+Moliki Matavao,80,NO,TE,6'6,263,22,R,UCLA,ACT
+Kool-Aid McKinstry,4,NO,CB,5'11,199,23,2,Alabama,ACT
+Chris Olave,12,NO,WR,6'1,187,25,4,Ohio State,ACT
+Dante Pettis,11,NO,WR,6'1,195,30,7,Washington,ACT
+Dillon Radunz,77,NO,OL,6'6,301,27,5,North Dakota State,ACT
+Spencer Rattler,2,NO,QB,6'1,211,25,2,South Carolina,ACT
+Justin Reid,21,NO,S,6'1,207,29,8,Stanford,ACT
+Asim Richards,72,NO,OL,6'4,307,25,3,North Carolina,ACT
+John Ridgeway III,95,NO,DT,6'5,321,26,4,Arkansas,ACT
+Quincy Riley,29,NO,CB,5'11,195,24,R,Louisville,ACT
+Cesar Ruiz,51,NO,C/G,6'4,316,26,6,Michigan,ACT
+Chris Rumph II,58,NO,DE,6'2,244,27,5,Duke,ACT
+Jonas Sanker,33,NO,S,6'1,211,24,R,Virginia,ACT
+Nathan Shepherd,93,NO,DT,6'4,315,32,8,Fort Hays State,ACT
+William Sherman,66,NO,G,6'4,300,26,1,Colorado,ACT
+Tyler Shough,6,NO,QB,6'5,219,26,R,Louisville,ACT
+Torricelli Simpkins III,68,NO,G,6'5,312,23,R,South Carolina,ACT
+Charlie Smyth,39,NO,K,6'4,210,24,1,International Pathway Program,ACT
+Isaiah Stalbird,44,NO,LB,6'1,215,25,1,South Dakota State,ACT
+Danny Stutsman,28,NO,LB,6'3,233,22,R,Oklahoma,ACT
+Alontae Taylor,1,NO,CB,6'1,199,27,4,Tennessee,ACT
+Samori Toure,89,NO,WR,6'1,196,27,3,Nebraska,ACT
+Xavier Truss,74,NO,T/G,6'7,320,24,R,Georgia,ACT
+Treyton Welch,82,NO,TE,6'4,240,25,1,Wyoming,ACT
+Pete Werner,20,NO,LB,6'3,242,26,5,Ohio State,ACT
+Jonah Williams,54,NO,DE,6'5,275,30,5,Weber State,ACT
+Zach Wood,49,NO,LS,6'3,255,33,9,Southern Methodist,ACT
+Rejzohn Wright,25,NO,CB,6'2,193,25,2,Oregon State,ACT
+Isaac Yiadom,27,NO,CB,6'1,188,29,8,Boston College,ACT
+Chase Young,99,NO,DE,6'5,265,26,6,Ohio State,ACT
+Julian Blackmon,23,NO,S,6'1,202,27,6,Utah,IR
+Vernon Broughton,91,NO,DT,6'5,311,24,R,Texas,IR
+Will Clapp,76,NO,C/G,6'5,314,30,8,LSU,IR
+Michael Davis,43,NO,CB,6'2,196,30,9,BYU,IR
+Erik McCoy,78,NO,C/G,6'4,303,28,7,Texas A&M,IR
+Bub Means,16,NO,WR,6'2,215,25,2,Pittsburgh,IR
+Kendre Miller,5,NO,RB,6'1,220,23,3,TCU,IR
+Zaire Mitchell-Paden,84,NO,TE,6'5,257,26,1,Florida Atlantic,IR
+Foster Moreau,87,NO,TE,6'4,250,28,7,LSU,IR
+Devin Neal,24,NO,RB,5'11,213,22,R,Kansas,IR
+Trey Palmer,17,NO,WR,6'1,190,24,3,Nebraska,IR
+Mason Pline,85,NO,TE,6'7,260,26,1,Furman,IR
+Ja'Lynn Polk,13,NO,WR,6'1,203,23,2,Washington,IR
+Nick Saldiveri,64,NO,OL,6'6,316,25,3,Old Dominion,IR
+Jack Stoll,88,NO,TE,6'4,247,28,5,Nebraska,IR
+Mason Tipton,15,NO,WR,5'11,187,25,2,Yale,IR
+Devaughn Vele,14,NO,WR,6'5,210,28,2,Utah,IR
+Landon Young,67,NO,T,6'7,321,28,5,Kentucky,IR
+Robert Beal Jr.,51,SF,DL,6'4,250,26,3,Georgia,ACT
+Kendrick Bourne,84,SF,WR,6'1,205,30,9,Eastern Washington,ACT
+Jake Brendel,64,SF,OL,6'4,299,33,8,UCLA,ACT
+Ji'Ayir Brown,27,SF,S,5'11,202,26,3,Penn State,ACT
+Spencer Burford,74,SF,OL,6'4,300,25,4,Texas-San Antonio,ACT
+Connor Colby,75,SF,OL,6'5,309,23,R,Iowa,ACT
+Alfred Collins,95,SF,DL,6'5,332,24,R,Texas,ACT
+Kalia Davis,93,SF,DL,6'2,310,27,4,Central Florida,ACT
+Jordan Elliott,92,SF,DL,6'4,303,28,6,Missouri,ACT
+Luke Farrell,89,SF,TE,6'5,250,28,5,Ohio State,ACT
+Clelin Ferrell,96,SF,DL,6'4,265,28,7,Clemson,ACT
+Luke Gifford,57,SF,LB,6'3,243,30,7,Nebraska,ACT
+Kevin Givens,90,SF,DL,6'1,285,28,6,Penn State,ACT
+Jalen Graham,41,SF,LB,6'3,220,25,3,Purdue,ACT
+Renardo Green,0,SF,CB,6'1,186,25,2,Florida State,ACT
+Yetur Gross-Matos,94,SF,DL,6'5,265,27,6,Penn State,ACT
+Isaac Guerendo,31,SF,RB,6'1,221,25,2,Louisville,ACT
+Matt Hennessy,61,SF,OL,6'3,315,28,6,Temple,ACT
+Bryce Huff,47,SF,DL,6'3,255,27,6,Memphis,ACT
+Jordan James,29,SF,RB,5'9,208,21,R,Oregon,ACT
+Jauan Jennings,15,SF,WR,6'3,212,28,5,Tennessee,ACT
+Mac Jones,10,SF,QB,6'3,220,27,5,Alabama,ACT
+Kyle Juszczyk,44,SF,FB,6'2,235,34,13,Harvard,ACT
+Eric Kendricks,43,SF,LB,6'1,232,33,11,UCLA,ACT
+Deommodore Lenoir,2,SF,DB,5'10,200,26,5,Oregon,ACT
+Chase Lucas,26,SF,CB,5'11,184,28,3,Arizona State,ACT
+Darrell Luter Jr.,28,SF,CB,6'1,190,25,3,South Alabama,ACT
+Christian McCaffrey,23,SF,RB,5'11,210,29,9,Stanford,ACT
+Colton McKivitz,68,SF,OL,6'6,301,29,6,West Virginia,ACT
+Skyy Moore,9,SF,WR,5'10,195,25,4,Western Michigan,ACT
+Thomas Morstead,7,SF,P,6'4,225,39,17,SMU,ACT
+Malik Mustapha,6,SF,S,5'10,206,23,2,Wake Forest,ACT
+Siran Neal,33,SF,DB,6'1,206,31,8,Jacksonville State,ACT
+Sam Okuayinonu,91,SF,DL,6'1,269,27,3,Maryland,ACT
+Ricky Pearsall,1,SF,WR,6'1,189,25,2,Florida,ACT
+Eddy Piñeiro,18,SF,K,5'11,190,30,8,Florida,ACT
+Jason Pinnock,25,SF,S,6'1,200,26,5,Pittsburgh,ACT
+Austen Pleasants,62,SF,OL,6'7,330,28,1,Ohio,ACT
+Dominick Puni,77,SF,OL,6'5,313,25,2,Kansas,ACT
+Brock Purdy,13,SF,QB,6'1,220,26,4,Iowa State,ACT
+Brian Robinson Jr.,3,SF,RB,6'1,225,26,2,Alabama,ACT
+Curtis Robinson,59,SF,LB,6'3,235,27,4,Stanford,ACT
+Demarcus Robinson,5,SF,WR,6'1,202,31,10,Florida,ACT
+Marques Sigle,36,SF,S,5'11,199,23,R,Kansas State,ACT
+Upton Stout,20,SF,CB,5'9,181,24,R,Western Kentucky,ACT
+Jake Tonges,88,SF,TE,6'4,240,26,3,California,ACT
+Malik Turner,81,SF,WR,6'2,202,30,5,Illinois,ACT
+Garret Wallow,49,SF,LB,6'2,230,27,5,TCU,ACT
+Jordan Watkins,17,SF,WR,5'11,196,24,R,Mississippi,ACT
+Jon Weeks,46,SF,LS,5'10,242,40,16,Baylor,ACT
+C.J. West,99,SF,DL,6'1,316,23,R,Indiana,ACT
+Keion White,56,SF,DL,6'5,290,27,3,Georgia Tech,ACT
+Trent Williams,71,SF,T,6'5,320,37,16,Oklahoma,ACT
+Brayden Willis,82,SF,TE,6'4,240,26,3,Oklahoma,ACT
+Dee Winters,53,SF,LB,5'11,227,25,3,TCU,ACT
+Ben Bartch,78,SF,OL,6'6,315,27,6,St. John's (MN),IR
+Tatum Bethune,48,SF,LB,6'1,230,24,2,Florida State,IR
+Nick Bosa,97,SF,DL,6'4,266,28,7,Ohio State,IR
+Jacob Cowing,19,SF,WR,5'9,171,25,2,Arizona,IR
+Tarron Jackson,56,SF,DL,6'2,254,27,3,Coastal Carolina,IR
+George Kittle,85,SF,TE,6'4,250,32,9,Iowa,IR
+Nick Martin,45,SF,LB,5'11,221,23,R,Oklahoma State,IR
+Jakob Robinson,49,SF,CB,5'10,181,25,R,BYU,IR
+Patrick Taylor Jr.,32,SF,RB,6'2,217,27,5,Memphis,IR
+Trent Taylor,81,SF,WR,5'8,180,31,7,Louisiana Tech,IR
+Tre Tomlinson,35,SF,CB,5'9,177,25,3,TCU,IR
+Fred Warner,54,SF,LB,6'3,230,29,8,Brigham Young,IR
+Mykel Williams,98,SF,DL,6'5,267,21,R,Georgia,IR
+Kurtis Rourke,4,SF,QB,6'4,220,25,R,Indiana,IR
+Isaiah Adams,74,ARI,OL,6'4,315,25,2,Illinois,ACT
+Budda Baker,3,ARI,S,5'10,195,30,9,Washington,ACT
+Kelvin Beachum,68,ARI,OL,6'3,308,36,14,Southern Methodist,ACT
+Aaron Brewer,46,ARI,LS,6'5,232,35,14,San Diego State,ACT
+Jacoby Brissett,7,ARI,QB,6'4,235,33,10,N.C. State,ACT
+Jalen Brooks,86,ARI,WR,6'2,205,25,3,South Carolina,ACT
+Evan Brown,63,ARI,OL,6'3,320,29,7,SMU,ACT
+Pharaoh Brown,49,ARI,TE,6'5,246,31,8,Oregon,ACT
+Baron Browning,5,ARI,OLB,6'3,255,26,5,Ohio State,ACT
+Jordan Burch,52,ARI,OLB,6'4,280,24,R,Oregon,ACT
+Denzel Burke,29,ARI,CB,5'11,190,23,R,Ohio State,ACT
+Calais Campbell,93,ARI,DL,6'8,315,39,18,Miami,ACT
+Michael Carter,22,ARI,RB,5'8,201,26,4,North Carolina,ACT
+Zachary Carter,90,ARI,DL,6'4,290,26,4,Florida,ACT
+L.J. Collier,91,ARI,DL,6'2,300,30,7,TCU,ACT
+Zaven Collins,25,ARI,OLB,6'4,270,26,5,Tulsa,ACT
+Hayden Conner,58,ARI,OL,6'6,315,23,R,Texas,ACT
+Akeem Davis-Gaither,27,ARI,ILB,6'2,238,28,6,Appalachian State,ACT
+Josiah Deguara,45,ARI,TE,6'2,240,29,5,Cincinnati,ACT
+Emari Demercado,31,ARI,RB,5'9,215,27,3,TCU,ACT
+Rivaldo Fairweather,41,ARI,TE,6'3,249,23,R,Auburn,ACT
+Hjalte Froholdt,72,ARI,OL,6'5,310,29,7,Arkansas,ACT
+Josh Fryar,78,ARI,OL,6'5,320,24,R,Ohio State,ACT
+Jon Gaines II,71,ARI,OL,6'4,315,26,3,UCLA,ACT
+Matt Haack,39,ARI,P,6'1,205,31,7,Arizona State,ACT
+Darren Hall,30,ARI,CB,6'1,195,25,4,San Diego State,ACT
+Elijah Higgins,84,ARI,TE,6'3,245,25,3,Stanford,ACT
+Demontrey Jacobs,66,ARI,OL,6'6,315,27,2,South Florida,ACT
+Will Johnson,0,ARI,CB,6'2,200,22,R,Michigan,ACT
+Christian Jones,75,ARI,OL,6'5,320,25,2,Texas,ACT
+Elijah Jones,28,ARI,CB,6'1,185,26,2,Boston College,ACT
+Joshua Karty,98,ARI,K,6'2,208,23,2,Stanford,ACT
+Austin Keys,53,ARI,ILB,6'2,244,23,R,Auburn,ACT
+Corey Kiner,37,ARI,RB,5'9,210,24,R,Cincinnati,ACT
+Kalen King,35,ARI,CB,5'11,190,23,1,Penn State,ACT
+Trey McBride,85,ARI,TE,6'4,246,26,4,Colorado State,ACT
+Max Melton,16,ARI,CB,5'11,187,23,2,Rutgers,ACT
+PJ Mustipher,79,ARI,DL,6'4,320,27,1,Penn State,ACT
+BJ Ojulari,9,ARI,OLB,6'2,248,23,3,LSU,ACT
+Tejhaun Palmer,83,ARI,WR,6'1,210,25,1,UAB,ACT
+Owen Pappoe,44,ARI,ILB,6'1,230,25,3,Auburn,ACT
+Darius Robinson,56,ARI,DL,6'5,285,24,2,Missouri,ACT
+Chad Ryland,38,ARI,K,6'1,195,26,3,Maryland,ACT
+Cody Simon,50,ARI,ILB,6'2,230,23,R,Ohio State,ACT
+Kedon Slovis,19,ARI,QB,6'2,223,24,1,BYU,ACT
+Dante Stills,55,ARI,DL,6'4,300,26,3,West Virginia,ACT
+Josh Sweat,10,ARI,OLB,6'5,265,28,8,Florida State,ACT
+Dadrion Taylor-Demerson,42,ARI,S,5'10,197,25,2,Texas Tech,ACT
+Jalen Thompson,34,ARI,S,5'11,190,27,7,Washington State,ACT
+Channing Tindall,47,ARI,ILB,6'2,232,25,4,Georgia,ACT
+Dalvin Tomlinson,94,ARI,DL,6'3,335,32,9,Alabama,ACT
+Xavier Weaver,89,ARI,WR,6'1,185,25,2,Colorado,ACT
+Michael Wilson,14,ARI,WR,6'2,213,25,3,Stanford,ACT
+Andre Baccellia,82,ARI,WR,5'10,180,29,2,Washington,IR
+Trey Benson,33,ARI,RB,6'1,220,23,2,Florida State,IR
+Joey Blount,32,ARI,S,6'1,195,27,4,Virginia,IR
+Kei'Trel Clark,13,ARI,CB,5'10,181,24,3,Louisville,IR
+James Conner,6,ARI,RB,6'1,233,30,9,Pittsburgh,IR
+Kitan Crawford,36,ARI,S,5'11,202,24,R,Nevada,IR
+Greg Dortch,4,ARI,WR,5'7,180,27,5,Wake Forest,IR
+Simi Fehoko,80,ARI,WR,6'4,225,28,5,Stanford,IR
+Blake Gillikin,12,ARI,P,6'2,196,28,6,Penn State,IR
+Marvin Harrison Jr.,18,ARI,WR,6'3,220,23,2,Ohio State,IR
+Will Hernandez,76,ARI,OL,6'2,332,30,8,Texas-El Paso,IR
+Paris Johnson Jr.,70,ARI,OL,6'6,325,24,3,Ohio State,IR
+Zay Jones,17,ARI,WR,6'2,200,30,9,East Carolina,IR
+Bam Knight,20,ARI,RB,5'11,210,24,3,N.C. State,IR
+Kyler Murray,1,ARI,QB,5'10,207,28,7,Oklahoma,IR
+Bilal Nichols,92,ARI,DL,6'3,300,29,8,Delaware,IR
+Walter Nolen III,97,ARI,DL,6'4,300,22,R,Mississippi,IR
+Tip Reiman,87,ARI,TE,6'5,271,24,2,Illinois,IR
+J.J. Russell,51,ARI,ILB,6'1,225,27,4,Memphis,IR
+Valentin Senn,69,ARI,OL,6'7,310,25,R,Connecticut,IR
+Starling Thomas V,24,ARI,CB,5'10,194,26,3,UAB,IR
+Travis Vokolek,81,ARI,TE,6'6,260,27,2,Nebraska,IR
+Garrett Williams,21,ARI,CB,5'10,192,24,3,Syracuse,IR
+Jonah Williams,73,ARI,OL,6'5,312,28,7,Alabama,IR
+Mack Wilson Sr.,2,ARI,ILB,6'1,240,28,7,Alabama,IR
+Sean Murphy-Bunting,23,ARI,CB,6'1,195,28,7,Central Michigan,IR
+Davante Adams,17,LAR,WR,6'1,204,33,12,Fresno State,ACT
+Davis Allen,87,LAR,TE,6'6,253,25,3,Clemson,ACT
+Tutu Atwell,5,LAR,WR,5'9,165,26,5,Louisville,ACT
+Steve Avila,73,LAR,OL,6'3,332,26,3,TCU,ACT
+Stetson Bennett IV,13,LAR,QB,5'11,192,28,2,Georgia,ACT
+Blake Corum,22,LAR,RB,5'8,202,25,2,Michigan,ACT
+Kam Curl,3,LAR,S,6'2,207,26,6,Arkansas,ACT
+Tyler Davis,90,LAR,DE,6'2,306,25,2,Clemson,ACT
+Justin Dedich,67,LAR,OL,6'2,296,25,2,USC,ACT
+Kevin Dotson,69,LAR,OL,6'4,328,29,6,Louisiana-Lafayette,ACT
+Cobie Durant,14,LAR,CB,5'11,181,28,4,South Carolina State,ACT
+Ethan Evans,42,LAR,P,6'3,253,24,3,Wingate,ACT
+Terrance Ferguson,18,LAR,TE,6'5,252,22,R,Oregon,ACT
+Braden Fiske,55,LAR,DE,6'5,294,26,2,Florida State,ACT
+Emmanuel Forbes Jr.,1,LAR,CB,6'1,173,25,3,Mississippi State,ACT
+Poona Ford,95,LAR,NT,5'11,314,30,8,Texas,ACT
+Jimmy Garoppolo,11,LAR,QB,6'2,226,34,12,Eastern Illinois,ACT
+Ty Hamilton,57,LAR,DL,6'3,301,23,R,Ohio State,ACT
+Nick Hampton,6,LAR,OLB,6'3,251,25,3,Appalachian State,ACT
+Tyler Higbee,89,LAR,TE,6'6,253,33,10,Western Kentucky,ACT
+D.J. Humphries,72,LAR,OL,6'5,302,32,11,Florida,ACT
+Jarquez Hunter,27,LAR,RB,5'10,211,23,R,Auburn,ACT
+Alaric Jackson,77,LAR,OL,6'7,338,27,5,Iowa,ACT
+Desjuan Johnson,94,LAR,DE,6'3,278,26,3,Toledo,ACT
+Derion Kendrick,21,LAR,CB,6'1,190,25,4,Georgia,ACT
+Kamren Kinchens,26,LAR,S,6'1,201,23,2,Miami,ACT
+Quentin Lake,37,LAR,S,6'1,204,27,4,UCLA,ACT
+Nate Landman,53,LAR,ILB,6'3,234,27,4,Colorado,ACT
+Beaux Limmer,50,LAR,OL,6'5,318,24,2,Arkansas,ACT
+Warren McClendon Jr.,71,LAR,OL,6'4,315,24,3,Georgia,ACT
+Jaylen McCollough,2,LAR,S,6'1,211,25,2,Tennessee,ACT
+Roger McCreary,25,LAR,CB,5'11,190,26,4,Auburn,ACT
+Jake McQuaide,44,LAR,LS,6'2,235,38,15,Ohio State,ACT
+Harrison Mevis,92,LAR,K,6'1,245,23,1,Missouri,ACT
+Konata Mumpfield,15,LAR,WR,6'1,188,23,R,Pittsburgh,ACT
+Larrell Murchison,52,LAR,DE,6'2,295,28,6,N.C. State,ACT
+Puka Nacua,12,LAR,WR,6'2,216,24,3,BYU,ACT
+Elias Neal,24,LAR,ILB,6'1,221,24,2,Marshall,ACT
+Colby Parkinson,84,LAR,TE,6'7,266,27,6,Stanford,ACT
+David Quessenberry,68,LAR,OL,6'5,310,35,8,San Jose State,ACT
+Troy Reeder,51,LAR,ILB,6'3,234,31,7,Delaware,ACT
+Ronnie Rivers,20,LAR,RB,5'9,198,27,4,Fresno State,ACT
+Coleman Shelton,65,LAR,OL,6'5,292,30,7,Washington,ACT
+Xavier Smith,19,LAR,WR,5'9,180,28,2,Florida A&M,ACT
+Omar Speights,48,LAR,ILB,6'1,234,24,2,LSU,ACT
+Matthew Stafford,9,LAR,QB,6'3,214,38,17,Georgia,ACT
+Josaiah Stewart,10,LAR,OLB,6'1,251,22,R,Michigan,ACT
+Kobie Turner,91,LAR,DE,6'2,294,26,3,Wake Forest,ACT
+Nick Vannett,38,LAR,TE,6'5,257,32,10,Ohio State,ACT
+Jared Verse,8,LAR,OLB,6'4,265,25,2,Florida State,ACT
+Josh Wallace,30,LAR,CB,6'1,190,25,2,Michigan,ACT
+Jordan Whittington,88,LAR,WR,6'1,202,25,2,Texas,ACT
+Darious Williams,31,LAR,CB,5'9,191,32,8,Alabama-Birmingham,ACT
+Kyren Williams,23,LAR,RB,5'9,207,25,4,Notre Dame,ACT
+Byron Young,0,LAR,OLB,6'2,260,27,3,Tennessee,ACT
+Shaun Dolac,56,LAR,ILB,6'1,222,24,R,Buffalo,IR
+Keir Thomas II,96,LAR,OLB,6'2,260,28,3,Florida State,IR
+Ahkello Witherspoon,4,LAR,CB,6'2,215,30,9,Colorado,IR
+Rob Havenstein,79,LAR,OL,6'8,322,33,11,Wisconsin,IR
+Elijah Arroyo,18,SEA,TE,6'5,254,22,R,Miami,ACT
+AJ Barner,88,SEA,TE,6'6,251,23,2,Michigan,ACT
+Jake Bobo,19,SEA,WR,6'4,207,27,3,Duke,ACT
+Anthony Bradford,75,SEA,G,6'4,335,24,3,LSU,ACT
+Coby Bryant,8,SEA,S,6'1,193,26,4,Cincinnati,ACT
+Charles Cross,67,SEA,T,6'5,317,25,4,Mississippi State,ACT
+Sam Darnold,14,SEA,QB,6'3,225,28,8,USC,ACT
+Michael Dickson,4,SEA,P,6'2,208,30,8,Texas,ACT
+Nick Emmanwori,3,SEA,S,6'3,220,22,R,South Carolina,ACT
+Derick Hall,58,SEA,LB,6'3,254,24,3,Auburn,ACT
+Christian Haynes,64,SEA,G,6'2,318,25,2,Connecticut,ACT
+George Holani,36,SEA,RB,5'11,210,26,2,Boise State,ACT
+Jared Ivey,51,SEA,LB,6'6,274,24,R,Mississippi,ACT
+Josh Jobe,29,SEA,CB,5'11,190,27,4,Alabama,ACT
+Ernest Jones IV,13,SEA,LB,6'2,230,26,5,South Carolina,ACT
+Josh Jones,74,SEA,G/T,6'7,339,28,6,Houston,ACT
+Nick Kallerup,89,SEA,TE,6'5,266,24,R,Minnesota,ACT
+Tyrice Knight,48,SEA,LB,6'1,233,26,2,Texas-El Paso,ACT
+Cooper Kupp,10,SEA,WR,6'1,205,32,9,Eastern Washington,ACT
+DeMarcus Lawrence,0,SEA,LB,6'3,254,33,12,Boise State,ACT
+Drew Lock,2,SEA,QB,6'4,228,29,7,Missouri,ACT
+Julian Love,20,SEA,S,5'11,195,27,7,Notre Dame,ACT
+Abraham Lucas,72,SEA,T,6'6,322,27,4,Washington State,ACT
+Boye Mafe,53,SEA,LB,6'4,261,27,4,Minnesota,ACT
+Rylie Mills,98,SEA,DE,6'5,290,24,R,Notre Dame,ACT
+Jalen Milroe,6,SEA,QB,6'2,216,23,R,Alabama,ACT
+Mike Morris,94,SEA,DE,6'6,295,24,3,Michigan,ACT
+Byron Murphy II,91,SEA,DT,6'1,306,23,2,Texas,ACT
+Jason Myers,5,SEA,K,5'10,190,34,11,Marist,ACT
+Uchenna Nwosu,7,SEA,LB,6'2,265,29,8,USC,ACT
+Patrick O'Connell,52,SEA,LB,6'1,227,27,2,Montana,ACT
+Ty Okada,39,SEA,S,5'11,193,26,1,Montana State,ACT
+Olu Oluwatimi,55,SEA,C,6'3,309,26,3,Michigan,ACT
+Connor O'Toole,57,SEA,LB,6'3,248,23,R,Utah,ACT
+Robbie Ouzts,40,SEA,FB,6'3,274,23,R,Alabama,ACT
+Brandon Pili,95,SEA,NT,6'3,334,26,3,USC,ACT
+Nehemiah Pritchett,28,SEA,CB,6'1,188,25,2,Auburn,ACT
+Jarran Reed,90,SEA,NT,6'3,315,33,10,Alabama,ACT
+Mason Richman,78,SEA,T/G,6'5,307,23,R,Iowa,ACT
+Brady Russell,38,SEA,FB,6'3,250,27,3,Colorado,ACT
+Eric Saubert,81,SEA,TE,6'5,253,31,8,Drake,ACT
+Rashid Shaheed,22,SEA,WR,6'1,180,27,4,Weber State,ACT
+Jaxon Smith-Njigba,11,SEA,WR,6'1,197,24,3,Ohio State,ACT
+Chris Stoll,41,SEA,LS,6'2,255,27,3,Penn State,ACT
+Jalen Sundell,61,SEA,C,6'5,301,26,2,North Dakota State,ACT
+Chazz Surratt,44,SEA,LB,6'2,233,29,4,North Carolina,ACT
+Drake Thomas,42,SEA,LB,5'11,228,25,3,N.C. State,ACT
+Kenneth Walker III,9,SEA,RB,5'9,211,25,4,Michigan State,ACT
+Leonard Williams,99,SEA,DT,6'5,310,31,11,USC,ACT
+Devon Witherspoon,21,SEA,CB,6'1,185,25,3,Illinois,ACT
+Riq Woolen,27,SEA,CB,6'4,210,26,4,Texas-San Antonio,ACT
+Dareke Young,83,SEA,WR,6'2,224,26,4,Lenoir Rhyne,ACT
+Grey Zabel,76,SEA,G,6'6,316,23,R,North Dakota State,ACT
+Bryce Cabeldue,77,SEA,G,6'4,306,24,R,Kansas,IR
+Zach Charbonnet,26,SEA,RB,6'1,214,25,3,UCLA,IR
+AJ Finley,30,SEA,S,6'1,188,24,3,Mississippi,IR
+Tory Horton,15,SEA,WR,6'2,196,23,R,Colorado State,IR
+Amari Kight,79,SEA,T,6'6,299,25,R,UCF,IR
+Kenny McIntosh,25,SEA,RB,6'1,204,25,3,Georgia,IR
+Cody White,82,SEA,WR,6'3,227,27,4,Michigan State,IR

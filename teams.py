@@ -1,10 +1,13 @@
-class AmericanFootballTeam:
-    def __init__(self, team_name, home_city, coaching_staff=None, roster=None):
+class FootBallTeam:
+    def __init__(self, team_name, division, conference, city, team_roster=None, team_logo=None):
         self.team_name = team_name
-        self.home_city = home_city
-        self.coaching_staff = coaching_staff if coaching_staff is not None else []
-        self.roster = roster if roster is not None else []
-    
+        self.division = division
+        self.conference = conference
+        self.city = city
+        self.team_roster = team_roster if team_roster is not None else []
+        self.team_logo = team_logo
+
+
     def add_player(self, player):
         self.roster.append(player)
     
@@ -12,4 +15,4 @@ class AmericanFootballTeam:
         self.coaching_staff.append(coach)
     
     def __repr__(self):
-        return f"AmericanFootballTeam(name='{self.team_name}', city='{self.home_city}')"
+        return f"FootballTeam(name='{self.team_name}', city='{self.city}')"
